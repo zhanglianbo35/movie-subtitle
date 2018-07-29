@@ -1,0 +1,650 @@
+{1}{1}25.000
+{5}{129}Presents a film based on stories|by Bohumil Hrabal
+{150}{223}SNOWDROP FESTIVITIES
+{320}{398}Screenplay by|Dramaturge
+{450}{498}Starring and Featuring
+{523}{673}Advertise your product or brand here|contact www.OpenSubtitles.org today
+{1628}{1689}2nd Unit Director|Continuity
+{1710}{1773}Cameraman, Assistant cameraman|Lighting Effects
+{1794}{1875}Assistant Set Designer, Make-up|Head stage designer
+{1894}{2008}Costume Designer, Wardrobe|Assistants to Chief of Production
+{2030}{2138}Made with the Collaboration of
+{2167}{2280}Music by|Played by, Conducted by
+{2301}{2398}Sound Recordist, Film Editor|Set Designer
+{2480}{2528}Head of Production Team
+{2564}{2612}Director of Photography
+{2676}{2749}Directed by
+{3069}{3105}Stop!
+{3371}{3457}We must get him!|- Cut him off!
+{3618}{3671}I've got him!|- They've got me!
+{3689}{3726}Fight your way through to our people!
+{3742}{3823}- Hold out! We'll meet again!
+{3839}{3923}And I never saw him again.
+{3932}{4053}...your lips were so close.
+{4086}{4208}As close as they could be...
+{4546}{4670}...and then I was alone
+{4703}{4820}and nothing is as I wished...
+{4885}{4949}You can't be serious, Alfred?!
+{5107}{5178}The operation's ever, Captain.|- Very good!
+{5218}{5290}- How many dead?|- 138.
+{5325}{5383}- Better than we expected.
+{5400}{5435}- Coffee?
+{5446}{5489}- Two lumps, please.
+{5503}{5572}- Many died here.
+{5578}{5701}...long were our kisses...
+{5729}{5782}- The losses were heavy.
+{5785}{5888}138 Red Indians and 47 horses.
+{5892}{5999}...but I wished for more...
+{6002}{6100}Beer hall - THE LODGE
+{6121}{6191}The moon's
+{6193}{6291}behind a cloud
+{6310}{6381}my love weeps
+{6385}{6469}for me aloud.
+{6495}{6618}She knows a poacher's loved one
+{6645}{6747}comes poor second
+{6750}{6839}to his gun.|- Once more!
+{6842}{6942}- She knows a poacher's loved...
+{7129}{7202}...started operation and so far|as to the present day
+{7204}{7290}152 cisterns and 190 vans have been|cleaned. This means that...
+{7385}{7420}Who was that?
+{7423}{7506}- A gipsy, dark and swarthy.|- Rascals...!
+{7526}{7621}- Well, guys...|- Where beer is brewed
+{7629}{7673}there people have good time
+{7676}{7781}- Good night!|- Where beer is brewed
+{7784}{7864}there people have good time
+{7875}{7953}Let us go there and drink
+{7960}{8043}let us drink it, let us drink it...
+{8075}{8116}- Night, boys.
+{8118}{8193}...and drink... let us drink it...
+{8201}{8310}...and now, dear viewers, let me|tell you tonight's programme.
+{8321}{8396}The sports review in a minute...
+{9854}{9906}Well, boys?
+{9970}{10034}As road users you shouldn't drink.
+{10051}{10111}As if you drove a car or motorbike.
+{10209}{10263}There, my friends.
+{10292}{10348}Take a walk.
+{10384}{10447}Fresh air breeds positive thinking.
+{11040}{11086}You've sure deflated us.
+{11950}{12039}Like the Blinded Bulgarians' Return.
+{16858}{16913}Getaway!
+{16933}{16977}You bastard!
+{16980}{17025}No!
+{17150}{17180}THE GARDENERS' GIFT TO KERSKO
+{17534}{17578}No! Nooo!
+{18109}{18163}How wonderful it would be here,
+{18187}{18249}if these damn wasps were gone!
+{18615}{18684}I am giving up!|He's all shitty again!
+{18705}{18783}Ask for the pot, you bastard!
+{18786}{18831}Or I'll beat you up!
+{18834}{18897}I'm sick and tired of you.|- Where is he, damn him?
+{18900}{18959}Jarry, where are you?
+{18978}{19038}Loafing around again, Pop?
+{19268}{19350}Siberian iris?|- Oh no!
+{19353}{19389}- The celandine?|- No.
+{19418}{19487}- Lilies-of-the-valley?|- No.
+{19531}{19598}- Corn-flower?|- No.
+{19621}{19678}- The campion?|- No.
+{19712}{19772}- The brad'll be late today.
+{19775}{19836}- What flower could it be?
+{19850}{19913}The loveliest you say, and here?
+{19933}{20005}The Anemone?|No.
+{20008}{20064}The purple loosestrife, then?|No?
+{20066}{20160}Now I know!|The tinted gentian!
+{20175}{20210}No again?|THE GARDENERS' GIFT TO KERSKO
+{20218}{20260}Which then, dammit?
+{20262}{20351}- Surely not the Siberian Iris?
+{20356}{20388}- No!
+{20390}{20461}- Which, then?|- The potato!
+{20469}{20535}- I'm hungry by two|when I don't have dumplings.
+{20537}{20591}- Potatoes are my favourite.
+{20600}{20675}Potatoes for the pig and piggie for me.
+{21075}{21133}Go grazing
+{21136}{21218}or you'll be back late!|D'you hear?!
+{21221}{21286}- It would be wonderful here if...|- What?
+{21288}{21378}- Jarry, where are you?|Who're you gabbing with now?
+{21387}{21506}Where are you?|- I'm here. Enjoying the wonders.
+{21515}{21577}- What?|- You've been gone half an hour!
+{21580}{21681}- Quarter of an hour!|- Half an hour!
+{21696}{21755}Wonderful it would be...
+{21759}{21788}You have been gone for half an hour,|- Gone for half an hour...
+{21790}{21832}...so admit it, at least!|- Well, talk!
+{21834}{21858}- The clock doesn't lie.|- So admit it!
+{21861}{21890}- Now talk, say it!
+{21893}{21979}...bloody wasps and tyrannical|screaming!
+{22000}{22061}- Gone for half an hour!
+{22077}{22136}- I plead guilty.
+{23961}{24075}The potato is an orchid.|Even when it starts germinating.
+{24215}{24270}The sprouts are milky tubes.
+{24284}{24388}I plant the sprouts gently
+{24396}{24488}into soil a loose as ground coffee.
+{24511}{24581}When the first sprout shoots out -
+{24584}{24623}what joy...
+{24631}{24713}When the potato blooms|it has a small blossom
+{24718}{24785}like a violet - with a yellow dot.
+{24821}{24901}With these hands I dig up the fruit
+{24912}{24973}of the lovelies flower in the world.
+{25088}{25153}Some hooligans escaped from jail, I bet.
+{25156}{25204}I'll leave the shop lights on.
+{26998}{27114}High time you're taking us out!|Tending your family for once!
+{27213}{27315}I can smell mushrooms.
+{27919}{28007}Where are you off to?!|- Have you gone mad, Pop?
+{28010}{28085}- Hey, Jarry!|- You have gone mad, haven't you?
+{28087}{28121}- Damn it!|- Come back!
+{28124}{28169}- We want to go home!|- Aren't we going for a trip?
+{28172}{28237}- You'll be beggared again!
+{28616}{28704}Hey, geezer...!|I've had just about enough!
+{28710}{28810}- Come back, you crazy old man!|- Oh, shit...
+{28818}{28880}Hey, geezer, out of here!|- Come back! You're nuts!
+{28894}{28950}- He wants him to become beggar|out there.
+{28962}{29025}- Don't make me mad!
+{29038}{29091}- I'm sick and tired of him...
+{29129}{29242}I'm never going anywhere with you again!
+{29591}{29714}Hey! Hey! Hey!...
+{29922}{30010}What a shot!
+{30039}{30075}- Bravo, boss!
+{30450}{30518}Isn't it a lovely animal?
+{30533}{30605}- On behalf of the Hunting Association|we confiscate your bike.
+{30614}{30657}Come here!|You ride,
+{30662}{30705}we'll run behind you.|- I can't
+{30707}{30763}ride a bike...|- Get on and shut up!
+{30791}{30856}- Jarry, we want to go home!
+{31510}{31558}Wasn't your father a baker?
+{31572}{31648}- He was. Before mixing the dough
+{31654}{31726}he'd fire the oven with beech wood,
+{31737}{31773}sweep it out
+{31779}{31856}and only then place in God's gift.
+{31866}{31946}But before he started mixing
+{31954}{31994}the dought...
+{31997}{32036}...the...
+{32038}{32076}Hold my bike for me!
+{32083}{32173}First Dad would look at the sky
+{32188}{32233}according to the weather
+{32237}{32282}he'd put in more leaven
+{32285}{32368}or less.
+{32375}{32442}Bread leaven is endless.
+{32447}{32518}The yeast leavens the flour,
+{32538}{32630}Dad left the fermenting dough|in a small trough
+{32637}{32679}covered with linen.
+{32689}{32758}He'd add a drop of warm water
+{32761}{32807}and the leaven leavened
+{32810}{32901}and grew into a hundred leaves
+{32906}{32999}leaves according to need.
+{33001}{33067}A miracle.
+{33164}{33278}You're envious 'cause I did a reader
+{33293}{33361}school kids have been using|for 10 years.
+{33393}{33476}Professor Jirasek used to come here
+{33479}{33573}and say that this mineral water|was the healthiest
+{33575}{33616}in Central Europe.
+{33626}{33738}- There's a lot of traffic,|I'll wait.
+{33742}{33798}I want to take my girlfriend|to Podebrady for lunch.
+{33800}{33858}- You drive a Trabant too?|- Yes,
+{33869}{33923}mine's a dependable car.
+{33932}{33987}I was taking a pork-feast to friends,
+{33992}{34051}the soup can tipped over
+{34054}{34126}I tried to save it|drove into a ditch and upturned the car
+{34129}{34190}and nothing happened
+{34212}{34295}except my hair was full of barley.
+{34311}{34356}"- You know about cars;"
+{34375}{34412}- They say I'm an expert.
+{34418}{34479}One learns by one's mistakes.
+{34499}{34591}Fool that I am the carton of eggs
+{34612}{34648}for my friends started slipping
+{34650}{34732}and to save those 20 eggs
+{34741}{34823}I finally smashed all two hundred.
+{34856}{34921}Then we cleaned the car all day
+{34930}{35003}the yolks were drying all over
+{35008}{35089}the sun was scorching and the stink
+{35100}{35176}for two months that car stank
+{35183}{35241}like the local mineral water.
+{35262}{35329}So I can only give lifts to my chums,
+{35331}{35420}any stranger would think|I'd shit my trousers.
+{35529}{35621}Hey!|Wait for me, chums!
+{36317}{36353}I'm thirsty.
+{36430}{36465}Damn!
+{37168}{37212}This is the shoulder.
+{37225}{37320}This part of the pig is the leg,
+{37325}{37393}from which ham is made.
+{37424}{37542}These are the ribs,|the butcher makes a "pocket"...
+{37642}{37668}ELEMENTARY SCHOOL|LOCAL PEOPLE'S LIBRARY
+{37816}{37856}What is it, children?
+{37973}{38048}...the best meat of the crusade...|Climb onto your desks!
+{38488}{38534}Watch out!|- Aim at his eye!
+{38537}{38569}- I know.|- Good morning.
+{39257}{39345}Back to your seats, children.
+{39510}{39548}May I?|- Of course.
+{39598}{39648}What is it, children?|Quietly!
+{39807}{39837}Sit down, children.
+{40158}{40223}Mr Junek! Maestro!
+{40231}{40279}My kids were fighting
+{40285}{40360}and they broke the angel's bottom.
+{40364}{40452}Would you mend it for me?|- I'm an academy painter, lady.
+{40455}{40521}I don't mend bottoms.|- It won't kill you to mend
+{40533}{40593}the angel's bottom!
+{40611}{40675}- I illustrated the reader
+{40676}{40730}kids have been using for 10 years.
+{40733}{40810}I can't mend angels!
+{40837}{40898}I want to become an Artist of Merit!
+{40969}{41028}Gentlemen, as hunters I wish
+{41031}{41102}you'd tell the children|about this tusker!
+{41151}{41241}- Dear children, here you see
+{41250}{41291}a wild boar.
+{41305}{41345}The male is a hog, the female a swine.
+{41352}{41408}The muzzle is called the snout.
+{41416}{41475}The eyes are called "lights"
+{41481}{41542}which were "extinguished"|by the fatal shot.
+{41563}{41616}He is covered with bristles.
+{41630}{41671}His blood is called "colour".
+{41691}{41729}I must be sclerotic.
+{41736}{41840}I forgot my eighth of butter.|- You're lucky I haven't closed shop.
+{41850}{41882}But now we are here alone...
+{41885}{41969}My daughter's getting married,|d'you have a botched-up painting?
+{41972}{42008}I could give it to her.
+{42047}{42091}- What botched-up painting?
+{42098}{42153}- One you foozled up.
+{42160}{42248}- I don't foozle up paintings, lady!
+{42258}{42304}I'm an Academy Painter!
+{42318}{42377}I only paint things I can paint!
+{42392}{42428}I'll pay!
+{42457}{42518}- I've handed in the takings...
+{42530}{42565}Okay,
+{42579}{42690}here's a salami that's 27.50
+{42718}{42756}a bottle of rum
+{42787}{42823}two packs of butter...
+{42872}{42930}...a boo of matches|and that makes a hundred!
+{42942}{42985}- I can paint even what I can't.
+{43006}{43053}I botched-up painting?
+{43080}{43121}No way!
+{43887}{43924}Here they come!
+{44002}{44038}Wait!
+{44300}{44378}Wild boar family life is very moving.
+{44401}{44503}They love each other like humans do.|- What a guy, boys!
+{44506}{44606}- That head will get our hunters|first prize
+{44610}{44653}at the Budapest exhibition!
+{44662}{44698}- A nice day, huh?
+{44700}{44768}- Hey hoo!|- Wait!
+{44794}{44867}Who shot the wild boar?|- Me!
+{44872}{44967}- So yours is the hunter's right,|the innards and the trophies.
+{44981}{45037}The rest is ours
+{45039}{45116}'cause it extinguished in our village!
+{45175}{45242}- It extinguished in the school|that belongs to both villages!
+{45245}{45325}- The school is common|but the hunting grounds are ours!
+{45327}{45366}- Janecek shot it
+{45368}{45459}and saved our children and the teacher.
+{45462}{45558}- That's true,|but the law's on our side.
+{45575}{45634}The hog's ours!|- Yeah!
+{45729}{45816}- We were the victors we did the running
+{45818}{45882}we risked our lives in the classroom!
+{45900}{45990}- We suffered, and the danger!
+{45995}{46041}You'd do us out of the Feast?
+{46044}{46119}- It's common sense that counts|not he law!
+{46125}{46201}The boar's ours!
+{46210}{46258}You must admit it!
+{46311}{46416}...your towering hills|with wonder fills.
+{46435}{46558}Shining angels,
+{46582}{46706}wondrous story
+{46722}{46838}created for God's glory.
+{46850}{46936}He created you, Bohemia!
+{46938}{47009}- We shot him, we ran him down,|he's ours!
+{47012}{47062}- The hog belongs to where its lights|extinguished.
+{47067}{47123}Where?|At school.
+{47125}{47168}So whose is it?|Ours!
+{47377}{47413}Stop it!
+{47429}{47464}Hey, stop it, you!
+{47605}{47651}Shame on you...!
+{47723}{47780}Fighting over a wild boar...
+{47792}{47832}What an example for the children!
+{47893}{48004}Now how do I explain|what peace means?
+{48043}{48093}Well, well, come to your senses...
+{48097}{48208}Why don't you take the boar|to neutral ground - The Lodge?
+{48231}{48351}They can prepare it for you|with rose-hip sauce!
+{48388}{48445}Hold the feast together!
+{48489}{48531}Come to an agreement!
+{48600}{48653}Isn't there enough trouble|in the world...?
+{48744}{48811}Agreed?|When?
+{48825}{48906}Next Saturday, not this,|- And jump!
+{48910}{48963}- So the meat's tender!
+{48966}{49020}- We'll halve the costs!|- Right.
+{49027}{49092}- That's how conflicts should be solved.
+{49100}{49135}Children!
+{49148}{49271}- Beautiful Bohemia mine
+{49293}{49416}you're my soul's shrine
+{49431}{49533}mountains so high...|- I'd better keep an eye on them!
+{49545}{49582}Wait!
+{49587}{49681}- To set the seal on that
+{49686}{49760}I'll make my special tripe soup!
+{49910}{49961}What do I do with the salami -
+{49963}{50014}with my vegetable diet?
+{50019}{50080}And no fridge!
+{50095}{50133}And the rum?
+{50137}{50244}With my diabetes?!|And two slabs of butter?
+{50247}{50313}It'll go rancid!
+{50318}{50368}- Good morning, Mr Junek!
+{50387}{50443}The hunters snapped off my pedal.
+{50449}{50543}Isn't it a lovely day?|Like by old Monet
+{50560}{50605}or painted by you.
+{50614}{50665}- May I join you?
+{51540}{51577}Isn't this something!
+{51592}{51673}I'm proud to be a member|of the Hunting Association.
+{51682}{51750}It's going to be great!
+{51764}{51801}Great!
+{52503}{52589}The poor wild piggy Daddy...
+{52600}{52656}- Poor wild piggy Mummy, I'd say...
+{52659}{52715}- Bang! Into the eye!
+{52725}{52770}...waiting for Daddy to come home!
+{52808}{52821}Tssss.
+{52836}{52894}And the piglet babie...
+{52900}{52973}They're waiting for Daddy too.
+{52990}{53057}- Our Dad didn't come home|for two nights,
+{53062}{53119}on the third day a taxi arrived.
+{53125}{53201}- I bet you were glad to see your Daddy!
+{53203}{53262}- He only sent the taxi
+{53266}{53350}from the pub to fetch his trumpet!
+{53405}{53441}Come on!
+{53552}{53588}Watch it!
+{53596}{53681}- Ouch!|- What portion...
+{53685}{53720}- Just take it!
+{53726}{53762}- Excellent!
+{54165}{54226}As a kid I was a genius.
+{54237}{54328}When our priest asked|which was the greatest Catholic holiday
+{54333}{54383}I said when the pig's slaughtered.
+{54400}{54452}- Must tell my old woman...
+{54616}{54703}We saved the school-children!
+{54708}{54813}- You stink of liquor!
+{54819}{54870}You wait when we get home...!|- That is Pernod.
+{54895}{54943}We were celebrating victory.
+{54947}{54993}It was wonderful!
+{54996}{55085}- If we've caught pneumonia, Pop,|you'll cop it!
+{55130}{55218}- A wild boar shot in the classroom -
+{55225}{55310}that's an item for our chronicler!|- What a to-do!
+{55317}{55387}To make all Kersko Woods fall sick...
+{55528}{55586}Next week's a historical meeting
+{55590}{55673}of both Hunting Associations|at the Lodge.
+{55708}{55768}Should I buy a new hat?
+{55834}{55895}All that vomit the avenues again!
+{58437}{58463}THE GARDENERS' GIFT TO KERSKO
+{59175}{59215}I know!
+{61672}{61766}They're chasing the hog out of its skin!
+{61778}{61823}Why don't you come?
+{61853}{61938}- Pop!|Come here! Come here!
+{62663}{62778}We're out of mineral water, dear.
+{62798}{62881}Shall I go to the spring?|- No fear, we'll go!
+{62964}{63064}- I'll get you some cigarettes.|- We've got enough for the week!
+{63132}{63213}- We're all out of beer, sweetie.
+{63233}{63297}Black beer's good for the blood.
+{63299}{63350}- What about the sheep?!
+{63352}{63398}- The pub, that's what you're after.
+{63400}{63461}- Take 'em grazing!
+{63545}{63612}For an hour at least!
+{63759}{63858}Get along with you!
+{63894}{63974}THE GARDENERS' GIFT TO KERSKO
+{65187}{65259}...in search of a wise man.
+{65308}{65398}The people in that Kingdom were|neither stupid
+{65417}{65521}nor clever.|Neither cowardly nor brave.
+{65540}{65633}Neither cowardly, nor brave.
+{65667}{65728}But none were
+{65751}{65818}truly wise.
+{66072}{66108}So what, neighbour?
+{66119}{66195}They're chasing the boar out|of its skin! Come and help me!
+{66210}{66249}A great business deal.
+{66275}{66338}I'm swapping this for the skin,
+{66350}{66408}the skin for an electric motor
+{66423}{66485}and that for a second-hand bike.
+{66488}{66588}And the bike for a billy-boat!
+{66591}{66638}- Shame on you!|- Good morning!
+{66640}{66735}- I have this pressure on my chest.|I'm depressed!
+{66775}{66827}- Just don't get drunk!
+{66872}{66970}I hereby open the meeting|of the boar-feast committee.
+{67087}{67133}Hey!
+{67269}{67338}The best of the wild boar
+{67344}{67453}is the rump and leg with hip sauce.
+{67463}{67505}And dumplings...
+{67508}{67572}- Dumplings...|- Cooked in a serviette.
+{67583}{67643}- It's better with sauerkraut.
+{67646}{67720}- We'll have it with hip sauce!
+{67723}{67773}- With sauerkraut!|- With hip sauce!
+{67777}{67825}- With sauerkraut!|- With hip sauce!
+{67829}{67865}- With sauerkraut!|- With hip sauce!
+{67882}{67936}- But gentlemen...
+{67959}{68043}must your villages fight|whenever you meet?
+{68062}{68130}The women in the fields go at each other
+{68133}{68179}with their hoes.
+{68201}{68248}You're like kids!
+{68271}{68365}So we'll go halves. - Half with|sauerkraut, half with hip sauce.
+{68836}{68958}Widdle-piddle-wee.|Widdle-piddle-wee.
+{69009}{69110}Widdle-piddle-wee.|That's my song.
+{69157}{69216}- And I'll make some tripe soup|for midnight!
+{69245}{69296}D'you know which is my tree?
+{69320}{69379}- The pine.|- No.
+{69397}{69439}- The sallow.|- No.
+{69459}{69509}- The weeping willow.|- No.
+{69544}{69580}- The aspen.
+{69592}{69682}The first messenger of spring.
+{69770}{69879}My new girl-friend, an angel.
+{69932}{69973}You'll see for yourself.
+{70162}{70202}Now you're staring!
+{70246}{70343}I love buying lovely things cheap.
+{70355}{70404}Seconds sometime,
+{70407}{70483}but I can't resist a good buy...
+{70664}{70737}Great, huh?|I'll give you one.
+{70760}{70824}They're out of fashion|but they'll be back!
+{70849}{70914}No buttons or button-holes
+{70916}{70973}cause the tailor got so drunk...
+{70978}{71068}But I couldn't resist it|at that price...
+{71082}{71158}One waistcoat came|to six crowns fifty.
+{71162}{71277}This was the best bargain.|One boot came to five crowns!
+{71298}{71388}I talked them into selling.|I drowned their objections
+{71390}{71466}in the flood of my will-power|and they gave in.
+{71475}{71523}- Aren't they all for the left foot?
+{71537}{71588}- Sure they are!
+{71591}{71651}Or they wouldn't have been that cheap!
+{71674}{71715}Take a pair.
+{71721}{71790}They're not for running,|but to stand in at the work-bench.
+{71794}{71830}Keep you warm.
+{71875}{71916}Water pails, these.
+{71933}{72051}They leak a bit|but these plasters were a bargain.
+{72063}{72123}Here's a pail for you,
+{72125}{72161}and a plaster.
+{72189}{72248}They cost me 90 hellers each...!
+{72272}{72320}That's... dirt cheap.
+{72335}{72453}No saucers, but at fifty crowns|I couldn't resist them.
+{72467}{72525}Bought the plates separately, cheap.
+{72579}{72617}Let's have some music.
+{72645}{72725}I bought 50 records at 1 crown each.
+{72754}{72808}25 of 'em play half-way
+{72825}{72915}till the end.
+{73195}{73236}Isn't it a lovely tune?
+{75325}{75396}I'm set for life with The Hermit
+{75399}{75441}by Bedrich Nikodem.
+{75534}{75625}It's my life-story.|It's my song, my life-story.
+{75651}{75694}- It'll be hard for you to die.
+{75697}{75761}- What'll they play
+{75780}{75816}over my coffin?
+{75826}{75862}- The Hermit.
+{75905}{75960}By Nikodem.
+{76035}{76093}Enough! Go to bed! Go home!
+{76129}{76170}Can't stand that!
+{76187}{76233}Drunk again?
+{76237}{76288}Go and be treated!
+{76404}{76458}My new girl friend.
+{76470}{76515}I swapped her for a painting.
+{76542}{76590}A misty winter landscape.
+{78248}{78323}THE GARDENERS' GIFT TO KERSKO
+{80210}{80324}We're making 30 salamis|with the wild pork.
+{80326}{80394}- We bought 4 kilos of beef.
+{80397}{80478}- Would you supervise?
+{80489}{80538}See to the smoking?
+{80545}{80600}You know the Koran sausage mixer.
+{80602}{80640}- Oh, come on.
+{80646}{80682}- Please...
+{80789}{80826}I don't know, friends.
+{80828}{80906}I warn you, I eat everything up.
+{80911}{81006}I shop for an hour on my way home.|My bag's full.
+{81012}{81107}100 of this salami, 100 of that,
+{81209}{81241}I love those.
+{81244}{81345}Just seeing the stuff in the shop window|makes me
+{81348}{81424}go weak in the knees. I do the shopping|quickly
+{81426}{81469}and rush home.
+{81475}{81530}There we gobble it all up.
+{81533}{81629}We watch television|and I keep reaching out
+{81634}{81678}till there's nothing on the table.
+{81683}{81760}"AII gone,", I say.|Let's go to bed.
+{81770}{81876}At midnight I wake from hunger|and fight my conscience.
+{81882}{81993}Then I say: "Oh shit!".|I get half a stick of salami
+{81998}{82046}and munch it in bed.
+{82053}{82134}My wife mumbles:|"Don't get the sheets greasy!"
+{82137}{82183}And we go to sleep.
+{82186}{82250}But I wake an hour later
+{82252}{82330}and have to get up|and gorge on the rest of the salami.
+{82337}{82413}That goes on till morning.|And for breakfast I have roast pork.
+{82415}{82472}My friends - better not...
+{82485}{82557}...her hair was all curly|and she did not think of anything else.
+{82574}{82661}And she did not think of anything else|yeah, yeah, yeah.
+{82673}{82764}I have to add|yeah, yeah, yeah,
+{82775}{82835}that she hot combs her curls...
+{82952}{83075}Wouldn't this place be wonderful|if I weren't here...
+{83080}{83125}- Where are you, Pop?!
+{83130}{83198}Gone again!|- Come back!
+{83205}{83294}- You'll be sick!
+{83297}{83334}- Where're the goats, Pop?
+{83355}{83417}- You keep away from me... keep away!
+{83422}{83476}- You wait!|You'll cop it!
+{83485}{83566}- Where is he?|- The bastard's gone!
+{84063}{84134}- A devil of a thirst!|I've had a coal delivery.
+{84137}{84193}CLOSED|- He's closed again.
+{84591}{84638}Let us in!
+{84660}{84698}- Let's have some peace.
+{85633}{85701}Isn't it kind of Charles, he's heating|the salami for the youngsters.
+{85816}{85897}Isn't it ready? I'm hungry!|- I can't wait!
+{85900}{85949}- When it's done I'll tell you!
+{85962}{86014}- With salami we need beer!
+{86026}{86062}- Get off with you!
+{86075}{86159}Bide your time, girlie!
+{86212}{86330}Get us some beer!
+{86364}{86401}We're thirsty.
+{86438}{86483}- Go and get stuffed.
+{86511}{86546}- You too.
+{86652}{86698}Don't lead us into temptation, oh Lord.
+{86827}{86864}Let us in!
+{86883}{86943}We'll be as good as gold.
+{87012}{87057}- The beer's in the car,|start it yourselves!
+{87077}{87156}Beer!|- The beer is here!
+{87159}{87233}- Oh well.|- At last!
+{87237}{87305}- I am so thirsty!|- Come and help me!
+{87394}{87437}Clumsy!
+{87609}{87644}Put it down...!
+{87700}{87735}Wait!
+{87815}{87845}You cannot do it, can you?|- Oh yes, I can.
+{87848}{87933}- What's the problem, gentlemen?|- Getting it started.
+{87940}{87989}- The barrel slipped.
+{88007}{88055}- Lucky for you I was passing.
+{88197}{88221}Excuse me.
+{88242}{88291}- He's an expert!
+{88401}{88441}Hurry up!|- I am thirsty!
+{89073}{89119}A technical defect.
+{89139}{89215}We learn from our mistakes!
+{89234}{89269}- Here with the glass!
+{89297}{89370}- Good, well...|- We can share.
+{89387}{89456}- The guys will drink ours.|- We were the first!
+{89470}{89503}Ladies do not stand beer!|- Of course...
+{89551}{89590}- Is that all?
+{89864}{89910}At least we've get the salami!|- Yea.
+{89919}{89957}- Hurray!|- Let's get it
+{90004}{90030}- Am I hungry!
+{90158}{90264}No reproaches, gentlemen!
+{90266}{90322}I warned you!|I told you
+{90325}{90370}I gobble everything up.
+{90373}{90429}Gentlemen, goodbye.
+{90562}{90613}He crammed down four salamis.
+{90634}{90669}I'll kill him!
+{90692}{90781}Four sticks of salami!
+{90803}{90832}I will have to kill him.
+{90861}{90909}No, I will... I will suffocate him!
+{90938}{90976}He devoured four salamis!
+{91984}{92030}Long live the Hunt!|- Long live the Hunt!
+{92047}{92078}- Hi, lads.|- Hi.
+{92080}{92140}- Hello.|- Hello...
+{92150}{92186}So.
+{92307}{92342}Well, here be is.
+{92823}{92892}Hey, hey!
+{93228}{93273}Glosser together, gentlemen!
+{96592}{96643}The soup, gentlemen.
+{96871}{96950}I'm going to shoot our fest.
+{96976}{97080}- The soup's the same for all.|So is the pork ragout starter.
+{97700}{97757}Just pretend I'm not here.
+{97775}{97852}Who wants it with hip sauce
+{97854}{97933}and who with sauerkraut?|- With hip sauce!
+{97936}{98017}- With sauerkraut!|- Double portion of dumplings.
+{98053}{98132}I can't eat sauerkraut.|- Shut up!
+{98146}{98230}I swapped this camera for two sacks|of grouts.
+{99790}{99840}Take it away!|- Come and join us!
+{99842}{99904}There is nothing to be ashamed of.|We've got a clear conscience!
+{99914}{99952}- We didn't steal anything.
+{101144}{101180}Play on!
+{102187}{102213}Good evening.
+{102245}{102295}- Good evening.|- Good evening...
+{102568}{102618}Good evening.|- Good evening.
+{102728}{102783}By the way...
+{102860}{102983}...I get you some new valves
+{103020}{103090}for your bikes.
+{103158}{103230}Tonight I hope you'll walk.
+{103275}{103313}Thanks.
+{103388}{103462}So you don't end up like last time.
+{103817}{103872}Ah! Sauerkraut!
+{103876}{103964}- Hip sauce's best!
+{103969}{104052}- Sauerkraut!|- Hip sauce!
+{104054}{104110}- Sauerkraut!|- Hip sauce!
+{104119}{104203}To offend no-one, I'll have both!
+{108352}{108431}I'm going to wash and off to bed.
+{108457}{108513}And I shan't forget to clean my teeth.
+{108873}{108927}I'll play with you if I may.
+{109214}{109280}Okay, my fault.
+{109374}{109418}I'll go and wash.
+{109478}{109585}I'll make a film gentlemen, so you have|a memento for when you're gone.
+{109684}{109723}Stop it, please!
+{109750}{109798}They're shooting us!|They're shooting us!
+{110077}{110113}So...
+{110217}{110273}...let's have some more fun.
+{110331}{110450}- Gentlemen, I'm off home now
+{110453}{110509}and I'll bring my tripe|soup for midnight.
+{110530}{110575}Midnight tripe soup
+{110578}{110676}must be stirred until it cools
+{110690}{110810}or it settles and then we could|give it to the pigs,
+{110855}{110891}see?
+{112706}{112742}It's only me!
+{112859}{112936}It's only me!
+{112943}{113027}There's been an accident.|There's a dead man in the ditch.
+{113066}{113128}Mr Leli...|What were you up to?
+{113138}{113185}Can I help?
+{113207}{113278}I was carrying tripe soup for my chums.
+{113304}{113382}The bus gave me a shaking|I didn't want to spill it
+{113409}{113452}so I held the can...
+{113470}{113541}Where does it hurt?|Can you breathe?
+{113591}{113687}...getting more and more green.
+{113693}{113784}And why the gamekeepers enjoy life?
+{113789}{113878}Enjoy life, enjoy life.
+{113891}{113979}My father was a gamekeeper, and so am I.
+{113985}{114077}And so am I, and so am I.
+{114081}{114167}He killed deer, I love girls instead.
+{114170}{114263}I love girls, I love girls.
+{114273}{114360}Why are the forests green so?
+{114371}{114407}I'll go on ahead.
+{114748}{114843}My father was a poacher, and so am I.
+{114854}{114948}And so am I, and so am I...
+{114956}{115048}He killed deer, I love girls instead.
+{115052}{115143}I love girls, I love girls...
+{116391}{116455}You're trembling.|We've sent for the ambulance.
+{116457}{116538}- No, no! I've got to go to the Lodge.
+{116565}{116676}I've got tripe soup for my chums.|They're waiting for me.
+{119005}{119073}We learn from our mistakes.
+{119113}{119149}Mind
+{119195}{119249}you don't tip over the can!
+{121322}{121399}See, you crazy old duffer!|Was this necessary?!
+{121450}{121518}Some day we shan't come to fetch you!
+{121524}{121619}- Hey! Ho! Hey!
+{121622}{121723}- Well...|- Why did I drink that used car oil.
+{121740}{121863}Huh, well...|- Serves you right!
+{124208}{124270}Made by
+{124275}{124348}3. Dramaturgical and Production Group|Headed by
+{124368}{124464}Processed by
+{124486}{124522}THE END
+{124547}{124697}Watch more movies for free on|www.FlixTor.to

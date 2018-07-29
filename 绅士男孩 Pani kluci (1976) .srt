@@ -1,0 +1,3755 @@
+﻿1
+00:00:20,820 --> 00:00:25,130
+a film based on Mark Twain's
+“Adventures of Tom Sawyer”
+
+2
+00:00:26,300 --> 00:00:27,260
+Good morning.
+
+3
+00:00:27,340 --> 00:00:29,650
+Coming along, Apolena,
+coming along?
+
+4
+00:00:30,860 --> 00:00:33,140
+How come, how come,
+
+5
+00:00:33,260 --> 00:00:34,140
+how come you're so early?
+
+6
+00:00:34,780 --> 00:00:36,130
+Why don't you keep
+the schedule?
+
+7
+00:00:36,220 --> 00:00:40,610
+Wenceslaus! Wenceslaus! Wenceslaus!
+
+8
+00:00:42,380 --> 00:00:44,370
+How are you, Station Master?
+
+9
+00:00:44,460 --> 00:00:46,660
+- Same as always.
+- Same as always.
+
+10
+00:00:47,900 --> 00:00:49,860
+Wenceslaus!
+
+11
+00:00:51,020 --> 00:00:53,090
+What can I do for you, Dear?
+
+12
+00:00:53,180 --> 00:00:56,300
+Did you tell Patočka to stop
+at Doctor's?
+
+13
+00:00:57,780 --> 00:01:00,770
+It's Wednesday. The Doctor's day
+to visit his sister.
+
+14
+00:01:00,860 --> 00:01:03,010
+For God's sake!
+
+15
+00:01:04,380 --> 00:01:06,850
+That shrew hasn't died yet?
+
+16
+00:01:06,940 --> 00:01:09,060
+I totally forgot.
+
+17
+00:01:09,220 --> 00:01:11,580
+But I did tie a knot.
+
+18
+00:01:11,860 --> 00:01:16,060
+Tom! Tom!
+
+19
+00:01:16,140 --> 00:01:18,210
+Yes, Auntie.
+
+20
+00:01:27,500 --> 00:01:29,010
+- Thomas!
+- Yeah?
+
+21
+00:01:29,100 --> 00:01:32,540
+- Don't forget to say Hello!
+- Yes, Auntie.
+
+22
+00:01:48,140 --> 00:01:52,100
+<i>Wherever Mark Twain traveled,</i>
+
+23
+00:01:52,340 --> 00:01:54,700
+<i>fleeing from tax collectors</i>
+
+24
+00:01:55,540 --> 00:01:58,340
+<i>and dear friends and
+even dearer relatives,</i>
+
+25
+00:01:59,620 --> 00:02:04,010
+<i>they told him stories.</i>
+
+26
+00:02:05,060 --> 00:02:10,010
+<i>That's how this one must have
+landed in his notebook,</i>
+
+27
+00:02:10,820 --> 00:02:13,970
+<i>because it actually happened
+in our childhood</i>
+
+28
+00:02:14,540 --> 00:02:16,690
+<i>and in our little town.</i>
+
+29
+00:02:29,580 --> 00:02:31,730
+Mr. Patočka, stop!
+
+30
+00:02:31,820 --> 00:02:33,460
+- What's the matter?
+- Stop.
+
+31
+00:02:33,540 --> 00:02:35,290
+- Well, what is it?
+- It's Wednesday.
+
+32
+00:02:35,380 --> 00:02:37,500
+Oh, yeah, that's right.
+
+33
+00:02:40,340 --> 00:02:42,650
+Ah, the Doctor.
+Good morning.
+
+34
+00:02:42,740 --> 00:02:43,970
+- Good morning.
+- Good morning.
+
+35
+00:02:44,060 --> 00:02:46,260
+Climb right in.
+
+36
+00:02:46,700 --> 00:02:49,290
+Don't forget to lock up properly.
+
+37
+00:02:50,060 --> 00:02:51,180
+And open up to nobody.
+
+38
+00:02:51,260 --> 00:02:54,530
+You can rest easy, Doctor.
+Everything will run smoothly.
+
+39
+00:02:55,260 --> 00:02:58,060
+- Your umbrella, Doctor.
+- Thanks.
+
+40
+00:02:58,700 --> 00:03:00,580
+Good morning.
+
+41
+00:03:00,660 --> 00:03:02,170
+Off we go!
+
+42
+00:03:02,260 --> 00:03:04,900
+Guess what I got you today?
+
+43
+00:03:05,300 --> 00:03:07,660
+- Sugar cone.
+- Thanks.
+
+44
+00:03:12,260 --> 00:03:16,970
+BOYS WlLL BE BOYS
+
+45
+00:03:17,180 --> 00:03:21,620
+Screenplay
+
+46
+00:03:21,780 --> 00:03:26,730
+Starring
+
+47
+00:03:52,580 --> 00:03:57,370
+Music
+Lyrics
+
+48
+00:03:57,580 --> 00:04:02,530
+Played by the Film Symphony Orchestra
+Conducted by
+
+49
+00:04:04,180 --> 00:04:07,090
+Set Designer
+
+50
+00:04:07,300 --> 00:04:11,580
+Costume Designer
+Choreography
+
+51
+00:04:11,780 --> 00:04:14,500
+Make–up
+Wardrobe
+
+52
+00:04:14,620 --> 00:04:16,580
+Properties
+
+53
+00:04:16,780 --> 00:04:20,140
+Assistant Set Designer
+Assistant Director of Photography
+
+54
+00:04:20,260 --> 00:04:22,380
+Assistants to Head of Production
+
+55
+00:04:22,580 --> 00:04:27,050
+Assistant Director
+Continuity
+
+56
+00:04:27,260 --> 00:04:30,170
+Film Editor
+
+57
+00:04:30,380 --> 00:04:33,290
+Sound Editor
+
+58
+00:04:33,500 --> 00:04:36,410
+Head of Production Team
+
+59
+00:04:36,620 --> 00:04:39,980
+Director of Photography
+
+60
+00:04:40,180 --> 00:04:44,300
+Directed by
+
+61
+00:04:44,500 --> 00:04:49,450
+Directed by
+Script Editor
+
+62
+00:04:50,380 --> 00:04:55,330
+Produced by
+Main Script Editor
+
+63
+00:04:56,940 --> 00:04:58,580
+Tom!
+
+64
+00:05:00,100 --> 00:05:01,740
+Tom!
+
+65
+00:05:05,260 --> 00:05:06,770
+Where can the boy be?
+
+66
+00:05:06,860 --> 00:05:08,500
+Stephen, where's Tom?
+
+67
+00:05:08,580 --> 00:05:10,700
+I don't know, Mommy.
+
+68
+00:05:14,420 --> 00:05:18,100
+Mommy!
+He's in the pantry.
+
+69
+00:05:18,420 --> 00:05:20,620
+Stealing your jam.
+
+70
+00:05:20,940 --> 00:05:24,060
+- So here you are.
+- I'm not really, Auntie!
+
+71
+00:05:24,140 --> 00:05:26,500
+I'm just opening the window.
+
+72
+00:05:26,580 --> 00:05:30,180
+- Pantries should be well aired.
+- I'll show you well aired…
+
+73
+00:05:58,180 --> 00:06:00,060
+Wenceslaus!
+
+74
+00:06:01,060 --> 00:06:02,940
+Here I am!
+
+75
+00:06:04,860 --> 00:06:06,770
+I'm coming!
+
+76
+00:06:06,900 --> 00:06:08,730
+Tsk, tsk!
+
+77
+00:06:17,060 --> 00:06:18,970
+Wenceslaus!
+
+78
+00:06:19,060 --> 00:06:21,100
+Be right over!
+
+79
+00:06:21,260 --> 00:06:23,220
+Won't we…
+
+80
+00:06:26,820 --> 00:06:28,410
+Ow!
+
+81
+00:06:32,900 --> 00:06:34,700
+Wenceslaus!
+
+82
+00:06:35,300 --> 00:06:37,130
+Wenceslaus!
+
+83
+00:06:40,180 --> 00:06:41,500
+Wenceslaus!
+
+84
+00:06:41,580 --> 00:06:43,460
+He has to come back.
+
+85
+00:06:43,540 --> 00:06:46,740
+The teacher checks if
+we have all our things.
+
+86
+00:06:50,140 --> 00:06:52,370
+Run along, then.
+
+87
+00:06:53,340 --> 00:06:55,490
+- See you, Mom.
+- Bye–bye. Got your lunch?
+
+88
+00:06:55,580 --> 00:06:57,300
+- Yes, I do.
+- Good.
+
+89
+00:07:05,100 --> 00:07:08,410
+Leave that, Wenceslaus,
+and come here already!
+
+90
+00:07:36,860 --> 00:07:41,810
+Put up the stop sign and don't forget
+the Principal's newspapers.
+
+91
+00:07:42,500 --> 00:07:44,300
+Certainly.
+
+92
+00:08:05,620 --> 00:08:07,770
+I'll wear my cape.
+
+93
+00:08:07,860 --> 00:08:09,770
+Your cape? What for?
+
+94
+00:08:11,340 --> 00:08:12,530
+It's going to rain.
+
+95
+00:08:13,060 --> 00:08:15,970
+Rain from what?
+There's not a cloud in the sky.
+
+96
+00:08:16,060 --> 00:08:18,570
+Clouds pop up quickly!
+
+97
+00:08:18,780 --> 00:08:20,530
+Hold it!
+
+98
+00:08:22,340 --> 00:08:23,660
+Go.
+
+99
+00:08:23,740 --> 00:08:25,090
+I'm going.
+
+100
+00:08:25,180 --> 00:08:26,930
+- Got your lunch?
+- I do, I do.
+
+101
+00:08:27,020 --> 00:08:28,090
+See you, Dear.
+
+102
+00:08:28,180 --> 00:08:30,170
+Off you go.
+
+103
+00:08:31,650 --> 00:08:32,650
+Bye–bye, bye–bye.
+
+104
+00:08:53,060 --> 00:08:54,410
+I couldn't get it.
+
+105
+00:08:54,500 --> 00:08:56,380
+Uncle…
+
+106
+00:08:58,020 --> 00:09:00,000
+- I don't know anything.
+- You're great. Thanks. Bye.
+
+107
+00:09:00,300 --> 00:09:02,110
+Bye.
+
+108
+00:09:37,460 --> 00:09:39,890
+Off to school, are we?
+
+109
+00:09:42,100 --> 00:09:44,490
+Wouldn't you rather
+go for a swim?
+
+110
+00:09:45,100 --> 00:09:46,770
+No.
+
+111
+00:09:46,940 --> 00:09:49,660
+Just 'cause you have
+to go to school?
+
+112
+00:09:50,420 --> 00:09:52,220
+Yeah, well, yeah.
+
+113
+00:09:53,220 --> 00:09:56,610
+Aren't you going just
+because of a certain girl?
+
+114
+00:09:57,020 --> 00:10:00,010
+Mind your own business, will you?
+Am I minding yours?
+
+115
+00:10:02,700 --> 00:10:05,580
+Isn't that broad's name Becky?
+
+116
+00:10:06,820 --> 00:10:08,780
+If you say broad again…
+
+117
+00:10:08,860 --> 00:10:10,290
+Broad, broad, broad!
+
+118
+00:10:10,380 --> 00:10:12,100
+If you don't shut up I'll…
+
+119
+00:10:12,180 --> 00:10:13,660
+You'll what?
+
+120
+00:10:13,740 --> 00:10:17,260
+I'll tie up one hand behind my back
+and lick you with the other.
+
+121
+00:10:17,340 --> 00:10:18,330
+You just try!
+
+122
+00:10:18,420 --> 00:10:21,380
+Stop making me mad
+or I will!
+
+123
+00:10:21,540 --> 00:10:23,260
+- Coward!
+- What did you say?
+
+124
+00:10:23,340 --> 00:10:27,020
+- Coward!
+- What did you say?
+
+125
+00:10:27,940 --> 00:10:30,450
+Coward loves Cry–Baby!
+
+126
+00:10:30,860 --> 00:10:33,090
+What did you…
+
+127
+00:10:33,460 --> 00:10:37,010
+Coward loves Cry–Baby!
+
+128
+00:10:37,180 --> 00:10:39,220
+- Take that back!
+- No I won't!
+
+129
+00:10:39,300 --> 00:10:42,130
+- Take it back!
+- I take it back!
+
+130
+00:10:42,500 --> 00:10:45,170
+- Louder!
+- I take it back!
+
+131
+00:10:45,580 --> 00:10:47,700
+You'd better!
+
+132
+00:10:50,660 --> 00:10:53,130
+Broad! Broad! Broad!
+
+133
+00:10:54,860 --> 00:10:56,740
+Cry–Baby!
+
+134
+00:11:05,980 --> 00:11:09,180
+Křapka, I see everything
+even when I'm not there.
+
+135
+00:11:10,380 --> 00:11:13,020
+Go stand in the dunce corner!
+
+136
+00:11:28,700 --> 00:11:30,660
+Ah, Master Thomas!
+
+137
+00:11:32,380 --> 00:11:34,940
+Have you slept your fill?
+
+138
+00:11:36,260 --> 00:11:40,810
+Where did you get off to, Kind Sir,
+for so long? Well?
+
+139
+00:11:41,820 --> 00:11:45,050
+Did your auntie's alarm clock
+stop working again?
+
+140
+00:11:45,780 --> 00:11:49,490
+Or did you have to wait until she
+brought buns from the bakery?
+
+141
+00:11:51,180 --> 00:11:55,490
+No, I had to settle a score
+with Huck.
+
+142
+00:11:56,140 --> 00:11:59,100
+What was that? What did you do?
+
+143
+00:11:59,180 --> 00:12:02,330
+I was settling a score
+with Huck.
+
+144
+00:12:03,460 --> 00:12:05,970
+And can you tell us what score?
+
+145
+00:12:06,060 --> 00:12:09,210
+Huck insulted someone.
+
+146
+00:12:10,380 --> 00:12:12,180
+Let's see.
+
+147
+00:12:13,020 --> 00:12:17,970
+Huck insults someone and
+Master Thomas has to fight him.
+
+148
+00:12:19,340 --> 00:12:23,620
+Not only do you hang around
+the greatest rascal in town
+
+149
+00:12:23,780 --> 00:12:27,930
+and come late to school,
+
+150
+00:12:28,300 --> 00:12:30,020
+you are so impertinent
+
+151
+00:12:30,100 --> 00:12:33,170
+you don't even bother
+to make up an excuse.
+
+152
+00:12:35,340 --> 00:12:39,490
+Can you guess what
+I'm going to do now?
+
+153
+00:12:40,940 --> 00:12:43,220
+Give me a beating.
+
+154
+00:12:43,300 --> 00:12:45,530
+Brilliant thinking.
+
+155
+00:12:46,460 --> 00:12:49,580
+And do you know
+why I'm going to do it?
+
+156
+00:12:50,020 --> 00:12:52,850
+'Cause you're bigger than me.
+
+157
+00:13:01,660 --> 00:13:04,620
+And now go and sit
+in the girl section.
+
+158
+00:13:16,660 --> 00:13:19,700
+- You're to sit with the girls!
+- You…!
+
+159
+00:13:24,900 --> 00:13:27,210
+Sit beside me, Tom.
+
+160
+00:13:38,740 --> 00:13:40,890
+Does it hurt a lot?
+
+161
+00:13:40,980 --> 00:13:45,930
+No, but I can't sit,
+or I wouldn't see through her.
+
+162
+00:13:47,060 --> 00:13:51,290
+A beautiful exercise book.
+
+163
+00:13:51,740 --> 00:13:56,690
+You deserve a blue card
+for such good work.
+
+164
+00:13:57,900 --> 00:14:02,580
+And he who has the most
+of these cards gets what?
+
+165
+00:14:04,540 --> 00:14:06,180
+Gets a book.
+
+166
+00:14:06,260 --> 00:14:10,300
+Correct. A book.
+From the Inspector.
+
+167
+00:14:10,660 --> 00:14:12,940
+Next week, already.
+
+168
+00:14:13,740 --> 00:14:17,420
+I wonder who it'll be.
+
+169
+00:14:20,500 --> 00:14:24,380
+I know who it won't be, though.
+
+170
+00:14:25,260 --> 00:14:28,490
+I could name at least one for sure!
+
+171
+00:14:38,020 --> 00:14:39,980
+- What did you write down?
+- Nothing!
+
+172
+00:14:40,060 --> 00:14:43,660
+- It must be something!
+- Nothing interesting.
+
+173
+00:14:43,980 --> 00:14:46,700
+But I am interested, truly.
+
+174
+00:14:49,460 --> 00:14:52,690
+That stupid book from the stupid
+inspector will be mine!!! Tom.
+
+175
+00:14:53,700 --> 00:14:55,500
+- You're lying.
+- I'm not!
+
+176
+00:14:55,580 --> 00:14:56,980
+Want me to swear I'll get it?
+
+177
+00:14:57,060 --> 00:14:59,020
+When I do, I'll give it to you.
+
+178
+00:14:59,100 --> 00:15:01,010
+You won't stop, will you.
+
+179
+00:15:01,100 --> 00:15:03,460
+You'll just keep bothering me.
+
+180
+00:15:03,540 --> 00:15:05,530
+I won't, I won't, I won't.
+
+181
+00:15:10,900 --> 00:15:12,940
+No, no, no!
+
+182
+00:15:13,140 --> 00:15:15,650
+One corporal punishment is enough.
+
+183
+00:15:15,740 --> 00:15:18,730
+Now we'll think of something
+more interesting.
+
+184
+00:15:19,900 --> 00:15:23,650
+When the others go for an after
+school swim, you'll stay in
+
+185
+00:15:24,460 --> 00:15:28,610
+and work out your
+favorite math exercises.
+
+186
+00:15:29,220 --> 00:15:34,140
+Could I, please, rather have
+some more corporal punishment?
+
+187
+00:15:51,020 --> 00:15:54,700
+Have you worked it out?
+
+188
+00:15:55,420 --> 00:15:59,300
+No, Sir. I don't think
+it can be solved…
+
+189
+00:15:59,980 --> 00:16:02,130
+Oh yes it can.
+
+190
+00:16:02,780 --> 00:16:04,740
+Try harder.
+
+191
+00:16:05,660 --> 00:16:07,540
+I have plenty of time.
+
+192
+00:16:07,620 --> 00:16:10,180
+We can stay till evening.
+
+193
+00:18:32,420 --> 00:18:35,620
+- Where did you find the ladder?
+- In the bushes.
+
+194
+00:18:35,700 --> 00:18:38,290
+There's another one there.
+
+195
+00:18:38,460 --> 00:18:40,500
+Quick, before he wakes up!
+
+196
+00:18:40,580 --> 00:18:42,490
+Watch it!
+
+197
+00:19:09,500 --> 00:19:11,250
+Thomas!
+
+198
+00:19:13,300 --> 00:19:15,370
+You scoundrel!
+
+199
+00:19:16,340 --> 00:19:18,490
+Open up at once!
+
+200
+00:19:24,500 --> 00:19:26,490
+<i>Who is it?</i>
+
+201
+00:19:27,380 --> 00:19:29,260
+It's me, Principal, Sir.
+
+202
+00:19:29,340 --> 00:19:34,290
+That rascal must have
+locked me in.
+
+203
+00:19:34,860 --> 00:19:38,060
+I was marking some
+exercise books and…
+
+204
+00:19:38,460 --> 00:19:41,900
+- Calm down, dear colleague!
+- I'll calm down.
+
+205
+00:19:42,100 --> 00:19:44,980
+Tom, eh?
+That's him all over.
+
+206
+00:19:46,140 --> 00:19:48,780
+But the key wasn't in the lock.
+On the other side, I mean.
+
+207
+00:19:48,860 --> 00:19:51,250
+I opened up with my own key.
+
+208
+00:19:58,660 --> 00:20:00,890
+- Mmm hmm! Really?
+- Yeah.
+
+209
+00:20:02,220 --> 00:20:05,420
+But I swear, Principal, Sir,
+that scoundrel was here.
+
+210
+00:20:06,260 --> 00:20:08,490
+He sat right here!
+
+211
+00:20:12,660 --> 00:20:14,330
+Right here!
+
+212
+00:20:28,260 --> 00:20:33,210
+Do you feel somewhat
+tired lately?
+
+213
+00:20:33,900 --> 00:20:35,330
+Or, overworked?
+
+214
+00:20:35,420 --> 00:20:38,540
+No, Principal, Sir. When I catch
+that rascal I'll…
+
+215
+00:20:39,100 --> 00:20:39,980
+…talk to him.
+
+216
+00:20:40,060 --> 00:20:41,890
+I know, I know.
+
+217
+00:20:42,300 --> 00:20:43,780
+Do calm down.
+
+218
+00:20:43,860 --> 00:20:46,250
+Mainly, preserve your health.
+
+219
+00:20:47,540 --> 00:20:49,900
+No sense getting worked up…
+
+220
+00:20:51,180 --> 00:20:53,060
+…over it!
+
+221
+00:21:02,540 --> 00:21:07,490
+I'll punch a hole through him!
+Oh, I'll rip him up!
+
+222
+00:21:23,540 --> 00:21:28,490
+Sharpen knives and scissors!
+
+223
+00:21:30,180 --> 00:21:35,130
+Sharpen knives and scissors!
+
+224
+00:21:35,500 --> 00:21:37,810
+Save your voice, nobody lives
+in these parts.
+
+225
+00:21:37,900 --> 00:21:40,370
+Sharpen knives!
+
+226
+00:21:41,380 --> 00:21:43,370
+Want a beating?
+
+227
+00:21:43,460 --> 00:21:44,860
+Get out of here!
+
+228
+00:21:44,940 --> 00:21:46,370
+You're wearing some odd boots!
+
+229
+00:21:46,460 --> 00:21:50,690
+Sharpen knives and scissors!
+
+230
+00:21:52,100 --> 00:21:55,140
+Sharpen scissors.
+
+231
+00:22:43,060 --> 00:22:45,970
+People's Savings Bank
+
+232
+00:24:07,900 --> 00:24:10,460
+Watch out—in the window!
+
+233
+00:24:16,700 --> 00:24:18,820
+Who was whistling?
+
+234
+00:24:18,900 --> 00:24:20,940
+Not those two rascals again?
+
+235
+00:24:21,020 --> 00:24:23,170
+I'm whistling.
+
+236
+00:24:25,620 --> 00:24:28,050
+Can't I whistle while I work?
+
+237
+00:24:28,140 --> 00:24:30,970
+Don't run with the watering can.
+
+238
+00:24:31,060 --> 00:24:35,500
+Walk slowly, so you water
+the beds properly.
+
+239
+00:24:35,900 --> 00:24:39,260
+It seems to me that you are just
+hopping around those vegetables!
+
+240
+00:24:43,260 --> 00:24:45,170
+Understand?
+
+241
+00:24:48,420 --> 00:24:52,460
+That's his own mother being so
+beastly, believe it or not.
+
+242
+00:24:55,620 --> 00:24:58,980
+I'd rather have my aunt
+be so beastly to me.
+
+243
+00:24:59,820 --> 00:25:02,250
+Look, Apple Strudel!
+
+244
+00:25:06,700 --> 00:25:09,610
+- Apple Strudel! See that pump?
+- Yeah.
+
+245
+00:25:10,180 --> 00:25:13,570
+Go into the garden
+and take over, will you?
+
+246
+00:25:13,940 --> 00:25:16,250
+When I'm done eating.
+
+247
+00:25:16,340 --> 00:25:18,400
+Stuff yourself fast, then!
+
+248
+00:25:18,420 --> 00:25:22,620
+Keep pumping till you count up
+to a hundred.
+
+249
+00:25:23,860 --> 00:25:26,290
+Pump all the way to a hundred?
+
+250
+00:25:26,820 --> 00:25:29,540
+You'll get some marbles.
+
+251
+00:25:31,380 --> 00:25:33,530
+Look at that rainbow!
+
+252
+00:25:33,620 --> 00:25:35,610
+All right then.
+
+253
+00:25:44,980 --> 00:25:47,970
+…seventy–eight, seventy–nine…
+
+254
+00:25:54,020 --> 00:25:56,410
+Heavens, still pumping?
+
+255
+00:25:56,500 --> 00:25:59,250
+What are you doing here, brat?
+
+256
+00:25:59,740 --> 00:26:01,700
+Good afternoon.
+
+257
+00:26:01,780 --> 00:26:03,610
+I'm pumping up to a hundred.
+
+258
+00:26:03,700 --> 00:26:05,690
+I'm up to eighty–six.
+
+259
+00:26:05,780 --> 00:26:09,140
+- Eighty–seven, eighty–eight…
+- Where's Joe?
+
+260
+00:26:09,420 --> 00:26:11,060
+Joe!
+
+261
+00:26:17,860 --> 00:26:19,820
+You rascal!
+
+262
+00:26:20,060 --> 00:26:22,650
+You wait, you'll be sorry!
+
+263
+00:26:28,380 --> 00:26:31,020
+Just wait till I catch you!
+
+264
+00:26:32,660 --> 00:26:34,860
+You're asking for it!
+
+265
+00:26:36,500 --> 00:26:40,100
+I bet our Joe's with that boy
+of yours, the rapscallions.
+
+266
+00:26:40,180 --> 00:26:41,930
+- Are you speaking to me?
+- Yes, to you.
+
+267
+00:26:42,020 --> 00:26:43,850
+- Meaning our Tom?
+- Who else?
+
+268
+00:26:43,940 --> 00:26:45,610
+Who's the biggest rogue around?
+
+269
+00:26:45,700 --> 00:26:50,650
+Dear Mrs. Wagner, Tom is
+a lively boy, I admit,
+
+270
+00:26:50,820 --> 00:26:53,780
+but I'm sure he is at home by now.
+
+271
+00:26:55,140 --> 00:26:58,180
+My boys always behave as they should.
+
+272
+00:27:02,500 --> 00:27:07,020
+No! No! No!
+
+273
+00:27:07,140 --> 00:27:10,450
+- Quiet! Quiet!
+- Let me go!
+
+274
+00:27:10,580 --> 00:27:12,490
+Tom, boys!
+
+275
+00:27:12,580 --> 00:27:14,860
+Let me go!
+Untie me!
+
+276
+00:27:15,700 --> 00:27:20,540
+- Silence!
+- No! No! No!
+
+277
+00:27:20,660 --> 00:27:22,780
+It's burning me!
+
+278
+00:27:23,100 --> 00:27:26,460
+I'll never snitch again!
+Leave me alone!
+
+279
+00:27:26,740 --> 00:27:31,690
+- Too late, little boy!
+- I have to do number two!
+
+280
+00:27:31,820 --> 00:27:33,090
+If you have to die,
+make it dignified!
+
+281
+00:27:33,180 --> 00:27:35,330
+No, let me go!
+
+282
+00:27:36,500 --> 00:27:39,300
+Finish the clearing tomorrow.
+
+283
+00:27:40,420 --> 00:27:42,700
+What's going on?!
+
+284
+00:27:43,780 --> 00:27:46,250
+You black–guards, you wait!
+
+285
+00:27:46,340 --> 00:27:50,540
+If I catch you here again,
+your own mothers won't recognize you!
+
+286
+00:27:51,540 --> 00:27:55,090
+Some games!
+
+287
+00:27:57,020 --> 00:27:59,580
+Could have set the forest on fire.
+
+288
+00:27:59,660 --> 00:28:01,620
+Who were they?
+
+289
+00:28:03,100 --> 00:28:05,220
+They were… It was…
+
+290
+00:28:05,300 --> 00:28:07,610
+Don't you dare!
+
+291
+00:28:08,860 --> 00:28:13,810
+- Well?
+- I don't know who, Mr. Nekuda.
+
+292
+00:28:27,100 --> 00:28:28,850
+- Scissors,…
+- Sharpen scissors and knives!
+
+293
+00:28:29,100 --> 00:28:33,330
+…sharpen knives!
+
+294
+00:28:35,980 --> 00:28:39,690
+Sharpen scissors and knives!
+
+295
+00:28:40,860 --> 00:28:43,930
+- Sharpen…
+- Greetings, Sir.
+
+296
+00:28:45,580 --> 00:28:47,890
+…scissors.
+
+297
+00:28:51,060 --> 00:28:53,780
+Some kids were messing
+around the garden,
+
+298
+00:28:54,260 --> 00:28:56,820
+sniffed out one of the ladders.
+
+299
+00:28:57,180 --> 00:28:59,010
+I had to hide it again.
+
+300
+00:28:59,100 --> 00:29:00,580
+Damn it!
+
+301
+00:29:00,660 --> 00:29:03,700
+We'll have to get moving.
+Greetings.
+
+302
+00:29:04,700 --> 00:29:06,820
+- See you tonight at the quarry.
+- Yeah, yeah.
+
+303
+00:29:06,900 --> 00:29:09,780
+- Tell Pajdák.
+- Yeah, yeah.
+
+304
+00:29:22,900 --> 00:29:25,020
+We'll never betray each other.
+
+305
+00:29:25,100 --> 00:29:27,140
+We'll always stay together.
+
+306
+00:29:27,220 --> 00:29:29,970
+- That we swear.
+- That we swear!
+
+307
+00:29:30,140 --> 00:29:32,290
+That we swear!
+
+308
+00:29:43,690 --> 00:29:48,340
+♫ Let our banner fly. On, on, on. ♫
+
+309
+00:29:48,640 --> 00:29:51,500
+♫ Telling all the girls… ♫
+
+310
+00:29:51,780 --> 00:29:52,930
+Fire!
+
+311
+00:29:53,020 --> 00:29:55,610
+Blasted math is on fire!
+
+312
+00:29:57,620 --> 00:30:00,580
+Now I've got nothing to study from.
+
+313
+00:30:00,660 --> 00:30:03,170
+You can have mine, Tom.
+
+314
+00:30:05,100 --> 00:30:07,410
+Looks like somebody's in our way.
+
+315
+00:30:07,500 --> 00:30:10,780
+Those brats again.
+
+316
+00:30:10,860 --> 00:30:12,820
+Let's scare them off!
+
+317
+00:30:12,900 --> 00:30:15,410
+- Go on!
+- Leave it to me!
+
+318
+00:30:29,140 --> 00:30:30,940
+What was that?
+
+319
+00:30:31,020 --> 00:30:33,820
+I think it's almost midnight.
+
+320
+00:30:34,220 --> 00:30:36,420
+We'd better go!
+
+321
+00:30:43,580 --> 00:30:45,410
+Hurry up!
+
+322
+00:31:17,780 --> 00:31:20,690
+Call this dynamite?
+
+323
+00:31:22,900 --> 00:31:25,860
+It's like soft soap!
+
+324
+00:31:26,180 --> 00:31:30,060
+Who'd guess it would get so soggy
+in just a few years?
+
+325
+00:31:32,780 --> 00:31:34,500
+So.
+
+326
+00:31:38,300 --> 00:31:40,340
+That's odd.
+
+327
+00:31:44,580 --> 00:31:49,420
+How about drying it up?
+
+328
+00:31:50,060 --> 00:31:52,700
+Sure. On your stove!
+
+329
+00:31:55,940 --> 00:31:58,610
+We'll have to postpone it!
+
+330
+00:31:59,220 --> 00:32:01,420
+I'll go and hide.
+
+331
+00:32:01,580 --> 00:32:02,850
+Mother won't be so mad in the morning.
+
+332
+00:32:02,940 --> 00:32:04,930
+- Bye.
+- Bye.
+
+333
+00:32:06,580 --> 00:32:08,010
+You rascal!
+
+334
+00:32:08,100 --> 00:32:09,930
+Is this any time to come home?
+
+335
+00:32:10,020 --> 00:32:13,220
+- Owwwwww! Mommy!
+- You devilish little rascal!
+
+336
+00:32:13,940 --> 00:32:17,650
+Keep still!
+I have to stay up till all hours!
+
+337
+00:32:19,340 --> 00:32:21,620
+Auntie's still up.
+
+338
+00:32:22,060 --> 00:32:23,380
+I'll sleep in the waiting room.
+
+339
+00:32:23,460 --> 00:32:24,610
+How about you?
+
+340
+00:32:24,700 --> 00:32:27,820
+I'm staying with a very nice farmer.
+
+341
+00:32:28,660 --> 00:32:31,890
+- Want to come with me?
+- All right, then.
+
+342
+00:32:33,300 --> 00:32:36,340
+You naughty boy!
+
+343
+00:32:36,420 --> 00:32:37,900
+Where've you been?
+Stop!
+
+344
+00:32:37,980 --> 00:32:40,620
+I've been worried to death.
+
+345
+00:32:41,820 --> 00:32:42,810
+Stay here!
+
+346
+00:32:42,900 --> 00:32:44,780
+Wenceslaus!
+
+347
+00:32:45,940 --> 00:32:47,850
+Wenceslaus!
+
+348
+00:32:50,940 --> 00:32:52,170
+Wenceslaus!
+
+349
+00:32:52,260 --> 00:32:56,410
+If you don't punish Tom this time,
+I would really begin to think
+
+350
+00:32:57,300 --> 00:32:59,770
+you don't know how to raise him.
+
+351
+00:32:59,860 --> 00:33:01,820
+Here's a belt, go on!
+
+352
+00:33:01,900 --> 00:33:04,130
+I'll punish him, Dear.
+And you go to bed!
+
+353
+00:33:04,220 --> 00:33:06,370
+- To bed!
+- I'll punish him, Apolena.
+
+354
+00:33:06,460 --> 00:33:08,850
+- Come along!
+- I've gotta see this!
+
+355
+00:33:08,940 --> 00:33:11,610
+- Where are you going?
+- I'll punish him!
+
+356
+00:33:13,900 --> 00:33:16,050
+I'll punish him!
+
+357
+00:33:18,940 --> 00:33:20,610
+Great!
+
+358
+00:33:21,140 --> 00:33:23,730
+No, Uncle, please, no…!
+
+359
+00:33:31,340 --> 00:33:33,900
+That's enough, Wenceslaus!
+
+360
+00:33:34,980 --> 00:33:38,770
+Do you hear?
+That hurts!
+
+361
+00:33:38,860 --> 00:33:43,570
+I always do things properly, Dear.
+
+362
+00:34:16,420 --> 00:34:19,490
+So it's you nesting up here at night!
+
+363
+00:34:19,780 --> 00:34:21,580
+Get out!
+
+364
+00:34:21,660 --> 00:34:23,890
+Now!
+You urchin!
+
+365
+00:34:24,340 --> 00:34:26,980
+Just you try to come back!
+
+366
+00:34:32,940 --> 00:34:35,690
+I don't keep you busy enough.
+
+367
+00:34:36,140 --> 00:34:40,050
+I let you play on Saturdays
+and you've misused my goodwill,
+
+368
+00:34:40,140 --> 00:34:42,370
+been up to no good.
+
+369
+00:34:42,460 --> 00:34:43,810
+All that is going to change.
+
+370
+00:34:43,900 --> 00:34:47,690
+Start stirring.
+
+371
+00:34:49,380 --> 00:34:51,660
+Well stir! Stir!
+
+372
+00:34:52,300 --> 00:34:54,260
+When you've whitewashed the fence,
+you can go for a swim.
+
+373
+00:34:54,340 --> 00:34:56,330
+In the end, you'll find
+work is fun.
+
+374
+00:34:56,420 --> 00:34:58,060
+Fun, my foot.
+
+375
+00:34:58,140 --> 00:34:59,780
+Did you say anything?
+
+376
+00:34:59,860 --> 00:35:01,900
+No, nothing.
+
+377
+00:35:02,820 --> 00:35:05,180
+Tom, have you borrowed my ladder?
+
+378
+00:35:05,260 --> 00:35:06,900
+It's disappeared.
+
+379
+00:35:06,980 --> 00:35:09,810
+And somebody borrowed Valetta's, too.
+
+380
+00:35:09,900 --> 00:35:13,450
+How could a little boy
+carry away a big ladder?
+
+381
+00:35:13,980 --> 00:35:16,020
+And for what?
+
+382
+00:35:16,660 --> 00:35:18,490
+Come on, start already!
+
+383
+00:35:18,580 --> 00:35:21,250
+What if I whitewashed a half today
+
+384
+00:35:21,580 --> 00:35:22,980
+and a half next Saturday?
+
+385
+00:35:23,060 --> 00:35:25,570
+No, my little shirker.
+
+386
+00:35:27,260 --> 00:35:29,820
+And no arguments, either.
+
+387
+00:35:30,460 --> 00:35:33,050
+You can't talk me out of this now!
+
+388
+00:35:33,220 --> 00:35:36,420
+I'll have to wash
+all this laundry again.
+
+389
+00:35:36,700 --> 00:35:38,370
+Tsk, tsk! Tsk, tsk!
+
+390
+00:35:56,020 --> 00:35:58,740
+You have to whitewash that fence?
+
+391
+00:36:00,860 --> 00:36:03,090
+That's hard work.
+
+392
+00:36:03,620 --> 00:36:05,850
+It's you, is it?
+
+393
+00:36:06,460 --> 00:36:09,450
+I'm going for a swim.
+Are you coming?
+
+394
+00:36:10,540 --> 00:36:12,900
+No, you have to work.
+
+395
+00:36:13,300 --> 00:36:15,660
+Calling this work?
+
+396
+00:36:16,100 --> 00:36:18,490
+Well, isn't it work?
+
+397
+00:36:18,660 --> 00:36:20,570
+When did you last whitewash
+a fence?
+
+398
+00:36:20,660 --> 00:36:25,500
+I've never whitewashed one.
+
+399
+00:36:25,580 --> 00:36:27,330
+I'm not surprised.
+
+400
+00:36:27,420 --> 00:36:29,780
+You can't be trusted with
+a job like that.
+
+401
+00:36:29,860 --> 00:36:34,250
+Wenceslaus!
+Make sure not to help Tom!
+
+402
+00:36:34,380 --> 00:36:35,940
+The fence is his business.
+
+403
+00:36:36,020 --> 00:36:38,010
+See, she wouldn't even entrust it
+to him.
+
+404
+00:36:38,460 --> 00:36:41,020
+Let me have a try, Tom.
+
+405
+00:36:42,780 --> 00:36:46,060
+Auntie's very particular
+about her fence.
+
+406
+00:36:46,380 --> 00:36:48,210
+Please.
+
+407
+00:36:48,380 --> 00:36:50,740
+Go for a swim!
+Why don't you go for a swim?
+
+408
+00:36:50,820 --> 00:36:53,100
+I'll be ever so careful.
+
+409
+00:36:53,180 --> 00:36:55,330
+Let me have a go at it.
+
+410
+00:36:55,420 --> 00:36:57,730
+Auntie could look out of the window.
+
+411
+00:36:57,820 --> 00:37:00,130
+She's not looking!
+
+412
+00:37:01,100 --> 00:37:06,050
+I'll let you have a bite
+of my apple strudel.
+
+413
+00:37:08,940 --> 00:37:13,890
+You can have it,
+and a dead rat on a string.
+
+414
+00:37:15,300 --> 00:37:17,420
+Not even for a live one.
+
+415
+00:37:17,500 --> 00:37:19,570
+But if you give me
+your pink “praise” card,
+
+416
+00:37:19,660 --> 00:37:22,650
+the one the teacher
+gave you yesterday.
+
+417
+00:37:23,140 --> 00:37:27,420
+One's no good to you anyway.
+It won't get you the book.
+
+418
+00:37:28,020 --> 00:37:30,170
+Or don't bother.
+
+419
+00:37:30,420 --> 00:37:33,250
+It's not worth that stupid card.
+
+420
+00:37:33,540 --> 00:37:36,820
+I'll get it!
+Don't use up all the paint!
+
+421
+00:37:47,620 --> 00:37:50,210
+- Hi, Tom!
+- Hi, Thomas!
+
+422
+00:37:56,300 --> 00:38:00,930
+Bad luck, Tom!
+
+423
+00:38:01,140 --> 00:38:02,810
+Not at all.
+
+424
+00:38:02,900 --> 00:38:05,620
+I've never been this well off.
+
+425
+00:38:06,500 --> 00:38:09,140
+But you've got to
+whitewash the fence!
+
+426
+00:38:09,220 --> 00:38:10,410
+Sure!
+
+427
+00:38:10,500 --> 00:38:12,410
+We're off to conquer Castle Pockstein.
+
+428
+00:38:12,500 --> 00:38:14,380
+So what.
+
+429
+00:38:15,060 --> 00:38:16,730
+Anybody can do that.
+
+430
+00:38:16,820 --> 00:38:19,290
+And you think anyone
+can't wave a brush around?
+
+431
+00:38:19,380 --> 00:38:21,740
+- Hand it over!
+- Not so fast!
+
+432
+00:38:21,820 --> 00:38:25,890
+I only hand it out in exchange
+for teacher's “praise” cards.
+
+433
+00:38:26,180 --> 00:38:27,850
+You have two, don't you?
+
+434
+00:38:27,940 --> 00:38:31,620
+Three, blue ones.
+
+435
+00:38:32,540 --> 00:38:34,450
+I have three too,
+and a pink one.
+
+436
+00:38:34,540 --> 00:38:35,940
+Want the pink one?
+
+437
+00:38:36,020 --> 00:38:38,170
+I asked first.
+
+438
+00:38:38,540 --> 00:38:40,970
+How many planks for three blue ones?
+
+439
+00:38:41,060 --> 00:38:43,180
+Three planks.
+
+440
+00:38:44,180 --> 00:38:45,580
+Just watch!
+
+441
+00:38:45,660 --> 00:38:48,050
+How many for my pink one?
+
+442
+00:38:48,140 --> 00:38:50,180
+Five planks.
+
+443
+00:38:50,260 --> 00:38:52,170
+I've got a pink one too.
+
+444
+00:38:52,260 --> 00:38:53,530
+So you get five planks.
+
+445
+00:38:53,620 --> 00:38:55,770
+There you go, Gentlemen.
+
+446
+00:39:35,180 --> 00:39:37,090
+Good morning!
+
+447
+00:39:37,180 --> 00:39:38,740
+Good morning!
+
+448
+00:39:38,820 --> 00:39:40,810
+- Sit!
+- Tom!
+
+449
+00:39:43,300 --> 00:39:46,500
+Take your hands
+off the wheel, dammit!
+
+450
+00:39:49,300 --> 00:39:51,050
+Auntie!
+
+451
+00:39:51,540 --> 00:39:53,970
+Can I go and play now?
+
+452
+00:39:57,540 --> 00:40:01,900
+How much have you painted?
+
+453
+00:40:02,500 --> 00:40:04,250
+- The lot.
+- I'm going to have a look.
+
+454
+00:40:04,340 --> 00:40:06,490
+- Auntie!
+- Boys!
+
+455
+00:40:08,220 --> 00:40:10,780
+Into the latrine, quick!
+
+456
+00:40:16,020 --> 00:40:18,170
+Don't lie to me!
+
+457
+00:40:18,700 --> 00:40:21,340
+You know I can't bear lies.
+
+458
+00:40:24,380 --> 00:40:26,890
+I'm not lying, Auntie.
+
+459
+00:40:33,340 --> 00:40:36,780
+I gave it two coats,
+to make a good job of it.
+
+460
+00:40:37,220 --> 00:40:39,970
+You see how good you can be.
+
+461
+00:40:40,540 --> 00:40:43,340
+But you don't often want to be.
+
+462
+00:40:44,820 --> 00:40:47,250
+- Look at his hands!
+- What?
+
+463
+00:40:47,340 --> 00:40:49,980
+He's got no paint on him!
+
+464
+00:40:51,460 --> 00:40:53,290
+The boys did it for him.
+
+465
+00:40:53,380 --> 00:40:55,370
+And, Mommy…
+
+466
+00:41:01,140 --> 00:41:06,010
+Come here, Tom!
+
+467
+00:41:09,820 --> 00:41:12,100
+Show me your hands!
+
+468
+00:41:13,780 --> 00:41:17,140
+You, shame on you!
+Telling tales and fibbing.
+
+469
+00:41:17,820 --> 00:41:19,170
+Good boy, Tom.
+Go and play.
+
+470
+00:41:19,260 --> 00:41:22,380
+And you—home!
+You'll darn socks all day.
+
+471
+00:41:22,460 --> 00:41:23,450
+- No!
+- No?
+
+472
+00:41:23,540 --> 00:41:26,450
+You'll kneel on dried peas, then.
+
+473
+00:41:26,540 --> 00:41:27,500
+LADIES
+
+474
+00:42:25,260 --> 00:42:27,730
+Apolena Dear, is that you?
+
+475
+00:42:31,300 --> 00:42:35,580
+I'm not sleeping, of course I'm not.
+
+476
+00:42:36,140 --> 00:42:40,130
+I'm tidying up.
+
+477
+00:42:41,580 --> 00:42:43,570
+Oh, it's you.
+
+478
+00:42:44,540 --> 00:42:48,580
+It seemed… That is, I thought
+that someone was knocking on the door.
+
+479
+00:42:49,580 --> 00:42:50,930
+You want to go some place?
+
+480
+00:42:51,020 --> 00:42:53,170
+Yes, to Újezd.
+
+481
+00:42:53,740 --> 00:42:57,340
+Nobody takes this train.
+
+482
+00:42:58,380 --> 00:43:00,940
+Most days it doesn't stop.
+
+483
+00:43:01,140 --> 00:43:03,570
+What do you want, then?
+
+484
+00:43:04,060 --> 00:43:06,620
+- A ticket, I expect.
+- Yes.
+
+485
+00:43:25,260 --> 00:43:26,740
+Hey, Pakrčka!
+
+486
+00:43:26,860 --> 00:43:29,660
+Hello, Wenceslaus.
+Here!
+
+487
+00:43:29,740 --> 00:43:32,100
+- Wait, Lad! Hey, stop!
+- Stop!
+
+488
+00:43:32,180 --> 00:43:35,300
+You wave too,
+he thinks we're making fun of him!
+
+489
+00:43:35,380 --> 00:43:37,050
+Stop!
+
+490
+00:43:39,220 --> 00:43:41,810
+Take it easy, Wenceslaus!
+
+491
+00:43:42,100 --> 00:43:44,010
+Off we go!
+
+492
+00:44:27,460 --> 00:44:29,610
+Mom! Behind you!
+
+493
+00:44:32,180 --> 00:44:33,900
+Scram!
+
+494
+00:44:35,740 --> 00:44:39,050
+What are you doing?
+I'll hit you for this!
+
+495
+00:44:40,060 --> 00:44:42,340
+Come here, my baby.
+
+496
+00:44:50,540 --> 00:44:52,450
+OK, boys.
+
+497
+00:45:06,060 --> 00:45:08,340
+Where are you off to?
+
+498
+00:45:08,420 --> 00:45:10,650
+Nowhere in particular.
+
+499
+00:46:14,740 --> 00:46:18,180
+I need four more blue cards
+and some pink ones,
+
+500
+00:46:18,260 --> 00:46:20,650
+to have more than Máca.
+
+501
+00:46:20,740 --> 00:46:25,690
+They still hand out their dumb cards?
+
+502
+00:46:28,020 --> 00:46:30,410
+Teacher thinks it's clever.
+
+503
+00:46:30,500 --> 00:46:34,700
+You think you could get that book, Tom?
+
+504
+00:46:35,060 --> 00:46:37,570
+I'll get it all right.
+
+505
+00:46:37,900 --> 00:46:42,130
+Maybe I could get some cards for you.
+
+506
+00:46:42,900 --> 00:46:45,860
+How? You've never been to school.
+
+507
+00:46:46,540 --> 00:46:49,980
+Yes I have! Once.
+
+508
+00:46:50,500 --> 00:46:52,540
+Do you want them or not?
+
+509
+00:47:33,100 --> 00:47:36,650
+- But that's the Principal's Office.
+- That's right.
+
+510
+00:47:37,020 --> 00:47:40,250
+Who did you think has them?
+The Janitor? Yeah, the Janitor!
+
+511
+00:47:52,180 --> 00:47:54,610
+Where are you, cowards?
+
+512
+00:48:03,620 --> 00:48:05,980
+Morning, Your Grace.
+
+513
+00:48:39,780 --> 00:48:42,500
+Come closer, help yourselves!
+
+514
+00:48:42,900 --> 00:48:47,020
+Four will do for me, or five.
+Or I'd better take eight, or ten.
+
+515
+00:48:47,620 --> 00:48:49,420
+I'll take a few too.
+
+516
+00:48:49,500 --> 00:48:51,220
+I was never given any.
+
+517
+00:48:51,300 --> 00:48:51,860
+There.
+
+518
+00:48:51,940 --> 00:48:55,410
+Five more pink ones for you
+and five more pink ones for me.
+
+519
+00:48:55,500 --> 00:48:57,930
+Isn't it great, Your Grace?
+
+520
+00:49:39,540 --> 00:49:44,490
+♫ Welcome. Welcome.
+Welcome to us. ♫
+
+521
+00:50:28,660 --> 00:50:32,290
+Good.
+Máca!
+
+522
+00:50:33,620 --> 00:50:35,290
+Máca!
+
+523
+00:50:36,980 --> 00:50:40,500
+- Máca!
+- Máca! Máca! Máca!
+
+524
+00:50:58,820 --> 00:51:01,460
+- You didn't bow.
+- I did bow.
+
+525
+00:51:09,500 --> 00:51:11,570
+Please, Sir…
+
+526
+00:51:48,700 --> 00:51:51,260
+One, two, three, four…
+
+527
+00:52:51,780 --> 00:52:53,450
+Down!
+
+528
+00:53:07,660 --> 00:53:09,540
+Thank you.
+
+529
+00:53:11,020 --> 00:53:13,220
+What is all this?
+
+530
+00:53:18,660 --> 00:53:21,570
+- He's asking what it means.
+- What?
+
+531
+00:53:21,820 --> 00:53:23,620
+He's asking what this means!
+
+532
+00:53:23,700 --> 00:53:26,130
+Aha.
+Get up, children!
+
+533
+00:53:29,180 --> 00:53:34,130
+As a history lesson we presented
+a tableau
+
+534
+00:53:35,980 --> 00:53:37,730
+on the Conquest of Castle Pockstein.
+
+535
+00:53:37,820 --> 00:53:41,860
+Legends tell of a hidden treasure
+guarded there by Philomena
+
+536
+00:53:42,020 --> 00:53:44,010
+and Fire Dog.
+
+537
+00:53:44,860 --> 00:53:48,410
+We left out the Fire Dog
+for pedagogical reasons.
+
+538
+00:53:48,860 --> 00:53:50,690
+Excellent!
+
+539
+00:53:50,780 --> 00:53:52,930
+I thank you all.
+
+540
+00:53:54,780 --> 00:53:59,730
+- Now I think we can start.
+- Yes, Inspector.
+
+541
+00:54:04,180 --> 00:54:06,410
+I'll do it myself.
+
+542
+00:54:13,060 --> 00:54:18,010
+Dear attendees, dear children.
+
+543
+00:54:18,700 --> 00:54:23,540
+Our most honoured guest,
+Inspector Shibranyi,
+
+544
+00:54:23,620 --> 00:54:28,570
+has dedicated a book to the best student.
+
+545
+00:54:37,900 --> 00:54:41,290
+Personally signed…
+
+546
+00:54:41,900 --> 00:54:46,850
+So who has the largest number
+of pink and blue cards?
+
+547
+00:54:47,420 --> 00:54:52,020
+So who will be the lucky owner
+of this wonderful book?
+
+548
+00:54:52,180 --> 00:54:53,610
+- The other way round.
+- Pardon?
+
+549
+00:54:53,700 --> 00:54:55,500
+- The book.
+- Oh, sorry.
+
+550
+00:55:00,300 --> 00:55:04,090
+Here, please!
+
+551
+00:55:04,940 --> 00:55:09,890
+- Ahh, Voříšek!
+Let us see how many you have.
+
+552
+00:55:11,420 --> 00:55:15,300
+Five blue, three pink.
+
+553
+00:55:16,900 --> 00:55:19,730
+And Máca?
+
+554
+00:55:20,500 --> 00:55:23,090
+The best boy in the class.
+
+555
+00:55:27,780 --> 00:55:30,250
+I have seven blue ones.
+
+556
+00:55:31,380 --> 00:55:36,330
+Yes, seven blue?
+Eleven in all.
+
+557
+00:55:37,180 --> 00:55:39,610
+Does anybody have more?
+
+558
+00:55:43,700 --> 00:55:46,340
+- I do.
+Twelve blue cards.
+
+559
+00:55:47,260 --> 00:55:50,700
+- No!
+- And ten pink.
+
+560
+00:55:54,580 --> 00:55:56,570
+- Excellent!
+
+561
+00:56:17,180 --> 00:56:19,770
+I have that many too, Sir.
+
+562
+00:56:28,500 --> 00:56:33,450
+Two exemplary boys in one class!
+
+563
+00:56:35,060 --> 00:56:39,900
+Congratulations.
+
+564
+00:56:44,060 --> 00:56:46,620
+But I only have one book.
+
+565
+00:56:47,020 --> 00:56:50,730
+What do we do?
+
+566
+00:57:14,500 --> 00:57:15,570
+I'll show you…
+
+567
+00:57:15,660 --> 00:57:18,090
+I know what we'll do.
+
+568
+00:57:22,660 --> 00:57:25,890
+Instead of a book
+they get a good beating.
+
+569
+00:57:27,100 --> 00:57:30,410
+Till they confess
+how they got those cards.
+
+570
+00:57:35,940 --> 00:57:37,850
+Turn the key! Turn it!
+
+571
+00:57:41,380 --> 00:57:44,210
+- Bring in their parents.
+- Both of them?
+
+572
+00:57:44,300 --> 00:57:46,420
+- Both.
+- Right.
+
+573
+00:57:52,580 --> 00:57:55,490
+Boys! Boys!
+
+574
+00:58:05,260 --> 00:58:08,090
+Why cry now, they can't see you.
+
+575
+00:58:12,300 --> 00:58:16,130
+Joe, come and watch!
+
+576
+00:58:19,820 --> 00:58:21,490
+Saved!
+
+577
+00:58:21,580 --> 00:58:25,100
+We won't cry, they will!
+
+578
+00:58:34,020 --> 00:58:36,580
+- What's the hammer for?
+- Well, what would a hammer be for…
+
+579
+00:58:36,660 --> 00:58:38,300
+We'll find the treasure.
+
+580
+00:58:38,380 --> 00:58:41,210
+Tapping the wall's the best way.
+
+581
+00:58:49,020 --> 00:58:52,410
+I've taken some wine,
+let's have a good time.
+
+582
+00:59:13,940 --> 00:59:16,770
+Wait!
+I'll get something too.
+
+583
+00:59:27,540 --> 00:59:30,010
+- Good afternoon.
+- Good afternoon.
+
+584
+00:59:57,460 --> 01:00:01,090
+- Am I clever?
+- Eggs, great!
+
+585
+01:00:06,540 --> 01:00:08,610
+- Am I clever?
+
+586
+01:00:10,100 --> 01:00:12,690
+- Am I clever?
+- What a bite!
+
+587
+01:00:28,140 --> 01:00:29,700
+How are we today, Station Master?
+
+588
+01:00:29,780 --> 01:00:33,140
+Same as always.
+
+589
+01:00:34,020 --> 01:00:35,450
+And you?
+
+590
+01:00:35,540 --> 01:00:38,100
+- Just the same.
+- I know.
+
+591
+01:00:38,260 --> 01:00:40,730
+- Get going.
+- Here we go!
+
+592
+01:00:47,500 --> 01:00:50,140
+Why not leave that case here
+
+593
+01:00:50,220 --> 01:00:51,700
+and go home for a cart?
+
+594
+01:00:51,780 --> 01:00:54,250
+No, it's quite light.
+
+595
+01:00:54,940 --> 01:00:57,220
+Just some paint from Újezd.
+
+596
+01:01:13,180 --> 01:01:16,810
+- My compliments, Sir.
+- Greetings, Sir.
+
+597
+01:01:17,060 --> 01:01:19,260
+Good afternoon.
+
+598
+01:01:28,660 --> 01:01:30,570
+Hey, Peter!
+
+599
+01:01:31,500 --> 01:01:34,410
+Come and help me with this suitcase,
+
+600
+01:01:34,500 --> 01:01:36,780
+if you're not too busy.
+
+601
+01:01:37,300 --> 01:01:39,890
+Of course I'll help you.
+
+602
+01:01:40,740 --> 01:01:45,690
+Naturally.
+
+603
+01:01:51,380 --> 01:01:53,180
+There.
+
+604
+01:02:00,340 --> 01:02:02,010
+Damn!
+
+605
+01:02:13,140 --> 01:02:15,260
+It's all right!
+
+606
+01:02:22,340 --> 01:02:26,090
+Think you're carting potatoes,
+you idiot?
+
+607
+01:02:46,900 --> 01:02:49,290
+- Good afternoon.
+- Good afternoon.
+
+608
+01:03:06,220 --> 01:03:08,860
+You call this well hidden?!
+
+609
+01:03:10,380 --> 01:03:13,340
+Let's go.
+
+610
+01:03:15,700 --> 01:03:17,450
+Hurry!
+
+611
+01:03:32,500 --> 01:03:34,970
+- Thomas!
+- Pity I couldn't give you the book.
+
+612
+01:03:35,060 --> 01:03:36,620
+They're looking for you.
+
+613
+01:03:36,700 --> 01:03:38,370
+They won't find me.
+
+614
+01:03:38,460 --> 01:03:41,930
+We're going to Pockstein,
+to find the treasure.
+
+615
+01:03:42,100 --> 01:03:44,140
+I'll be a rich man.
+
+616
+01:03:44,220 --> 01:03:46,780
+I want us to get engaged.
+
+617
+01:03:47,900 --> 01:03:50,290
+I'm busy right now.
+
+618
+01:03:51,020 --> 01:03:52,140
+It doesn't take long.
+
+619
+01:03:52,220 --> 01:03:55,260
+You give me a kiss
+and we're engaged.
+
+620
+01:03:55,540 --> 01:03:59,850
+Somebody could see us.
+
+621
+01:04:00,060 --> 01:04:02,100
+There's nobody around.
+
+622
+01:04:02,180 --> 01:04:04,300
+What if there is?
+
+623
+01:04:04,380 --> 01:04:06,810
+I said there wasn't.
+
+624
+01:04:07,140 --> 01:04:09,700
+- But… Oh no!
+- Oh yes.
+
+625
+01:04:10,260 --> 01:04:12,490
+- Oh no!
+- Oh yes.
+
+626
+01:04:13,180 --> 01:04:15,380
+Close your eyes, then.
+
+627
+01:04:15,460 --> 01:04:17,580
+- Oh no!
+- Oh yes!
+
+628
+01:04:18,300 --> 01:04:20,370
+- Oh no!
+- Oh yes.
+
+629
+01:04:20,460 --> 01:04:22,660
+- Oh no!
+- Oh yes!
+
+630
+01:04:23,100 --> 01:04:25,090
+Oh no, no!
+
+631
+01:04:27,900 --> 01:04:30,130
+It's better with you than with Ann.
+
+632
+01:04:30,220 --> 01:04:33,020
+You've been engaged to Ann?!
+
+633
+01:04:33,380 --> 01:04:35,610
+But it was no fun at all.
+Honestly.
+
+634
+01:04:35,700 --> 01:04:39,010
+- I don't care for her any more.
+- Liar, you do!
+
+635
+01:04:39,300 --> 01:04:40,530
+- I swear I don't!
+- Don't swear!
+
+636
+01:04:40,620 --> 01:04:41,580
+- I swear!
+- Don't swear!
+
+637
+01:04:41,660 --> 01:04:43,540
+Becky!
+
+638
+01:04:57,620 --> 01:04:59,260
+What's the matter?
+
+639
+01:04:59,340 --> 01:05:01,650
+Why are you crying?
+
+640
+01:05:01,900 --> 01:05:04,130
+A wasp stung me.
+
+641
+01:05:10,020 --> 01:05:14,970
+I've never got engaged.
+
+642
+01:05:15,660 --> 01:05:20,610
+She'd cry, and I'd have to ask her why.
+
+643
+01:05:21,820 --> 01:05:25,050
+- That would make me fed up.
+- A boat, boys!
+
+644
+01:05:28,460 --> 01:05:30,020
+Now we're definitely buried.
+
+645
+01:05:30,100 --> 01:05:34,330
+They'll find the boat and our stuff
+and they'll think we drowned.
+
+646
+01:05:39,180 --> 01:05:40,930
+Amen.
+
+647
+01:06:00,780 --> 01:06:03,980
+Unless that cry–baby
+policeman's daughter
+
+648
+01:06:04,060 --> 01:06:06,210
+quacks about us going to Pockstein.
+
+649
+01:06:06,300 --> 01:06:09,290
+What did you say she does?
+Quacks?
+
+650
+01:06:11,020 --> 01:06:14,330
+Leave it, boys!
+
+651
+01:06:14,460 --> 01:06:17,130
+The eggs are in you pockets!
+
+652
+01:06:17,660 --> 01:06:22,610
+♫ Don't stand there, come along. ♫
+
+653
+01:06:23,420 --> 01:06:26,300
+♫ We three are the best of the lot, ♫
+
+654
+01:06:26,380 --> 01:06:28,810
+♫ the pick of the bunch. ♫
+
+655
+01:06:31,620 --> 01:06:36,570
+♫ Don't stand there, come along. ♫
+
+656
+01:06:37,540 --> 01:06:40,500
+♫ We're off to find glory and riches ♫
+
+657
+01:06:40,580 --> 01:06:44,490
+♫ just as the story–books say. ♫
+
+658
+01:06:46,340 --> 01:06:49,460
+♫ Let our banner fly. ♫
+
+659
+01:06:49,540 --> 01:06:53,090
+♫ On, on, on. ♫
+
+660
+01:06:53,500 --> 01:06:55,930
+♫ Telling all the girls, ♫
+
+661
+01:06:56,300 --> 01:06:58,100
+♫ That we are sailing on. ♫
+
+662
+01:06:58,180 --> 01:07:00,330
+♫ We are sailing on! ♫
+
+663
+01:07:00,540 --> 01:07:01,810
+♫ He, you and I. ♫
+
+664
+01:07:01,900 --> 01:07:06,850
+♫ Don't stand there, come along. ♫
+
+665
+01:07:07,660 --> 01:07:10,540
+♫ For all the treasures in the world ♫
+
+666
+01:07:10,620 --> 01:07:14,010
+♫ that await us! ♫
+
+667
+01:07:24,380 --> 01:07:27,450
+And now we're the lords of Pockstein!
+
+668
+01:07:28,980 --> 01:07:31,450
+We are the Pocksteins!
+
+669
+01:07:32,220 --> 01:07:34,730
+We are the Pocksteins!
+
+670
+01:07:41,860 --> 01:07:44,170
+As a history lesson
+
+671
+01:07:44,260 --> 01:07:46,140
+we presented a tableau
+
+672
+01:07:46,220 --> 01:07:49,210
+on the Conquest of Castle Pockstein.
+
+673
+01:07:49,420 --> 01:07:50,300
+Legends tell…
+
+674
+01:07:50,380 --> 01:07:53,130
+…of a hidden treasure,
+guarded there
+
+675
+01:07:53,220 --> 01:07:57,450
+by Philomena and the Fire Dog.
+
+676
+01:08:03,980 --> 01:08:07,610
+We left out the Fire Dog
+for pedagogical reasons.
+
+677
+01:08:08,780 --> 01:08:11,420
+But we're not leaving it out.
+
+678
+01:08:11,500 --> 01:08:13,930
+The Pockstein Fire Dog.
+
+679
+01:08:14,620 --> 01:08:17,770
+Jose Pockstein—Hand Dripping Blood!
+
+680
+01:08:30,180 --> 01:08:33,060
+Tom Pockstein—Black Lightning!
+
+681
+01:09:02,220 --> 01:09:07,170
+I wonder why the grown–ups
+
+682
+01:09:10,020 --> 01:09:12,530
+take just a lick of wine
+
+683
+01:09:12,620 --> 01:09:15,450
+and are up to all sorts of things.
+
+684
+01:09:15,620 --> 01:09:19,980
+I don't feel a thing.
+
+685
+01:09:20,580 --> 01:09:22,650
+As if I'd drunk water.
+
+686
+01:09:22,740 --> 01:09:25,810
+D'you hear?
+
+687
+01:09:27,260 --> 01:09:29,060
+Snoring.
+
+688
+01:09:38,740 --> 01:09:41,330
+Wait, wasn't that a light?
+
+689
+01:09:43,100 --> 01:09:44,820
+Where do you see a light?
+
+690
+01:09:44,900 --> 01:09:45,940
+Up there.
+
+691
+01:09:46,020 --> 01:09:48,530
+Seeing white mice, too?
+
+692
+01:09:48,620 --> 01:09:51,820
+Whoever'd climb up here in this weather.
+
+693
+01:09:54,420 --> 01:09:55,740
+I saw a light.
+
+694
+01:09:55,820 --> 01:09:58,330
+There was nothing there.
+Quickly!
+
+695
+01:09:58,420 --> 01:10:02,460
+- But I swear I saw a light.
+- I said you couldn't have! Climb up!
+
+696
+01:10:02,540 --> 01:10:06,170
+- Say what you like, I saw a light!
+- Yeah, right. A light!
+
+697
+01:10:13,420 --> 01:10:14,930
+Here's the hiding place.
+
+698
+01:10:15,020 --> 01:10:19,140
+Lined like a fortress,
+don't worry, Boss!
+
+699
+01:10:19,380 --> 01:10:21,370
+All right.
+
+700
+01:10:23,300 --> 01:10:25,450
+I smell smoke.
+
+701
+01:10:29,500 --> 01:10:31,380
+Just sniff!
+
+702
+01:10:31,460 --> 01:10:33,210
+Are you a dog or what?
+
+703
+01:10:33,300 --> 01:10:35,970
+Hurry up, I want to be home!
+
+704
+01:10:36,540 --> 01:10:39,450
+When it starts raining
+there won't be a clue.
+
+705
+01:10:39,540 --> 01:10:40,860
+- Finished?
+- Yeah.
+
+706
+01:10:40,940 --> 01:10:43,010
+Come on then!
+
+707
+01:10:45,020 --> 01:10:48,250
+And now none of us comes here
+for a week.
+
+708
+01:10:50,460 --> 01:10:52,740
+My, what a flash!
+
+709
+01:10:52,980 --> 01:10:57,180
+They'll be sniffing about
+but we'll just see to our business.
+
+710
+01:10:57,620 --> 01:10:58,940
+We meet here in a week's time.
+
+711
+01:10:59,020 --> 01:11:03,090
+- Then we'll divvy up.
+- We'll divide it up nicely!
+
+712
+01:11:03,220 --> 01:11:06,370
+- It's starting to pour!
+Come on! Come on!
+
+713
+01:11:22,580 --> 01:11:25,170
+You say three kids did it?
+
+714
+01:11:30,060 --> 01:11:32,130
+Definitely not.
+
+715
+01:11:32,620 --> 01:11:34,420
+Three, maybe.
+
+716
+01:11:34,500 --> 01:11:36,620
+But old crooks.
+
+717
+01:11:39,020 --> 01:11:41,170
+They've drowned.
+
+718
+01:11:42,100 --> 01:11:45,330
+Our Joey has drowned!
+
+719
+01:11:45,420 --> 01:11:47,730
+They've drowned!
+
+720
+01:11:47,860 --> 01:11:52,220
+Apolena, they're dead!
+
+721
+01:11:53,060 --> 01:11:58,010
+Our little angels.
+They found the capsized boat.
+
+722
+01:12:28,620 --> 01:12:30,980
+A white coffin, Father.
+
+723
+01:12:31,060 --> 01:12:32,860
+My idea.
+
+724
+01:12:35,340 --> 01:12:38,250
+If they don't find them soon
+we'll give them all a funeral.
+
+725
+01:12:38,340 --> 01:12:40,730
+How can they have a funeral
+if we don't find them?
+
+726
+01:12:40,820 --> 01:12:42,140
+A symbolic funeral.
+
+727
+01:12:42,220 --> 01:12:45,450
+We'll put their things
+inside the coffins.
+
+728
+01:12:48,140 --> 01:12:50,340
+- Good morning.
+- Good morning.
+
+729
+01:12:50,420 --> 01:12:51,900
+They still haven't found them?
+
+730
+01:12:51,980 --> 01:12:53,380
+Where are they searching now?
+
+731
+01:12:53,460 --> 01:12:55,660
+Under the weir.
+
+732
+01:12:58,100 --> 01:12:59,740
+Sir!
+
+733
+01:13:16,060 --> 01:13:18,370
+Poor little orphan.
+
+734
+01:13:19,140 --> 01:13:24,090
+That's not Tom's cap,
+it's mine!
+
+735
+01:13:24,180 --> 01:13:26,060
+Don't begrudge a dead boy your cap!
+
+736
+01:13:26,140 --> 01:13:27,810
+No!
+
+737
+01:13:28,740 --> 01:13:32,620
+Sir!
+
+738
+01:13:34,860 --> 01:13:36,740
+A shirt.
+
+739
+01:13:47,500 --> 01:13:50,810
+That's dear Joey's.
+
+740
+01:13:52,580 --> 01:13:56,210
+My poor boy!
+
+741
+01:13:56,500 --> 01:13:58,810
+He's somewhere out there
+
+742
+01:13:58,900 --> 01:14:03,850
+with nary a shirt on.
+
+743
+01:14:12,700 --> 01:14:16,820
+Tom, maybe Pockstein spent
+
+744
+01:14:16,940 --> 01:14:18,980
+all his riches.
+
+745
+01:14:19,060 --> 01:14:21,700
+Maybe there's nothing here.
+
+746
+01:14:22,460 --> 01:14:27,410
+Who cares about a treasure,
+
+747
+01:14:27,820 --> 01:14:30,130
+let's go for a swing!
+
+748
+01:14:38,700 --> 01:14:40,500
+Huck!
+
+749
+01:14:45,340 --> 01:14:47,140
+Huck!
+
+750
+01:14:49,380 --> 01:14:51,180
+Huck!
+
+751
+01:14:58,020 --> 01:15:00,580
+Now you're staring, eh?
+
+752
+01:15:05,980 --> 01:15:08,100
+Who's that for?
+
+753
+01:15:09,780 --> 01:15:13,170
+Tom, we're engaged.
+
+754
+01:15:14,100 --> 01:15:17,890
+You don't say! And aren't you
+only imagining it, maybe?
+
+755
+01:15:18,460 --> 01:15:21,210
+He gave me a kiss, so there.
+
+756
+01:15:23,100 --> 01:15:26,410
+Are you sure? Are you sure
+you're not imagining it?
+
+757
+01:15:29,300 --> 01:15:33,090
+If you'd been engaged,
+he'd have told you where he is.
+
+758
+01:15:33,820 --> 01:15:35,010
+He didn't tell you.
+
+759
+01:15:35,100 --> 01:15:37,170
+You don't know a thing.
+
+760
+01:15:37,260 --> 01:15:39,620
+Where is he, then?
+
+761
+01:15:40,620 --> 01:15:43,340
+Wouldn't you like to know!
+
+762
+01:15:45,420 --> 01:15:47,930
+Don't be so nosy!
+
+763
+01:15:57,420 --> 01:16:02,370
+- 2,200, 2,300, 2,400, 2,500…
+- 3,020, 3,070, 3,170, 3,270…
+
+764
+01:16:09,780 --> 01:16:10,820
+I give up!
+
+765
+01:16:10,900 --> 01:16:13,260
+I didn't run away from home
+to spend my time doing addition.
+
+766
+01:16:13,340 --> 01:16:15,220
+Now you've mixed me up!
+
+767
+01:16:15,300 --> 01:16:17,580
+How much did I say?
+
+768
+01:16:18,660 --> 01:16:20,970
+How much did I say?
+
+769
+01:16:21,820 --> 01:16:23,780
+Asking me?
+
+770
+01:16:24,820 --> 01:16:27,490
+Let's just share out anyhow.
+
+771
+01:16:28,420 --> 01:16:31,540
+I don't care if I get
+a thousand more or less.
+
+772
+01:16:31,620 --> 01:16:33,500
+Me neither.
+
+773
+01:16:35,300 --> 01:16:39,980
+One blue pack for me,
+one for you, one for Joe.
+
+774
+01:16:40,180 --> 01:16:43,570
+One big one for me,
+one for you, one for Joe.
+
+775
+01:16:44,100 --> 01:16:47,700
+One old man for you,
+one for Huck, one for me.
+
+776
+01:16:49,260 --> 01:16:51,980
+You know what
+I don't get, boys…
+
+777
+01:16:52,460 --> 01:16:55,500
+Pockstein used the same money we do.
+
+778
+01:16:55,700 --> 01:16:58,500
+Just the same.
+
+779
+01:17:02,700 --> 01:17:05,500
+Oh my!
+
+780
+01:18:10,020 --> 01:18:13,060
+…our beloved boys,
+with whom we all lived
+
+781
+01:18:13,140 --> 01:18:15,260
+in love and friendship.
+
+782
+01:18:15,340 --> 01:18:18,010
+They were part of our lives.
+
+783
+01:18:19,500 --> 01:18:24,420
+We lose so much by their departure.
+
+784
+01:18:25,060 --> 01:18:27,620
+All the more painful the loss,
+
+785
+01:18:27,700 --> 01:18:30,610
+they were our most talented
+
+786
+01:18:30,700 --> 01:18:34,250
+and most diligent pupils.
+
+787
+01:18:34,900 --> 01:18:39,850
+We were proud of them.
+
+788
+01:18:45,540 --> 01:18:50,490
+Our pride and joy, our example.
+
+789
+01:18:51,580 --> 01:18:56,530
+Never shall we forget
+
+790
+01:18:56,940 --> 01:19:01,380
+our three noble, splendid boys.
+
+791
+01:19:01,660 --> 01:19:03,380
+He's making me cry!
+
+792
+01:19:03,460 --> 01:19:05,580
+- I'll clap!
+- No!
+
+793
+01:19:06,860 --> 01:19:10,090
+Look at the girls!
+What are they wearing?
+
+794
+01:19:10,180 --> 01:19:12,170
+Wedding gowns or something.
+
+795
+01:19:12,260 --> 01:19:14,250
+I like it.
+
+796
+01:19:15,020 --> 01:19:19,300
+In the spring of their lives
+
+797
+01:19:19,860 --> 01:19:24,220
+they have left us.
+
+798
+01:19:24,780 --> 01:19:29,460
+Forever.
+
+799
+01:19:35,260 --> 01:19:36,980
+Tommy!
+
+800
+01:19:37,460 --> 01:19:39,740
+- Me?
+- It's them!
+
+801
+01:19:40,260 --> 01:19:42,330
+And they're alive!
+
+802
+01:19:52,460 --> 01:19:57,410
+Thomas!
+My poor little boy!
+
+803
+01:19:59,220 --> 01:20:01,020
+Tommy!
+
+804
+01:20:03,060 --> 01:20:08,010
+Joey, my little angel,
+
+805
+01:20:09,340 --> 01:20:11,140
+you've come back to me!
+
+806
+01:20:11,220 --> 01:20:13,420
+Joey! Joey!
+
+807
+01:20:22,020 --> 01:20:24,450
+- What is that there?
+- Money.
+
+808
+01:20:27,860 --> 01:20:30,220
+- What money?
+- From that savings bank!
+
+809
+01:20:34,580 --> 01:20:37,050
+They stole it?
+Boys?
+
+810
+01:20:37,220 --> 01:20:39,500
+Wait! Wait! Wait!
+
+811
+01:20:39,900 --> 01:20:41,620
+Get lost!
+
+812
+01:20:41,980 --> 01:20:43,460
+How did you come to this?
+
+813
+01:20:43,540 --> 01:20:45,050
+We found it.
+
+814
+01:20:45,140 --> 01:20:48,290
+It's eight hundred thousand.
+We counted it.
+
+815
+01:20:48,380 --> 01:20:50,290
+Found it? Where?
+
+816
+01:20:50,380 --> 01:20:52,450
+We found it,
+
+817
+01:20:53,380 --> 01:20:55,530
+and if we tell you where
+
+818
+01:20:55,620 --> 01:20:57,900
+do we get a reward?
+
+819
+01:20:59,220 --> 01:21:01,210
+Of course you do.
+
+820
+01:21:02,900 --> 01:21:05,540
+Even though we're minors?
+
+821
+01:21:05,860 --> 01:21:08,060
+I'll see to it that you do.
+
+822
+01:21:08,140 --> 01:21:10,260
+Quickly, where?
+
+823
+01:21:23,940 --> 01:21:25,610
+Hold!
+
+824
+01:21:31,460 --> 01:21:33,610
+Get going, fast!
+
+825
+01:21:39,100 --> 01:21:41,140
+Get ahead of them!
+
+826
+01:21:53,620 --> 01:21:56,050
+We frightened them off.
+
+827
+01:21:57,620 --> 01:22:00,340
+I know who this belongs to.
+
+828
+01:22:23,740 --> 01:22:25,970
+I didn't kill him!
+
+829
+01:22:27,660 --> 01:22:29,540
+Who did?
+
+830
+01:22:29,620 --> 01:22:31,260
+Ležátka.
+
+831
+01:22:31,340 --> 01:22:33,930
+He thought the fool had taken the money.
+
+832
+01:22:34,020 --> 01:22:37,250
+That he came earlier and he just
+stashed it away.
+
+833
+01:22:37,700 --> 01:22:40,740
+We didn't know those brats found it.
+
+834
+01:22:46,540 --> 01:22:48,690
+The chicken was delicious.
+
+835
+01:22:48,780 --> 01:22:50,610
+Apolena made a dish of paprika.
+
+836
+01:22:50,700 --> 01:22:53,130
+- And you stuffed your belly.
+- That's right.
+
+837
+01:22:53,220 --> 01:22:54,730
+Off you go.
+
+838
+01:22:54,820 --> 01:22:57,730
+- Be well, Wenceslaus.
+- You too.
+
+839
+01:22:59,820 --> 01:23:01,780
+Wenceslaus!
+
+840
+01:23:03,180 --> 01:23:05,060
+Wenceslaus!
+
+841
+01:23:05,780 --> 01:23:07,770
+Did you tell Patočka to stop
+at the Doctor's?
+
+842
+01:23:07,860 --> 01:23:11,490
+- The Doctor's sister leaves today.
+- I totally forgot.
+
+843
+01:23:12,220 --> 01:23:14,610
+But I did tie a knot.
+
+844
+01:23:16,500 --> 01:23:18,140
+Tom!
+
+845
+01:23:18,460 --> 01:23:20,500
+- Yes, Auntie.
+
+846
+01:23:29,940 --> 01:23:31,500
+- Thomas!
+- Yeah?
+
+847
+01:23:31,580 --> 01:23:35,020
+- Don't forget to say Hello.
+- Yes, Auntie.
+
+848
+01:23:45,940 --> 01:23:47,170
+- Mr. Patočka!
+- What is it?
+
+849
+01:23:47,260 --> 01:23:50,540
+- Stop!
+- What for?
+
+850
+01:23:50,620 --> 01:23:52,980
+- It's Wednesday.
+- What?
+
+851
+01:23:53,060 --> 01:23:56,050
+- It's Wednesday.
+- Oh yeah, Wednesday!
+
+852
+01:23:58,260 --> 01:23:59,610
+Ah, the Doctor.
+
+853
+01:23:59,700 --> 01:24:01,420
+Good morning!
+My Dear.
+
+854
+01:24:01,500 --> 01:24:04,060
+- Good morning.
+- Good morning.
+
+855
+01:24:04,140 --> 01:24:04,730
+Good morning.
+
+856
+01:24:04,820 --> 01:24:07,020
+Climb right in!
+
+857
+01:24:08,260 --> 01:24:10,140
+'Morning.
+
+858
+01:24:10,580 --> 01:24:13,250
+Don't forget to lock up properly.
+
+859
+01:24:13,500 --> 01:24:15,970
+And open up to nobody.
+
+860
+01:24:16,300 --> 01:24:18,420
+You can rest easy, Doctor.
+
+861
+01:24:18,500 --> 01:24:20,090
+Good morning.
+
+862
+01:24:20,180 --> 01:24:21,610
+This is the boy who drowned.
+
+863
+01:24:21,700 --> 01:24:24,060
+The basket, Doctor!
+
+864
+01:24:24,580 --> 01:24:26,410
+Thank you.
+
+865
+01:24:26,500 --> 01:24:29,090
+I have some chocolate for you today.
+
+866
+01:24:29,180 --> 01:24:31,170
+Thank you.
+
+867
+01:24:35,260 --> 01:24:37,980
+- Why don't we go?!
+- Off we go!
+
+868
+01:25:11,260 --> 01:25:13,980
+- See you, then.
+- See you, Tom.
+
+869
+01:25:35,620 --> 01:25:39,410
+Who throws stuff at people
+taking a quiet nap?!
+
+870
+01:26:24,020 --> 01:26:28,780
+THE END
+
