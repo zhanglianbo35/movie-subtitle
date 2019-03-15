@@ -1,0 +1,466 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.62,0:00:25.72,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}《蓝色星球》 第二季{\r}
+Dialogue: 0,0:00:41.02,0:00:43.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一只丽龟{\r}
+Dialogue: 0,0:00:46.02,0:00:50.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}正在哥斯达黎加的浅水区休息{\r}
+Dialogue: 0,0:00:53.22,0:00:56.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它游了一千六百多公里才来到这里{\r}
+Dialogue: 0,0:01:06.50,0:01:12.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这是因为它必须要到陆地上去产卵{\r}
+Dialogue: 0,0:01:19.34,0:01:22.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在它又回到了自己十年前{\r}
+Dialogue: 0,0:01:22.54,0:01:25.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}孵化的沙滩上{\r}
+Dialogue: 0,0:01:34.14,0:01:37.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它必须离开自己那安全的海洋世界{\r}
+Dialogue: 0,0:01:40.46,0:01:43.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}勇敢面对远方的陌生世界{\r}
+Dialogue: 0,0:02:07.90,0:02:09.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它身上载有很重的卵{\r}
+Dialogue: 0,0:02:10.06,0:02:14.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但它肩负的是丽龟的下一代的命运{\r}
+Dialogue: 0,0:02:21.98,0:02:26.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在沙滩沿岸 这一壮观景象数百万年来{\r}
+Dialogue: 0,0:02:26.86,0:02:28.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一直未曾变过{\r}
+Dialogue: 0,0:02:29.26,0:02:32.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}从海里浮出的丽龟妈妈{\r}
+Dialogue: 0,0:02:35.26,0:02:37.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}数以十万计{\r}
+Dialogue: 0,0:02:50.06,0:02:53.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}只有那些能够克服陆地和海洋上{\r}
+Dialogue: 0,0:02:53.66,0:02:55.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}各种艰难险阻的动物{\r}
+Dialogue: 0,0:02:55.98,0:02:59.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}才能抵达这里的海岸 达成生命最重要的使命{\r}
+Dialogue: 0,0:03:08.32,0:03:12.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海岸{\r}
+Dialogue: 0,0:03:25.38,0:03:30.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海岸是个瞬息万变的地方 同时也有着丰厚报酬{\r}
+Dialogue: 0,0:03:34.98,0:03:39.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}加拉帕格斯群岛位于热带太平洋上{\r}
+Dialogue: 0,0:03:43.06,0:03:46.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这里的海岸草木不生 看似不宜居住{\r}
+Dialogue: 0,0:03:46.66,0:03:51.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是岸上却有一群动物能将其为己所用{\r}
+Dialogue: 0,0:04:03.26,0:04:04.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮{\r}
+Dialogue: 0,0:04:08.70,0:04:10.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一群尚未交配的雄海狮{\r}
+Dialogue: 0,0:04:11.66,0:04:14.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们需要快速增加体重{\r}
+Dialogue: 0,0:04:14.22,0:04:18.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}因为只有体格最大的雄海狮才能吸引雌海狮与其交配繁殖{\r}
+Dialogue: 0,0:04:23.62,0:04:26.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}如果这些年轻海狮长得不够大{\r}
+Dialogue: 0,0:04:27.62,0:04:31.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}那它们就要在这偏僻的海岸线上继续流亡{\r}
+Dialogue: 0,0:04:39.22,0:04:43.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一只饥饿的年轻海狮单独出发了{\r}
+Dialogue: 0,0:05:13.58,0:05:16.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它要去寻找大型猎物{\r}
+Dialogue: 0,0:05:24.70,0:05:26.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}黄鳍金枪鱼{\r}
+Dialogue: 0,0:05:29.82,0:05:32.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一条黄鳍金枪鱼就重达60千克{\r}
+Dialogue: 0,0:05:34.38,0:05:37.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们的最高游速可达64千米每小时{\r}
+Dialogue: 0,0:05:40.82,0:05:44.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它没法在外海抓到黄鳍金枪鱼{\r}
+Dialogue: 0,0:05:45.90,0:05:47.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是它有个计划{\r}
+Dialogue: 0,0:05:50.62,0:05:53.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}前方是一个小海湾的入口处{\r}
+Dialogue: 0,0:05:57.02,0:05:58.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它把黄鳍金枪鱼往小海湾里赶{\r}
+Dialogue: 0,0:06:06.62,0:06:08.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这群金枪鱼中了它的圈套{\r}
+Dialogue: 0,0:06:23.50,0:06:26.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们陷入了绝境{\r}
+Dialogue: 0,0:06:31.62,0:06:33.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过最后它们还是逃走了{\r}
+Dialogue: 0,0:06:41.70,0:06:43.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮的计划落空了{\r}
+Dialogue: 0,0:06:52.62,0:06:55.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过也许还有其他办法{\r}
+Dialogue: 0,0:07:14.30,0:07:16.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这次海狮是成群结伴地出发{\r}
+Dialogue: 0,0:07:19.74,0:07:22.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们要把更多的金枪鱼围起来{\r}
+Dialogue: 0,0:07:26.42,0:07:28.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}再把它们逼进小海湾里{\r}
+Dialogue: 0,0:07:42.46,0:07:47.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮们成扇形排开 将金枪鱼朝着狭口逼进{\r}
+Dialogue: 0,0:08:05.66,0:08:08.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}金枪鱼又一次陷入了绝境{\r}
+Dialogue: 0,0:08:09.18,0:08:12.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是这一次 那只年轻海狮往回游{\r}
+Dialogue: 0,0:08:12.14,0:08:15.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}像路障一样堵住了出口{\r}
+Dialogue: 0,0:08:40.82,0:08:43.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这一次 这群金枪鱼想要逃跑{\r}
+Dialogue: 0,0:08:43.70,0:08:47.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}却被海狮堵了回去 陷入了死胡同中{\r}
+Dialogue: 0,0:09:01.54,0:09:05.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮们这下可以挨个干掉它们了{\r}
+Dialogue: 0,0:09:51.02,0:09:53.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这种捕鱼技术{\r}
+Dialogue: 0,0:09:53.30,0:09:56.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}需要的是深谋远虑 详密计划和合作精神{\r}
+Dialogue: 0,0:09:57.46,0:10:00.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}只有在加拉帕格斯群岛 我们才能见识到这么高明的计策{\r}
+Dialogue: 0,0:10:03.86,0:10:08.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每只大鱼的蛋白质含量要比它们平时的猎物{\r}
+Dialogue: 0,0:10:08.18,0:10:09.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}高五倍左右{\r}
+Dialogue: 0,0:10:14.74,0:10:18.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}最终这只年轻海狮离开了自己的岗位{\r}
+Dialogue: 0,0:10:21.14,0:10:23.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}去认领自己的奖品{\r}
+Dialogue: 0,0:10:38.02,0:10:40.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}以富含蛋白质的金枪鱼为食物{\r}
+Dialogue: 0,0:10:40.94,0:10:44.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它很快就会发育成体格健壮的育种海狮{\r}
+Dialogue: 0,0:10:52.82,0:10:54.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在海岸两个世界相遇的地方{\r}
+Dialogue: 0,0:10:54.34,0:10:58.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些加拉帕格斯群岛的海狮利用这个小海湾{\r}
+Dialogue: 0,0:10:58.82,0:11:02.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}把握住了这里的机会{\r}
+Dialogue: 0,0:11:11.82,0:11:16.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在所有的海洋栖息地里 海岸是变化最为迅速的地方{\r}
+Dialogue: 0,0:11:17.66,0:11:20.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这是因为潮汐的缘故{\r}
+Dialogue: 0,0:11:28.02,0:11:33.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海水在月球引力的作用下发生涨落 就形成了潮汐{\r}
+Dialogue: 0,0:11:43.14,0:11:48.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}月球在绕着地球旋转时 海水也会随之起伏{\r}
+Dialogue: 0,0:11:49.86,0:11:51.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}通常每天会发生两次潮汐现象{\r}
+Dialogue: 0,0:11:53.62,0:11:57.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海岸也成了地球上最充满变化的风景{\r}
+Dialogue: 0,0:12:08.06,0:12:13.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}其他地方的海洋生物都不用应对这样变化莫测的环境{\r}
+Dialogue: 0,0:12:16.58,0:12:21.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每天都要在太阳底下暴晒 还冒着脱水的危险{\r}
+Dialogue: 0,0:12:27.98,0:12:30.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}拍打岩岸的潮水退去时{\r}
+Dialogue: 0,0:12:30.86,0:12:34.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}会留下一片临时绿洲{\r}
+Dialogue: 0,0:12:41.90,0:12:43.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}岩池{\r}
+Dialogue: 0,0:12:54.82,0:12:57.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这里看上去似乎是个平静的庇护所{\r}
+Dialogue: 0,0:13:00.22,0:13:01.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过这只是一时的{\r}
+Dialogue: 0,0:13:03.58,0:13:08.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}快进观察这里的情况 就会看到意想不到的戏剧性画面{\r}
+Dialogue: 0,0:13:21.62,0:13:26.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在岩池里 食草动物 食腐动物和滤食性动物{\r}
+Dialogue: 0,0:13:26.22,0:13:28.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}必须要在涨潮之前尽量利用好{\r}
+Dialogue: 0,0:13:29.02,0:13:30.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这短短的几个小时{\r}
+Dialogue: 0,0:13:47.90,0:13:50.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海葵碰到任何东西就会将其一口吞下{\r}
+Dialogue: 0,0:13:53.22,0:13:56.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过有些食物却比其他食物更难消化{\r}
+Dialogue: 0,0:14:05.74,0:14:10.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些神奇的世界很快就会变成战场{\r}
+Dialogue: 0,0:14:13.90,0:14:19.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只致命的捕食者长有五条腕 口部位于底面{\r}
+Dialogue: 0,0:14:23.18,0:14:24.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它就是赭色海星{\r}
+Dialogue: 0,0:14:29.62,0:14:32.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它现在在寻找帽贝{\r}
+Dialogue: 0,0:14:51.38,0:14:54.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一些帽贝无处可逃 海星将它们吞噬了{\r}
+Dialogue: 0,0:15:04.06,0:15:07.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是其他帽贝却暗藏着防身手段{\r}
+Dialogue: 0,0:15:09.82,0:15:12.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们使出了滑溜的护盾{\r}
+Dialogue: 0,0:15:15.14,0:15:18.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这样它们就可以溜走{\r}
+Dialogue: 0,0:15:23.06,0:15:26.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只帽贝有自己的保镖{\r}
+Dialogue: 0,0:15:35.94,0:15:39.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一只会狠狠咬人的海鳞虫{\r}
+Dialogue: 0,0:15:45.10,0:15:49.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海星还是喜欢那种不会反咬自己一口的食物{\r}
+Dialogue: 0,0:15:50.62,0:15:52.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}帽贝继续爬行{\r}
+Dialogue: 0,0:15:52.14,0:15:55.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它的保镖就藏在壳内安全的位置{\r}
+Dialogue: 0,0:15:59.02,0:16:00.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是有一种动物{\r}
+Dialogue: 0,0:16:01.26,0:16:04.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}会让帽贝毫无招架之力{\r}
+Dialogue: 0,0:16:06.66,0:16:08.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}喉盘鱼{\r}
+Dialogue: 0,0:16:10.46,0:16:14.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它的牙齿能够伸至帽贝壳底下{\r}
+Dialogue: 0,0:16:15.66,0:16:18.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}像拧瓶盖一样将帽贝拧开{\r}
+Dialogue: 0,0:16:23.14,0:16:25.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}接着喉盘鱼就将帽贝连壳带肉{\r}
+Dialogue: 0,0:16:26.02,0:16:27.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一并吞下{\r}
+Dialogue: 0,0:16:35.74,0:16:40.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在涨潮之前 岩池里的这类戏剧性场面{\r}
+Dialogue: 0,0:16:40.30,0:16:42.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}将持续短短几个小时{\r}
+Dialogue: 0,0:16:46.70,0:16:51.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每天海洋都会变成陆地 陆地也会变成海洋{\r}
+Dialogue: 0,0:16:58.98,0:17:01.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这也带来了新的机遇{\r}
+Dialogue: 0,0:17:05.78,0:17:07.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一只红石蟹{\r}
+Dialogue: 0,0:17:10.74,0:17:15.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}和其他数千只普通滨蟹一样 也在等待着时机{\r}
+Dialogue: 0,0:17:18.18,0:17:22.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们每天都聚集到巴西的热带海岸上{\r}
+Dialogue: 0,0:17:25.02,0:17:27.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}等着潮水退去{\r}
+Dialogue: 0,0:17:36.30,0:17:39.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这样它们的觅食区就露出来了{\r}
+Dialogue: 0,0:17:40.14,0:17:43.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}覆满海草的岩石距离海岸大约是100米{\r}
+Dialogue: 0,0:17:53.82,0:17:57.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}要想抵达那里 就得和潮水赛跑{\r}
+Dialogue: 0,0:18:04.02,0:18:06.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们从一个岩石跳到下一个岩石上{\r}
+Dialogue: 0,0:18:20.14,0:18:23.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些螃蟹似乎有些怕水{\r}
+Dialogue: 0,0:18:36.34,0:18:38.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}也难怪它们会害怕{\r}
+Dialogue: 0,0:18:50.10,0:18:51.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们怕的是海鳝{\r}
+Dialogue: 0,0:18:54.10,0:18:58.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}链蛇鳝可是捕蟹专家{\r}
+Dialogue: 0,0:19:03.54,0:19:08.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们的钝牙能轻易抓住蟹壳 并将其压碎{\r}
+Dialogue: 0,0:19:13.82,0:19:16.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}链蛇鳝是螃蟹的天敌{\r}
+Dialogue: 0,0:19:27.26,0:19:30.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过螃蟹的觅食地还在远方{\r}
+Dialogue: 0,0:19:37.26,0:19:38.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们必须要抓紧时间赶路{\r}
+Dialogue: 0,0:20:01.70,0:20:03.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在还剩下半程{\r}
+Dialogue: 0,0:20:08.38,0:20:11.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过它们的敌人却打着其他主意{\r}
+Dialogue: 0,0:20:16.50,0:20:17.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们要穿过陆地{\r}
+Dialogue: 0,0:20:24.58,0:20:27.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}重新进行伏击{\r}
+Dialogue: 0,0:20:30.54,0:20:33.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}为了觅食 螃蟹只能继续赶路{\r}
+Dialogue: 0,0:20:40.22,0:20:42.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是没有一个地方是安全的{\r}
+Dialogue: 0,0:20:46.30,0:20:49.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}章鱼同样也是螃蟹的天敌{\r}
+Dialogue: 0,0:21:14.58,0:21:16.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}螃蟹们朝前猛冲{\r}
+Dialogue: 0,0:21:43.78,0:21:44.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}成功了{\r}
+Dialogue: 0,0:21:53.90,0:21:55.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们冒着性命威胁和失去腿的危险{\r}
+Dialogue: 0,0:21:56.02,0:21:59.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一心只想到海草场上啃食海草{\r}
+Dialogue: 0,0:22:02.38,0:22:06.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是两个小时后 潮水开始退去{\r}
+Dialogue: 0,0:22:07.38,0:22:10.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们又得冒着性命危险 再经过那恐怖的地方{\r}
+Dialogue: 0,0:22:20.42,0:22:24.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}对海岸产生影响的不单单是潮水{\r}
+Dialogue: 0,0:22:44.62,0:22:48.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}远海区产生的巨浪{\r}
+Dialogue: 0,0:22:48.30,0:22:52.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}朝着海岸席卷而来 越靠近就变得越大{\r}
+Dialogue: 0,0:23:04.54,0:23:08.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}浅海海床拖着巨浪下方{\r}
+Dialogue: 0,0:23:09.30,0:23:12.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}波峰就会高达30米{\r}
+Dialogue: 0,0:23:12.94,0:23:15.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}接着倒塌 破碎释放{\r}
+Dialogue: 0,0:23:22.82,0:23:25.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}世界上最大的可冲的海浪{\r}
+Dialogue: 0,0:23:26.06,0:23:28.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}大多是在葡萄牙纳扎雷的海上形成{\r}
+Dialogue: 0,0:23:44.34,0:23:48.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每天 这沿岸边上的海浪冲击力相当于{\r}
+Dialogue: 0,0:23:48.94,0:23:52.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一百五十万吨的黄色炸药威力{\r}
+Dialogue: 0,0:24:14.66,0:24:19.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}波浪的威力渐渐形成影响 改变了海岸的形状{\r}
+Dialogue: 0,0:24:23.30,0:24:24.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在欧洲某些地方{\r}
+Dialogue: 0,0:24:24.90,0:24:29.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海浪每年冲蚀的海岸线多达三米{\r}
+Dialogue: 0,0:24:37.14,0:24:40.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海浪对岩石的冲蚀效果{\r}
+Dialogue: 0,0:24:40.34,0:24:42.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}往往要视石头的硬度而定{\r}
+Dialogue: 0,0:24:43.98,0:24:46.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}软岩石的底部非常坚硬{\r}
+Dialogue: 0,0:24:46.70,0:24:48.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}整个岩石形成了动人心魄的拱形结构{\r}
+Dialogue: 0,0:25:06.14,0:25:08.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海浪不断地冲击拍打{\r}
+Dialogue: 0,0:25:08.22,0:25:12.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}渐渐将岩石雕刻成了拱顶教堂形状{\r}
+Dialogue: 0,0:25:12.22,0:25:14.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}就像西班牙北部这里的情况一样{\r}
+Dialogue: 0,0:25:26.02,0:25:29.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海浪的威力塑造了一座座高耸的堡垒{\r}
+Dialogue: 0,0:25:29.74,0:25:31.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}比如北极地区的这些悬崖{\r}
+Dialogue: 0,0:25:31.86,0:25:35.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}成了成千上万海鸟生育繁殖的栖息之地{\r}
+Dialogue: 0,0:25:40.10,0:25:44.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些峭壁只能从空中进入{\r}
+Dialogue: 0,0:25:44.34,0:25:48.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}上面有很多缝隙和角落 抵达的动物可在里面栖息{\r}
+Dialogue: 0,0:25:53.22,0:25:57.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是为了觅食 海鸟还得征服远处的海洋世界{\r}
+Dialogue: 0,0:26:03.14,0:26:04.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只海鹦{\r}
+Dialogue: 0,0:26:08.14,0:26:09.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}既是渔夫{\r}
+Dialogue: 0,0:26:11.02,0:26:12.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}也是父亲{\r}
+Dialogue: 0,0:26:16.66,0:26:18.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它有个终身伴侣{\r}
+Dialogue: 0,0:26:25.94,0:26:29.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这对配偶要共同养育自己那数周大的海鹦宝宝{\r}
+Dialogue: 0,0:26:30.06,0:26:34.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海鹦宝宝每天要吃五顿大餐{\r}
+Dialogue: 0,0:26:36.74,0:26:39.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它的父母只能轮流出去捉鱼{\r}
+Dialogue: 0,0:26:43.02,0:26:44.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在轮到父亲去捉鱼了{\r}
+Dialogue: 0,0:27:07.18,0:27:09.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}鱼群数量很少时{\r}
+Dialogue: 0,0:27:09.50,0:27:13.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海鹦们必须要飞到48千米外的海上{\r}
+Dialogue: 0,0:27:14.78,0:27:17.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}才能找到资源丰富的渔场{\r}
+Dialogue: 0,0:27:29.38,0:27:33.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一旦到达那里 它们就要扎进另一个世界{\r}
+Dialogue: 0,0:27:41.70,0:27:45.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}鱼群丰富的地方很难找到 而且它们还会遇上其它捕鱼鸟{\r}
+Dialogue: 0,0:27:47.62,0:27:48.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海雀{\r}
+Dialogue: 0,0:27:56.26,0:28:00.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}和海鹦一样 海雀的翅膀也很短 而且同样擅长潜水{\r}
+Dialogue: 0,0:28:02.94,0:28:05.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海鹦在水里屏住呼吸的时间能超过一分钟{\r}
+Dialogue: 0,0:28:06.10,0:28:09.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}而且能潜入水下40米的位置{\r}
+Dialogue: 0,0:28:14.30,0:28:15.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}逮着一条鱼了{\r}
+Dialogue: 0,0:28:34.70,0:28:37.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过回家的路途还很遥远{\r}
+Dialogue: 0,0:28:50.86,0:28:55.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}疲惫不堪的海鹦在往返行程中已经飞了96千米{\r}
+Dialogue: 0,0:28:55.50,0:28:57.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在它马上要到家了{\r}
+Dialogue: 0,0:28:59.94,0:29:02.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是这片海岸上却有海盗在守着{\r}
+Dialogue: 0,0:29:05.82,0:29:07.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们就是短尾贼鸥{\r}
+Dialogue: 0,0:29:32.50,0:29:36.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}能干的父亲母亲们在回程中遭到了抢劫{\r}
+Dialogue: 0,0:30:02.14,0:30:05.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}短尾贼鸥那朝后倾斜的长翅膀{\r}
+Dialogue: 0,0:30:05.14,0:30:07.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}大大加强了它们的速度和灵活性{\r}
+Dialogue: 0,0:30:45.74,0:30:48.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海鹦必须要选对时机{\r}
+Dialogue: 0,0:31:09.14,0:31:10.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}差一点就得逞了{\r}
+Dialogue: 0,0:31:28.10,0:31:31.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海鹦在绝望中最后一次加速{\r}
+Dialogue: 0,0:31:33.58,0:31:35.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它总算逃离了险境{\r}
+Dialogue: 0,0:32:01.38,0:32:05.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}经过长达三小时的往返飞行后 海鹦终于安全到家了{\r}
+Dialogue: 0,0:32:12.70,0:32:15.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它的伴侣正在耐心地等着它{\r}
+Dialogue: 0,0:32:31.62,0:32:34.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}今天它们的宝宝有饭吃了{\r}
+Dialogue: 0,0:32:41.30,0:32:44.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是由于鱼群数量在减少{\r}
+Dialogue: 0,0:32:44.18,0:32:48.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}很多海鹦发现 它们现在很难喂饱自己的孩子{\r}
+Dialogue: 0,0:32:51.02,0:32:53.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}如今海洋的情况处于不断变化当中{\r}
+Dialogue: 0,0:32:53.18,0:32:57.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海鹦要做称职的父母 只会难上加难{\r}
+Dialogue: 0,0:33:07.86,0:33:11.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}克服两个世界的种种挑战并不是件容易的事{\r}
+Dialogue: 0,0:33:14.02,0:33:18.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一种海洋生物差不多已经彻底放弃海洋了{\r}
+Dialogue: 0,0:33:21.54,0:33:24.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在一些遥远的太平洋岛屿上{\r}
+Dialogue: 0,0:33:24.30,0:33:27.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}住着地球上陆生习性最为明显的鱼类{\r}
+Dialogue: 0,0:33:33.70,0:33:37.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在这个数米高的石灰岩悬崖上{\r}
+Dialogue: 0,0:33:40.90,0:33:45.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一条八厘米长的鲇鱼选了个巢洞{\r}
+Dialogue: 0,0:33:51.78,0:33:55.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在这上面它能够吃到大量海藻{\r}
+Dialogue: 0,0:33:55.26,0:33:58.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}而且也不用和海里的鱼类争夺食物{\r}
+Dialogue: 0,0:34:00.10,0:34:02.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}那些雌鱼就在它底下进食{\r}
+Dialogue: 0,0:34:06.62,0:34:09.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它很想吸引雌鱼的注意力{\r}
+Dialogue: 0,0:34:11.86,0:34:14.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是这些雌鱼都忙着做保湿工作{\r}
+Dialogue: 0,0:34:15.22,0:34:19.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}让身体处于湿润状态非常重要 因为这些鱼要通过皮肤来呼吸{\r}
+Dialogue: 0,0:34:24.10,0:34:28.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}为了让自己更引人注目 它把身体变成了黑色{\r}
+Dialogue: 0,0:34:32.66,0:34:35.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}开始拍打自己的橙色鱼鳍{\r}
+Dialogue: 0,0:34:37.06,0:34:38.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它引起了一条雌鱼的注意{\r}
+Dialogue: 0,0:34:41.42,0:34:44.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过这些太平洋鲇鱼{\r}
+Dialogue: 0,0:34:44.34,0:34:46.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}似乎很怕海浪{\r}
+Dialogue: 0,0:34:50.34,0:34:52.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们的的水性很差{\r}
+Dialogue: 0,0:34:53.10,0:34:55.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在海中 它们很容易成为猎物{\r}
+Dialogue: 0,0:34:58.10,0:35:00.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}是时候再试一次了{\r}
+Dialogue: 0,0:35:03.86,0:35:05.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}雌鱼动心了{\r}
+Dialogue: 0,0:35:10.02,0:35:13.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是海浪又一次让它分了心{\r}
+Dialogue: 0,0:35:37.18,0:35:39.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只雄鱼就是不肯放弃{\r}
+Dialogue: 0,0:35:52.02,0:35:53.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}雌鱼最终还是被它迷住了{\r}
+Dialogue: 0,0:35:58.26,0:35:59.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}雄鱼让开了道{\r}
+Dialogue: 0,0:36:02.38,0:36:05.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}让雌鱼进入它的洞穴{\r}
+Dialogue: 0,0:36:09.18,0:36:12.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}雄鱼用自己性感的舞姿{\r}
+Dialogue: 0,0:36:12.10,0:36:14.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}怂恿雌鱼在这里产卵{\r}
+Dialogue: 0,0:36:29.02,0:36:33.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}接着它就在洞穴里的安全位置给这些鱼卵受精{\r}
+Dialogue: 0,0:36:43.78,0:36:47.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}鲇鱼为了在陆地生活 放弃了海洋{\r}
+Dialogue: 0,0:36:50.14,0:36:54.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}其他动物的做法更为成功{\r}
+Dialogue: 0,0:36:54.10,0:36:56.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}只不过它们选择了不同的方向{\r}
+Dialogue: 0,0:37:03.70,0:37:06.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅放弃了飞行{\r}
+Dialogue: 0,0:37:06.34,0:37:09.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}相反地 它们大多数时间都是在海里度过{\r}
+Dialogue: 0,0:37:11.58,0:37:14.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅身上那细密的羽毛 俨然是一套光滑的救生服{\r}
+Dialogue: 0,0:37:14.94,0:37:17.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}非常适合这里冰冷的海水{\r}
+Dialogue: 0,0:37:19.46,0:37:22.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是它们每年还是得上岸一次{\r}
+Dialogue: 0,0:37:36.46,0:37:41.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}南乔治亚岛 是一座靠近南极的荒凉岛屿{\r}
+Dialogue: 0,0:37:51.82,0:37:55.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每年春天 这里的海滩就成了地球上最繁忙的地方{\r}
+Dialogue: 0,0:37:55.74,0:37:59.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}数以十万计的国王企鹅会回到这里{\r}
+Dialogue: 0,0:38:09.38,0:38:11.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们正在朝着集群走去{\r}
+Dialogue: 0,0:38:18.22,0:38:22.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是行至中途 它们前面却挡着一堵地球上最大的海兽脂墙{\r}
+Dialogue: 0,0:38:27.02,0:38:28.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}象海豹{\r}
+Dialogue: 0,0:38:36.62,0:38:38.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在是繁殖期{\r}
+Dialogue: 0,0:38:38.78,0:38:43.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些四吨重的雄象海豹正在争夺眷群的控制权{\r}
+Dialogue: 0,0:38:46.66,0:38:49.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅还是最好等它们平静下来{\r}
+Dialogue: 0,0:39:04.10,0:39:06.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它没法飞过这道屏障{\r}
+Dialogue: 0,0:39:06.50,0:39:10.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它只能尽可能小心翼翼地走着{\r}
+Dialogue: 0,0:39:13.98,0:39:18.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}希望这些睡着的庞然大物会继续躺着{\r}
+Dialogue: 0,0:39:29.82,0:39:30.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}小心点{\r}
+Dialogue: 0,0:39:49.50,0:39:51.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}接下来的情况可能会比较棘手{\r}
+Dialogue: 0,0:40:08.94,0:40:11.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一只雄象海豹发起了挑战{\r}
+Dialogue: 0,0:40:13.58,0:40:16.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅们可能会被卷入这种激烈的交锋当中{\r}
+Dialogue: 0,0:40:47.70,0:40:50.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}八吨重的海豹脂撞到了一起{\r}
+Dialogue: 0,0:41:11.42,0:41:14.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只高大的海滩霸主获胜了{\r}
+Dialogue: 0,0:41:22.02,0:41:25.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只企鹅从慌乱的场面中溜了过去{\r}
+Dialogue: 0,0:41:28.34,0:41:31.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}前面是四万只幼企鹅{\r}
+Dialogue: 0,0:41:35.50,0:41:37.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们既饥饿又兴奋得忘乎所以{\r}
+Dialogue: 0,0:41:53.30,0:41:56.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但并不是所有企鹅都有幼企鹅要喂养{\r}
+Dialogue: 0,0:41:56.78,0:41:58.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这不都是它们来这里的原因{\r}
+Dialogue: 0,0:42:02.74,0:42:04.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}而是出于其他原因{\r}
+Dialogue: 0,0:42:06.50,0:42:10.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这场考验耐力的测试是每只企鹅都必须经历的{\r}
+Dialogue: 0,0:42:12.62,0:42:16.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}测试先从持续性瘙痒开始{\r}
+Dialogue: 0,0:42:23.30,0:42:25.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}因为数个月来都在{\r}
+Dialogue: 0,0:42:25.90,0:42:28.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}波涛汹涌的南大洋里游泳 它的救生服已经被磨薄了{\r}
+Dialogue: 0,0:42:31.34,0:42:33.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它采用了一种非常极端的解决办法{\r}
+Dialogue: 0,0:42:37.18,0:42:40.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它要尽快把身上四层羽毛全都脱去{\r}
+Dialogue: 0,0:42:45.98,0:42:49.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这一过程也被称作是灾难性脱毛{\r}
+Dialogue: 0,0:42:55.74,0:42:57.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在羽毛重新长出之前{\r}
+Dialogue: 0,0:42:58.10,0:43:01.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅们会一直待在这里{\r}
+Dialogue: 0,0:43:24.26,0:43:26.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅们在饥饿中度过了一个月{\r}
+Dialogue: 0,0:43:26.58,0:43:30.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在它们的防水御寒羽毛又一次长全了{\r}
+Dialogue: 0,0:43:46.14,0:43:51.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅们消瘦又饥饿 迫不及待想要回到海里生活{\r}
+Dialogue: 0,0:44:08.34,0:44:10.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}得益于身上的防水羽毛{\r}
+Dialogue: 0,0:44:10.78,0:44:13.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}企鹅们现在能够游刃有余地穿梭于两个世界{\r}
+Dialogue: 0,0:44:13.94,0:44:17.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}哪怕是地球上最严峻的环境 它们也能应对{\r}
+Dialogue: 0,0:44:32.62,0:44:34.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}南乔治亚岛海岸{\r}
+Dialogue: 0,0:44:34.26,0:44:37.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}因为地处偏远 目前并没有遭到破坏{\r}
+Dialogue: 0,0:44:39.62,0:44:42.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}其他海岸线则要脆弱得多{\r}
+Dialogue: 0,0:44:47.54,0:44:51.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些海岸线的变化速度比以往任何时候都要快{\r}
+Dialogue: 0,0:44:55.74,0:45:00.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}地球上的主要城市有三分之二都是沿海城市{\r}
+Dialogue: 0,0:45:02.78,0:45:05.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}据估计 在未来十年内{\r}
+Dialogue: 0,0:45:05.42,0:45:09.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在现今尚存的未开发海岸中 其中一成的海岸{\r}
+Dialogue: 0,0:45:10.02,0:45:12.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}都会被人类开发利用{\r}
+Dialogue: 0,0:45:22.22,0:45:25.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是每年佛罗里达州棕榈滩上{\r}
+Dialogue: 0,0:45:26.06,0:45:30.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}都会出现一起壮观的事件 几乎没人注意到{\r}
+Dialogue: 0,0:45:36.34,0:45:40.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}地球上规模最大的成群鲨鱼会聚集到沿海区{\r}
+Dialogue: 0,0:45:45.70,0:45:48.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}蔷薇真鲨和黑边鳍真鲨{\r}
+Dialogue: 0,0:45:53.46,0:45:55.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}共有一万头{\r}
+Dialogue: 0,0:46:05.38,0:46:09.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每年一月 它们就会去寻找这类温暖的浅滩{\r}
+Dialogue: 0,0:46:09.54,0:46:12.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}短暂停留后 它们就会继续朝北洄游{\r}
+Dialogue: 0,0:46:19.26,0:46:23.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}早在人类涉足这里以前 鲨鱼就聚集在这里了{\r}
+Dialogue: 0,0:46:34.82,0:46:38.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是今天这些鲨鱼却面临着污染{\r}
+Dialogue: 0,0:46:38.54,0:46:42.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}栖地退化 过度捕捞等问题{\r}
+Dialogue: 0,0:46:42.62,0:46:46.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些问题是它们的祖先从未遭遇过的{\r}
+Dialogue: 0,0:46:49.98,0:46:53.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}沿海生物现在不仅仅要{\r}
+Dialogue: 0,0:46:53.26,0:46:55.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}征服自己的世界{\r}
+Dialogue: 0,0:47:03.78,0:47:09.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们还要面临很多人类带来的问题{\r}
+Dialogue: 0,0:47:20.70,0:47:27.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}幕后集锦{\r}
+Dialogue: 0,0:47:32.02,0:47:34.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}为了拍摄非同寻常的沿海野生生物{\r}
+Dialogue: 0,0:47:34.94,0:47:36.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}《蓝色星球》第二季的团队{\r}
+Dialogue: 0,0:47:36.38,0:47:39.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}前往了地球上最遥远的几个海岸{\r}
+Dialogue: 0,0:47:42.46,0:47:45.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}其中一个就是加拉帕格斯群岛{\r}
+Dialogue: 0,0:47:47.06,0:47:50.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他们在这里求证一个令人难以置信的故事{\r}
+Dialogue: 0,0:47:50.54,0:47:53.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}故事是当地一位名为理查德伍拉科姆的摄影师讲述的{\r}
+Dialogue: 0,0:47:55.06,0:47:56.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我当时在和我的一位朋友聊天{\r}
+Dialogue: 0,0:47:56.74,0:47:57.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他是这里的渔夫{\r}
+Dialogue: 0,0:47:57.90,0:48:01.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他说有一天自己来到这里 来到这个海湾{\r}
+Dialogue: 0,0:48:01.82,0:48:07.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}突然间 他看到一群海狮把这些大金枪鱼{\r}
+Dialogue: 0,0:48:07.26,0:48:09.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}全赶到沙滩上了{\r}
+Dialogue: 0,0:48:09.38,0:48:12.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我就想 挺有意思的 我才不信呢{\r}
+Dialogue: 0,0:48:12.38,0:48:14.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这听上去太不真实了{\r}
+Dialogue: 0,0:48:14.54,0:48:16.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过渔夫的故事实在太诱人了{\r}
+Dialogue: 0,0:48:16.90,0:48:18.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他们没法置之不理{\r}
+Dialogue: 0,0:48:19.18,0:48:21.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我现在有点担心 这事要是不发生{\r}
+Dialogue: 0,0:48:22.10,0:48:23.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我的信誉就毁了{\r}
+Dialogue: 0,0:48:25.94,0:48:29.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}《蓝色星球》第二季的团队发起了全面的考察行动{\r}
+Dialogue: 0,0:48:32.22,0:48:34.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过其中一位成员还是心存疑虑{\r}
+Dialogue: 0,0:48:35.18,0:48:37.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}如果海狮真的能够追杀金枪鱼{\r}
+Dialogue: 0,0:48:38.10,0:48:41.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这一情景肯定很壮观{\r}
+Dialogue: 0,0:48:41.22,0:48:42.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过我觉得还是得眼见为实{\r}
+Dialogue: 0,0:48:44.82,0:48:47.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他们在这个荒芜的小海湾搭好了帐篷{\r}
+Dialogue: 0,0:48:48.26,0:48:51.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}接下来几个月内他们就住在这里{\r}
+Dialogue: 0,0:48:52.58,0:48:55.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}当地的野生生物以温顺近人而闻名{\r}
+Dialogue: 0,0:48:55.58,0:48:57.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们想见见自己的新邻居{\r}
+Dialogue: 0,0:49:09.14,0:49:11.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}由于没看到海狮的迹象{\r}
+Dialogue: 0,0:49:11.58,0:49:15.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}考察团队就用远程水下摄像机监视情况{\r}
+Dialogue: 0,0:49:18.74,0:49:22.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}场地助理罗比佩普拉斯率先在这里守着{\r}
+Dialogue: 0,0:49:23.18,0:49:24.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这个视角{\r}
+Dialogue: 0,0:49:24.82,0:49:26.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}是为了尽量让我们看到海狮游过来{\r}
+Dialogue: 0,0:49:26.98,0:49:28.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}跃出水面的情形{\r}
+Dialogue: 0,0:49:28.74,0:49:31.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}如果它们真的游近了{\r}
+Dialogue: 0,0:49:31.14,0:49:34.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}就会喊 “开拍”或者是“行动起来”{\r}
+Dialogue: 0,0:49:38.46,0:49:40.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}三小时后{\r}
+Dialogue: 0,0:49:41.54,0:49:42.92,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}瑞秋 我看到了{\r}
+Dialogue: 0,0:49:43.06,0:49:45.26,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}距离猎物还有150米{\r}
+Dialogue: 0,0:49:46.86,0:49:48.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}空中摄制组率先出发了{\r}
+Dialogue: 0,0:49:52.14,0:49:54.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一只海狮正在把金枪鱼赶往海湾里{\r}
+Dialogue: 0,0:50:10.14,0:50:11.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}哦 它抓到了{\r}
+Dialogue: 0,0:50:12.82,0:50:14.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}太不可思议了{\r}
+Dialogue: 0,0:50:14.34,0:50:16.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}瞧瞧 它还在挣扎{\r}
+Dialogue: 0,0:50:16.50,0:50:17.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}天哪{\r}
+Dialogue: 0,0:50:20.30,0:50:21.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}金枪鱼跑了{\r}
+Dialogue: 0,0:50:22.06,0:50:24.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}金枪鱼从海狮手里逃脱了{\r}
+Dialogue: 0,0:50:30.14,0:50:33.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在接下来的几天内 更多的海狮来到海湾里{\r}
+Dialogue: 0,0:50:33.66,0:50:35.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}把黄鳍金枪鱼追进海湾里{\r}
+Dialogue: 0,0:50:38.38,0:50:40.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}对{\r}
+Dialogue: 0,0:50:40.98,0:50:43.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}理查 这有更多金枪鱼 还有只海狮{\r}
+Dialogue: 0,0:50:43.86,0:50:46.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海湾里好像有六条金枪鱼{\r}
+Dialogue: 0,0:50:56.02,0:50:58.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}其中一只海狮引起了理查德的注意{\r}
+Dialogue: 0,0:50:58.54,0:51:01.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他亲昵地称这只海狮为“捉鱼小子”{\r}
+Dialogue: 0,0:51:02.78,0:51:05.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这只海狮很不一样 它就像是猎鱼高手{\r}
+Dialogue: 0,0:51:05.78,0:51:07.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它真的很敏捷{\r}
+Dialogue: 0,0:51:08.26,0:51:13.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}看着这只海狮的真实面目在镜头前呈现出来 感觉真的很有趣{\r}
+Dialogue: 0,0:51:14.62,0:51:17.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}无人机正在上空拍摄{\r}
+Dialogue: 0,0:51:17.14,0:51:19.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这群海狮结伴猎食的画面{\r}
+Dialogue: 0,0:51:20.06,0:51:22.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我们在空中真的能看清楚这些海狮的策略{\r}
+Dialogue: 0,0:51:22.14,0:51:24.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}还能看到每只海狮扮演的角色{\r}
+Dialogue: 0,0:51:24.98,0:51:26.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}捉鱼小子在水道中途就游开了{\r}
+Dialogue: 0,0:51:26.78,0:51:28.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它要确保金枪鱼不会逃走{\r}
+Dialogue: 0,0:51:28.42,0:51:29.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}每只海狮都有自己的任务{\r}
+Dialogue: 0,0:51:29.50,0:51:31.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们真的是靠团队合作 才把金枪鱼赶到一起的{\r}
+Dialogue: 0,0:51:32.62,0:51:35.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}虽然海狮一直在浅滩区猎食{\r}
+Dialogue: 0,0:51:35.74,0:51:39.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不过考察团队至今还没看到它们把金枪鱼赶到海滩上来{\r}
+Dialogue: 0,0:51:42.06,0:51:46.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}更糟糕的是 海狮并不是这海湾里唯一的动物{\r}
+Dialogue: 0,0:51:53.34,0:51:56.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些直翅真鲨的身体长达两米{\r}
+Dialogue: 0,0:52:00.02,0:52:02.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}鲨鱼几乎是把自己的身体拖上岸来{\r}
+Dialogue: 0,0:52:02.38,0:52:05.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}然后从大海狮手里把金枪鱼偷走{\r}
+Dialogue: 0,0:52:06.02,0:52:09.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮现在非常生气{\r}
+Dialogue: 0,0:52:10.78,0:52:12.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}尽管有鲨鱼在场{\r}
+Dialogue: 0,0:52:12.22,0:52:16.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是为了呈现完整的故事 理直德还是需要亲自下水{\r}
+Dialogue: 0,0:52:17.10,0:52:20.30,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}现在这是典型的鲨鱼攻击情形 浅水区里有血液{\r}
+Dialogue: 0,0:52:20.62,0:52:22.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}很容易让人认错{\r}
+Dialogue: 0,0:52:29.14,0:52:30.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}小心你的手 罗比{\r}
+Dialogue: 0,0:52:31.34,0:52:34.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}大家穿上了锁子甲衣服 用于护身{\r}
+Dialogue: 0,0:52:44.58,0:52:45.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这儿有很多鲨鱼{\r}
+Dialogue: 0,0:52:45.90,0:52:48.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一 二 三 四 五 六 一共有六头{\r}
+Dialogue: 0,0:52:49.94,0:52:54.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}水里的血液非常多 鲨鱼们开始疯狂捕食了{\r}
+Dialogue: 0,0:53:08.78,0:53:10.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们在几秒之内就彻底击溃了金枪鱼{\r}
+Dialogue: 0,0:53:11.02,0:53:15.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这么近距离地观察这种极其凶残{\r}
+Dialogue: 0,0:53:15.86,0:53:18.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}又危险的场面 说实话{\r}
+Dialogue: 0,0:53:18.30,0:53:20.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}真的很棒 不过{\r}
+Dialogue: 0,0:53:20.54,0:53:22.86,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}好在我们能够藏在后头{\r}
+Dialogue: 0,0:53:24.94,0:53:28.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}但是一周间 摄制组行动越来越密集{\r}
+Dialogue: 0,0:53:28.26,0:53:31.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮们突然停止了捕鱼{\r}
+Dialogue: 0,0:53:36.62,0:53:37.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}自开拍以来{\r}
+Dialogue: 0,0:53:37.98,0:53:40.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这是我们头一回整整一天{\r}
+Dialogue: 0,0:53:40.54,0:53:42.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}都没见到动静{\r}
+Dialogue: 0,0:53:43.14,0:53:44.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}对 我有点担心{\r}
+Dialogue: 0,0:53:46.42,0:53:48.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}金枪鱼消失了{\r}
+Dialogue: 0,0:54:00.22,0:54:01.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}理查德很担心{\r}
+Dialogue: 0,0:54:02.14,0:54:05.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}科学家们开始向世界各地的人们证明{\r}
+Dialogue: 0,0:54:06.22,0:54:08.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海洋正在变暖 海里的资源正在日益减少{\r}
+Dialogue: 0,0:54:09.42,0:54:13.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}加拉帕格斯的海洋生物非常依赖冰冷的深海流{\r}
+Dialogue: 0,0:54:13.66,0:54:17.18,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们总是周期性地涌到海水表层 让海水变得更富营养{\r}
+Dialogue: 0,0:54:19.06,0:54:21.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}如果深海流涌上来的次数变少了{\r}
+Dialogue: 0,0:54:21.70,0:54:24.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}那海洋生物的性命可能就会不保{\r}
+Dialogue: 0,0:54:25.66,0:54:26.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在过去{\r}
+Dialogue: 0,0:54:26.78,0:54:30.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这些冷水有一段时间曾经停止了上涌{\r}
+Dialogue: 0,0:54:30.50,0:54:32.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}很多海狮就这样活活饿死{\r}
+Dialogue: 0,0:54:33.94,0:54:37.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海洋变暖后 可能会让上涌变得更加少见{\r}
+Dialogue: 0,0:54:43.06,0:54:46.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}经过了两周焦急的等待后{\r}
+Dialogue: 0,0:54:46.18,0:54:47.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他们终于看到了一线希望{\r}
+Dialogue: 0,0:54:47.54,0:54:50.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}一阵浓雾降临海湾上方{\r}
+Dialogue: 0,0:54:51.30,0:54:54.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}温度极低的海水从底下涌上来{\r}
+Dialogue: 0,0:54:54.34,0:54:55.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}遍布整个海洋{\r}
+Dialogue: 0,0:54:56.30,0:54:58.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}和温暖的空气混合后就形成雾{\r}
+Dialogue: 0,0:54:59.10,0:55:00.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}希望这些冷水{\r}
+Dialogue: 0,0:55:01.46,0:55:05.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}能稍微带来些转机 让拍摄能够继续进行{\r}
+Dialogue: 0,0:55:05.90,0:55:08.66,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}雾气消散时 令人欢喜的一幕出现了{\r}
+Dialogue: 0,0:55:09.70,0:55:13.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}金枪鱼回来了 海狮们开始对它们穷追不舍{\r}
+Dialogue: 0,0:55:16.70,0:55:18.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}拍摄团队立即行动了起来{\r}
+Dialogue: 0,0:55:23.66,0:55:24.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们在那边{\r}
+Dialogue: 0,0:55:27.42,0:55:28.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}理查德下水后{\r}
+Dialogue: 0,0:55:28.62,0:55:31.98,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}总算能够拍摄到海狮们的团队合作情况{\r}
+Dialogue: 0,0:55:36.62,0:55:40.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}他终于拍到了捉鱼小子将金枪鱼拖上岸的情形{\r}
+Dialogue: 0,0:55:42.06,0:55:44.82,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们认得这迷宫里的狭口位置{\r}
+Dialogue: 0,0:55:45.18,0:55:47.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它们知道如何把金枪鱼赶往这些狭口里{\r}
+Dialogue: 0,0:55:47.46,0:55:48.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}捉鱼小子{\r}
+Dialogue: 0,0:55:48.86,0:55:51.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}几乎用自己的整个身体堵住了入口{\r}
+Dialogue: 0,0:55:51.70,0:55:54.94,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}它不急不缓地前后游动 把金枪鱼搞得疲惫不堪{\r}
+Dialogue: 0,0:55:55.54,0:55:58.34,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这真的是太不可思议了 真是让人大开眼界{\r}
+Dialogue: 0,0:55:59.14,0:56:00.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}导演瑞秋{\r}
+Dialogue: 0,0:56:00.30,0:56:03.14,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}不由地对海狮们心生敬意{\r}
+Dialogue: 0,0:56:03.54,0:56:05.78,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我没想到它们竟然{\r}
+Dialogue: 0,0:56:05.86,0:56:11.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}想出这么高水准的计划 策略和团队合作精神{\r}
+Dialogue: 0,0:56:11.22,0:56:13.70,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我没想到它们会这么聪明{\r}
+Dialogue: 0,0:56:15.10,0:56:19.50,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}理查德成功拍摄到了它们独特的猎食策略{\r}
+Dialogue: 0,0:56:19.58,0:56:23.62,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}在这一拍摄过程中 他也证明了渔夫的故事是真的{\r}
+Dialogue: 0,0:56:24.18,0:56:28.06,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}海狮的聪明才智简直是令人难以置信{\r}
+Dialogue: 0,0:56:28.62,0:56:31.10,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}如果光说它们超出了我的预期{\r}
+Dialogue: 0,0:56:31.18,0:56:32.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}实际惊艳程度远高于此{\r}
+Dialogue: 0,0:56:33.02,0:56:34.74,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}这是我在加拉帕格斯群岛{\r}
+Dialogue: 0,0:56:34.82,0:56:36.42,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}度过的最不可思议的一段时光{\r}
+Dialogue: 0,0:56:47.18,0:56:48.54,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}下期节目{\r}
+Dialogue: 0,0:56:48.98,0:56:53.58,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我们将继续周游世界 发现海洋面临的最大问题{\r}
+Dialogue: 0,0:56:56.70,0:56:58.46,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我们会见到那些献身于海洋的人们{\r}
+Dialogue: 0,0:56:58.54,0:57:01.22,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}尽心尽力地保护着海洋{\r}
+Dialogue: 0,0:57:02.62,0:57:07.38,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H80&\2c&H000000&\b0}我们还将看到这个蓝色星球的未来会是怎么样的{\r}
+

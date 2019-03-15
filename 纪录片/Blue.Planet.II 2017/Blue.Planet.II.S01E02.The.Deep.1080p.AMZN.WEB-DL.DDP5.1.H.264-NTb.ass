@@ -1,0 +1,444 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.97,0:00:25.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}《蓝色星球》第二季{\r}
+Dialogue: 0,0:00:32.27,0:00:33.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}南极洲{\r}
+Dialogue: 0,0:00:37.51,0:00:42.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}地球上最寒冷 最严酷 最遥远的大陆{\r}
+Dialogue: 0,0:00:49.87,0:00:54.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}从来没有人到过南极洲周围的深海里{\r}
+Dialogue: 0,0:00:57.79,0:00:59.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}直到现在才有人涉足这里{\r}
+Dialogue: 0,0:01:06.43,0:01:10.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海就和太空一样富有挑战性{\r}
+Dialogue: 0,0:01:14.15,0:01:17.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们对火星地表的了解更甚于{\r}
+Dialogue: 0,0:01:17.95,0:01:19.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}对深海的了解{\r}
+Dialogue: 0,0:01:43.35,0:01:47.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}现在我们要潜入这些未经探测的深海{\r}
+Dialogue: 0,0:01:47.55,0:01:49.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}发现其中的奥秘{\r}
+Dialogue: 0,0:02:24.55,0:02:28.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}沿着浮在水中的冰山壁侧面潜入海底{\r}
+Dialogue: 0,0:02:28.95,0:02:31.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们来到了一个残酷的世界{\r}
+Dialogue: 0,0:02:41.63,0:02:44.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里的水温是地球上最低的{\r}
+Dialogue: 0,0:02:49.43,0:02:54.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们在潜入海底的同时 水压也会迅速增加{\r}
+Dialogue: 0,0:03:11.71,0:03:14.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}上方的光线只会消失殆尽{\r}
+Dialogue: 0,0:03:22.19,0:03:24.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但神奇的是{\r}
+Dialogue: 0,0:03:27.63,0:03:29.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里竟然有生命{\r}
+Dialogue: 0,0:03:51.15,0:03:54.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们或许以为极地海洋的{\r}
+Dialogue: 0,0:03:54.67,0:03:59.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海处会是一片荒芜的景象{\r}
+Dialogue: 0,0:04:06.95,0:04:11.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但实际上 我们却发现这里的生物异常丰富{\r}
+Dialogue: 0,0:04:25.75,0:04:29.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这一富饶的情形并不是只出现在南极洲的海里{\r}
+Dialogue: 0,0:04:33.35,0:04:37.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}水流会将这份丰饶带往世界各地的{\r}
+Dialogue: 0,0:04:37.59,0:04:39.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海{\r}
+Dialogue: 0,0:04:43.75,0:04:45.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}令人吃惊的是 这深海里的生物{\r}
+Dialogue: 0,0:04:45.91,0:04:49.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}竟然比地球其他地方的都要丰富{\r}
+Dialogue: 0,0:04:56.09,0:05:00.89,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海{\r}
+Dialogue: 0,0:05:17.03,0:05:20.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}阳光逐渐消失 海里变得越来越暗{\r}
+Dialogue: 0,0:05:24.83,0:05:27.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}置身于太平洋200米深的水下{\r}
+Dialogue: 0,0:05:27.63,0:05:30.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们来到了一个陌生的世界{\r}
+Dialogue: 0,0:05:33.11,0:05:35.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}黄昏区{\r}
+Dialogue: 0,0:05:35.55,0:05:38.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海里永远是一片暗无天日的景象{\r}
+Dialogue: 0,0:05:46.19,0:05:48.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这儿有着稀奇古怪的生物{\r}
+Dialogue: 0,0:05:49.95,0:05:51.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}火体虫{\r}
+Dialogue: 0,0:05:52.47,0:05:58.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}身长两米 外形似管 通体呈胶状 从上方来的远洋白鳍鲨{\r}
+Dialogue: 0,0:05:58.27,0:06:00.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在对比之下也相形见绌{\r}
+Dialogue: 0,0:06:09.15,0:06:12.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}只有一点光线能渗透至这个位置{\r}
+Dialogue: 0,0:06:17.71,0:06:22.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在这里生存下去便意味着 要充分利用好这点微光{\r}
+Dialogue: 0,0:06:31.87,0:06:33.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}剑鱼{\r}
+Dialogue: 0,0:06:42.07,0:06:44.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}剑鱼的眼睛和网球差不多大{\r}
+Dialogue: 0,0:06:44.51,0:06:47.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这有助于它看清楚暗无天日的环境{\r}
+Dialogue: 0,0:06:52.75,0:06:54.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}鱿鱼{\r}
+Dialogue: 0,0:06:54.07,0:06:56.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过这种鱿鱼只在这里生活{\r}
+Dialogue: 0,0:06:57.91,0:07:00.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它的右眼始终看向下方{\r}
+Dialogue: 0,0:07:03.23,0:07:06.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过左眼要大得多 而且也养成了向上方看的习惯{\r}
+Dialogue: 0,0:07:06.87,0:07:10.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是为了搜寻水面附近游动的猎物轮廓{\r}
+Dialogue: 0,0:07:12.71,0:07:15.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}难怪它会被人们戏称为斗鸡眼鱿鱼{\r}
+Dialogue: 0,0:07:22.19,0:07:23.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}比这种鱿鱼更稀奇的{\r}
+Dialogue: 0,0:07:26.39,0:07:28.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}是后肛鱼{\r}
+Dialogue: 0,0:07:31.39,0:07:34.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这种鱼的头部是透明的{\r}
+Dialogue: 0,0:07:34.83,0:07:39.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}里面充满了胶质 它的眼睛能透过脑袋向上方看{\r}
+Dialogue: 0,0:07:56.79,0:08:01.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们现在知道黄昏区是海洋中{\r}
+Dialogue: 0,0:08:01.39,0:08:04.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}多达九成鱼类的庇护所{\r}
+Dialogue: 0,0:08:10.71,0:08:16.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}只有在夜间 成群的灯笼鱼才会洄游至水面{\r}
+Dialogue: 0,0:08:16.11,0:08:18.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}寻找微小的浮游生物喂饱肚子{\r}
+Dialogue: 0,0:08:29.47,0:08:32.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}白天时 它们就回到海底这里{\r}
+Dialogue: 0,0:08:48.19,0:08:49.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}美洲大赤鱿{\r}
+Dialogue: 0,0:09:02.47,0:09:05.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}身长两米 体重达50千克{\r}
+Dialogue: 0,0:09:10.63,0:09:13.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}和大多数鱿鱼一样是贪婪的捕食者{\r}
+Dialogue: 0,0:09:21.31,0:09:22.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里有成百上千只{\r}
+Dialogue: 0,0:09:34.27,0:09:36.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们发现南美洲海岸附近{\r}
+Dialogue: 0,0:09:36.59,0:09:39.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}有一大群灯笼鱼 就躲在水下800米处{\r}
+Dialogue: 0,0:09:52.99,0:09:55.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们的触手上长有强劲有力的吸盘{\r}
+Dialogue: 0,0:09:55.67,0:09:57.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些吸盘是用来抓猎物的{\r}
+Dialogue: 0,0:10:13.99,0:10:16.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}如果这里抓不到灯笼鱼了{\r}
+Dialogue: 0,0:10:19.07,0:10:21.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们就会自相残杀{\r}
+Dialogue: 0,0:10:32.19,0:10:35.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这只美洲大赤鱿用自己的触手抓到了一只小美洲大赤鱿{\r}
+Dialogue: 0,0:10:40.55,0:10:42.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}为了把自己的猎物藏起来 不被其他鱿鱼发现{\r}
+Dialogue: 0,0:10:42.75,0:10:45.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它会释放出墨液遮掩{\r}
+Dialogue: 0,0:10:58.03,0:11:00.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过一只更大的美洲大赤鱿跑来挑衅{\r}
+Dialogue: 0,0:11:07.63,0:11:09.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}还偷走了它的猎物{\r}
+Dialogue: 0,0:11:18.71,0:11:22.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}黄昏区是美洲大赤鱿最常来的猎区{\r}
+Dialogue: 0,0:11:24.63,0:11:26.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们很少潜入{\r}
+Dialogue: 0,0:11:27.87,0:11:31.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}底下那暗无天日的深海世界{\r}
+Dialogue: 0,0:11:36.35,0:11:38.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}午夜区{\r}
+Dialogue: 0,0:11:48.99,0:11:53.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}阳光无法渗透至水面一千米以下的位置{\r}
+Dialogue: 0,0:11:59.27,0:12:01.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这漆黑空洞的深海{\r}
+Dialogue: 0,0:12:01.55,0:12:05.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}比地球上所有的栖息地加起来都要大{\r}
+Dialogue: 0,0:12:10.63,0:12:12.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里有生物{\r}
+Dialogue: 0,0:12:13.79,0:12:15.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}只不过不是我们熟悉的那种生物{\r}
+Dialogue: 0,0:12:26.55,0:12:30.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些酷似外星人的生物能释放出耀眼的光线{\r}
+Dialogue: 0,0:12:43.51,0:12:47.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}几乎所有的动物都需要吸引配偶 驱逐捕食者{\r}
+Dialogue: 0,0:12:50.87,0:12:55.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里的动物大量使用光线进行交流{\r}
+Dialogue: 0,0:12:55.15,0:12:58.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些信号或许是地球上最为常见的{\r}
+Dialogue: 0,0:12:58.83,0:13:01.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}交流形式{\r}
+Dialogue: 0,0:13:02.95,0:13:05.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是我们却对它们所知甚少{\r}
+Dialogue: 0,0:13:29.79,0:13:33.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}捕食者照亮自己是为了{\r}
+Dialogue: 0,0:13:33.11,0:13:35.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}吸引好奇的猎物{\r}
+Dialogue: 0,0:13:47.55,0:13:49.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是尖牙鱼{\r}
+Dialogue: 0,0:13:51.67,0:13:55.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它牙齿与自身体积的比例是所有鱼类中最大的{\r}
+Dialogue: 0,0:13:58.15,0:14:02.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}尖牙鱼从头到尾都布满了压力传感器官 能够探测到{\r}
+Dialogue: 0,0:14:02.27,0:14:04.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}周围水里的任何动静{\r}
+Dialogue: 0,0:14:11.43,0:14:14.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它是午夜区最贪婪的鱼类{\r}
+Dialogue: 0,0:14:16.99,0:14:19.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但猎物会利用光亮来干扰对方{\r}
+Dialogue: 0,0:14:24.83,0:14:27.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些发光的墨液被作为诱饵{\r}
+Dialogue: 0,0:14:36.75,0:14:38.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在这漆黑的深海里{\r}
+Dialogue: 0,0:14:41.03,0:14:44.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}生物的寿命是不受普通的时间规则限制的{\r}
+Dialogue: 0,0:14:51.27,0:14:54.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}管水母的寿命几乎是永恒的{\r}
+Dialogue: 0,0:14:54.83,0:14:57.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们总是不断地自我克隆{\r}
+Dialogue: 0,0:14:58.67,0:15:02.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}有些管水母的寿命比蓝鲸还要长{\r}
+Dialogue: 0,0:15:26.39,0:15:28.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海里会下雪{\r}
+Dialogue: 0,0:15:37.51,0:15:40.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}成团的有机物残体{\r}
+Dialogue: 0,0:15:40.51,0:15:42.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不断从上方缓缓飘下{\r}
+Dialogue: 0,0:15:50.07,0:15:53.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是食物 各式各样的{\r}
+Dialogue: 0,0:15:53.47,0:15:56.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}滤食性动物都要靠这个存活{\r}
+Dialogue: 0,0:15:59.59,0:16:00.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}水母{\r}
+Dialogue: 0,0:16:09.23,0:16:11.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}娇美的海参{\r}
+Dialogue: 0,0:16:30.83,0:16:34.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}滤食性动物没吃到的1％海洋雪{\r}
+Dialogue: 0,0:16:34.19,0:16:36.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}最终都会落到海床上{\r}
+Dialogue: 0,0:17:04.51,0:17:08.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在长达数百万年的时间里 这些海洋雪形成了{\r}
+Dialogue: 0,0:17:08.39,0:17:10.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一层厚达一千六百米的淤泥{\r}
+Dialogue: 0,0:17:14.95,0:17:17.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这片平地的面积{\r}
+Dialogue: 0,0:17:17.27,0:17:19.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}相当于地球一半的表面积{\r}
+Dialogue: 0,0:17:45.55,0:17:49.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}乍看之下 这幽深的海床似乎毫无生命迹象{\r}
+Dialogue: 0,0:17:51.91,0:17:56.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是泥堆里 却住着一群特别的生物{\r}
+Dialogue: 0,0:17:58.99,0:18:00.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}单棘躄鱼{\r}
+Dialogue: 0,0:18:03.27,0:18:07.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它长着巨大的嘴巴 而且伏击猎物时{\r}
+Dialogue: 0,0:18:08.99,0:18:10.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}极有耐心{\r}
+Dialogue: 0,0:18:21.63,0:18:24.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这只鱼在这里生活了很久{\r}
+Dialogue: 0,0:18:24.71,0:18:26.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它的鳍如今{\r}
+Dialogue: 0,0:18:26.47,0:18:28.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}已经变成了更有用的器官{\r}
+Dialogue: 0,0:18:34.27,0:18:36.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}也就是脚{\r}
+Dialogue: 0,0:18:40.63,0:18:43.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这样它就能在海床上拖着脚步行走{\r}
+Dialogue: 0,0:19:03.91,0:19:05.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}烙饼章鱼{\r}
+Dialogue: 0,0:19:11.11,0:19:15.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}贴着泥土表面游动时 它会在泥土里细细地{\r}
+Dialogue: 0,0:19:15.23,0:19:17.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}寻觅和筛选蠕虫{\r}
+Dialogue: 0,0:19:21.11,0:19:24.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过一遇上危险 它就会飞快逃走{\r}
+Dialogue: 0,0:19:43.55,0:19:46.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}六鳃鲨的体积与大白鲨差不多大{\r}
+Dialogue: 0,0:19:48.23,0:19:51.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它可能整整一年都没吃过东西了{\r}
+Dialogue: 0,0:19:58.07,0:20:00.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}六鳃鲨在平坦的泥地上巡游时{\r}
+Dialogue: 0,0:20:00.03,0:20:02.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}只会消耗极少的能量{\r}
+Dialogue: 0,0:20:16.47,0:20:19.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在上方高处 一头巨大的{\r}
+Dialogue: 0,0:20:19.27,0:20:22.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}抹香鲸的尸体正在慢慢腐烂{\r}
+Dialogue: 0,0:20:28.75,0:20:31.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这对深海动物而言 倒是意想不到的好运{\r}
+Dialogue: 0,0:20:33.03,0:20:36.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们有了食物 而且还是重达3O吨的食物{\r}
+Dialogue: 0,0:20:49.35,0:20:52.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}抹香鲸最终还是落到了海床上{\r}
+Dialogue: 0,0:20:54.91,0:20:57.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}其他动物很快就发现它的存在{\r}
+Dialogue: 0,0:21:07.19,0:21:12.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}六鳃鲨的嗅觉极其敏锐{\r}
+Dialogue: 0,0:21:16.63,0:21:20.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}抹香鲸才落下来25分钟{\r}
+Dialogue: 0,0:21:22.63,0:21:24.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一头六鳃鲨就找到它了{\r}
+Dialogue: 0,0:21:45.75,0:21:48.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它每咬一口就会有更多血液流入水中{\r}
+Dialogue: 0,0:22:30.39,0:22:33.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}食物在这里的消息迅速就传开了{\r}
+Dialogue: 0,0:22:41.87,0:22:45.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}又来了两头贪婪的六鳃鲨{\r}
+Dialogue: 0,0:22:53.95,0:22:55.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在12小时之内{\r}
+Dialogue: 0,0:22:55.55,0:22:57.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就有七头巨大的鲨鱼{\r}
+Dialogue: 0,0:22:57.47,0:23:01.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}赶来争夺食物 它们一口口撕咬着抹香鲸{\r}
+Dialogue: 0,0:23:13.67,0:23:16.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}谁也不打算退让{\r}
+Dialogue: 0,0:23:59.43,0:24:03.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}24小时后 抹香鲸三分之一的尸体已经没了{\r}
+Dialogue: 0,0:24:35.19,0:24:39.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}最先到的六鳃鲨拼命大嚼尸体 直到吃饱了才罢休{\r}
+Dialogue: 0,0:24:44.23,0:24:49.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这一顿饭也许可以让它维持一整年{\r}
+Dialogue: 0,0:24:55.79,0:24:58.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}现在负责善后的动物来了{\r}
+Dialogue: 0,0:25:02.03,0:25:05.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}蜘蛛蟹用后腿携着珊瑚{\r}
+Dialogue: 0,0:25:05.71,0:25:08.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}很可能是为了起到临时防护作用{\r}
+Dialogue: 0,0:25:16.87,0:25:18.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里也有石蟹{\r}
+Dialogue: 0,0:25:21.51,0:25:25.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们可能是和鲨鱼同时发现尸体的{\r}
+Dialogue: 0,0:25:27.15,0:25:28.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}只不过它们的移动速度比不上鲨鱼{\r}
+Dialogue: 0,0:25:33.67,0:25:35.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}之后的一个月内 30多种食腐动物{\r}
+Dialogue: 0,0:25:35.95,0:25:38.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}都赶来消灭最后的{\r}
+Dialogue: 0,0:25:38.55,0:25:40.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}尸体碎块{\r}
+Dialogue: 0,0:25:42.75,0:25:46.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是食腐动物却把自己的捕食者引来了{\r}
+Dialogue: 0,0:25:53.07,0:25:56.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}习惯直立游动的叉尾带鱼{\r}
+Dialogue: 0,0:25:56.27,0:25:58.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}正在逐个地对准它们{\r}
+Dialogue: 0,0:26:19.35,0:26:23.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}抹香鲸的骸骨在四分五裂之际 牙齿也被其他动物{\r}
+Dialogue: 0,0:26:23.19,0:26:24.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}拔了出来{\r}
+Dialogue: 0,0:26:27.95,0:26:32.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}四个月后 抹香鲸的尸骸仅剩下一些骨头{\r}
+Dialogue: 0,0:26:40.27,0:26:42.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是就算这些骨头{\r}
+Dialogue: 0,0:26:46.19,0:26:47.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}也是某些生物的食物{\r}
+Dialogue: 0,0:26:54.47,0:26:56.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}僵尸蠕虫{\r}
+Dialogue: 0,0:27:00.07,0:27:03.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们往骨头里注入酸液 形成通道{\r}
+Dialogue: 0,0:27:04.51,0:27:08.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这样它们就能够摄取骨头里尚存的少量脂肪{\r}
+Dialogue: 0,0:27:10.79,0:27:13.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这或许要花费数十年的时间{\r}
+Dialogue: 0,0:27:13.15,0:27:16.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是残余的骨头最终会化为碎末{\r}
+Dialogue: 0,0:27:16.31,0:27:18.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}整整3O吨的尸体{\r}
+Dialogue: 0,0:27:18.79,0:27:20.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}将被其他动物回收利用{\r}
+Dialogue: 0,0:27:28.03,0:27:31.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}落在海床上的鲸鱼{\r}
+Dialogue: 0,0:27:31.03,0:27:33.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}可谓是这荒芜地里的短暂绿洲{\r}
+Dialogue: 0,0:27:36.63,0:27:39.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过这里也有长久的绿洲{\r}
+Dialogue: 0,0:27:53.27,0:27:55.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}泥地里突出的石头{\r}
+Dialogue: 0,0:27:55.91,0:27:58.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}成了深海珊瑚的安全归宿{\r}
+Dialogue: 0,0:28:17.31,0:28:20.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}水深达到五千六百米左右时{\r}
+Dialogue: 0,0:28:20.83,0:28:24.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}珊瑚的种类比热带浅水暗礁处的{\r}
+Dialogue: 0,0:28:24.03,0:28:26.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}更为丰富{\r}
+Dialogue: 0,0:28:34.99,0:28:37.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海里没有阳光{\r}
+Dialogue: 0,0:28:37.19,0:28:39.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们只能从水流中摄取漂来的食物{\r}
+Dialogue: 0,0:28:43.75,0:28:48.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些珊瑚每年只能长大一点点{\r}
+Dialogue: 0,0:28:54.11,0:28:57.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过有些珊瑚的寿命却长达四千年{\r}
+Dialogue: 0,0:29:04.47,0:29:07.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}和浅水区的珊瑚一样{\r}
+Dialogue: 0,0:29:07.83,0:29:10.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们也为各类生物提供家园{\r}
+Dialogue: 0,0:29:36.31,0:29:40.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在珊瑚群中生长的是一种非常美丽的海绵{\r}
+Dialogue: 0,0:29:44.59,0:29:47.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是阿氏偕老同穴海绵{\r}
+Dialogue: 0,0:29:55.59,0:29:57.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些海绵身上住着寄宿者{\r}
+Dialogue: 0,0:29:58.67,0:30:00.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}小虾{\r}
+Dialogue: 0,0:30:08.31,0:30:10.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}礁脉上有很多捕食性动物{\r}
+Dialogue: 0,0:30:10.79,0:30:12.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}所以小虾很幸运{\r}
+Dialogue: 0,0:30:17.23,0:30:20.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}公虾和母虾还是幼体时 就被水流卷进了{\r}
+Dialogue: 0,0:30:20.75,0:30:22.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}海绵中{\r}
+Dialogue: 0,0:30:22.59,0:30:24.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}卷入其中的还有海绵赖以生存的{\r}
+Dialogue: 0,0:30:24.67,0:30:26.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}微小颗粒食物{\r}
+Dialogue: 0,0:30:31.23,0:30:34.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们找到了彼此 此后就在这里长相厮守{\r}
+Dialogue: 0,0:30:49.87,0:30:51.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}现在 它们发育成熟了{\r}
+Dialogue: 0,0:30:51.71,0:30:54.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}母虾体内怀有虾卵{\r}
+Dialogue: 0,0:31:07.31,0:31:11.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}虾卵孵出后 幼虾就会冲出海绵壁 游进水中{\r}
+Dialogue: 0,0:31:17.63,0:31:20.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过原先的小虾永远不会离开{\r}
+Dialogue: 0,0:31:21.43,0:31:22.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们无法离开{\r}
+Dialogue: 0,0:31:29.19,0:31:32.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们现在已经长大了 无法从当初进来的原路出去{\r}
+Dialogue: 0,0:31:32.59,0:31:36.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}毫无疑问 这些小虾如果是在毫无防护的礁脉上四处游荡{\r}
+Dialogue: 0,0:31:36.43,0:31:40.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们就无法活得这么长久{\r}
+Dialogue: 0,0:31:53.11,0:31:57.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过海绵这种极其简单的动物{\r}
+Dialogue: 0,0:31:57.59,0:32:01.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}是如何造出这么复杂的结构{\r}
+Dialogue: 0,0:32:01.11,0:32:03.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}保护小虾的{\r}
+Dialogue: 0,0:32:04.71,0:32:06.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这既是个谜团{\r}
+Dialogue: 0,0:32:06.95,0:32:09.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}当然也是个奇迹{\r}
+Dialogue: 0,0:32:26.03,0:32:30.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过它们这永恒的世界如今正在逐渐毁灭{\r}
+Dialogue: 0,0:32:38.91,0:32:43.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}由于人类的过度捕捞行为 海洋表层水里的鱼类数量骤然减少{\r}
+Dialogue: 0,0:32:43.19,0:32:46.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}拖网渔船开始大量捕捞深海处的鱼类{\r}
+Dialogue: 0,0:32:50.27,0:32:52.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在这里生长了数千的{\r}
+Dialogue: 0,0:32:52.99,0:32:55.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}无数礁脉{\r}
+Dialogue: 0,0:32:55.39,0:32:57.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}现在被彻底毁坏了{\r}
+Dialogue: 0,0:33:27.07,0:33:31.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}久而久之海床上的有机物也会逐渐腐烂{\r}
+Dialogue: 0,0:33:32.59,0:33:34.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}并产生甲烷气体{\r}
+Dialogue: 0,0:34:35.59,0:34:37.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在墨西哥湾{\r}
+Dialogue: 0,0:34:37.55,0:34:41.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些喷发物还会释放出一种很咸的液体{\r}
+Dialogue: 0,0:34:49.43,0:34:51.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}盐卤水{\r}
+Dialogue: 0,0:35:01.95,0:35:05.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}盐卤水比海水重五倍{\r}
+Dialogue: 0,0:35:05.07,0:35:08.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们会积聚在海床上的大水池中{\r}
+Dialogue: 0,0:35:14.19,0:35:16.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们很难明白这一景象意味着什么{\r}
+Dialogue: 0,0:35:23.99,0:35:28.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一池浓盐水 在海洋底部{\r}
+Dialogue: 0,0:35:28.99,0:35:31.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深达15米{\r}
+Dialogue: 0,0:35:39.43,0:35:42.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}盐卤池的边缘地带 或许会让人感到更诧异{\r}
+Dialogue: 0,0:35:42.83,0:35:45.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里竟然聚集了大量生物{\r}
+Dialogue: 0,0:35:52.47,0:35:56.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}巨大的贻贝 能够生长一百多年{\r}
+Dialogue: 0,0:35:56.39,0:35:58.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些贻贝紧密地凑在一起{\r}
+Dialogue: 0,0:35:58.47,0:36:02.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}使得周围进食的小虾和铠甲虾相形见绌{\r}
+Dialogue: 0,0:36:30.99,0:36:34.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}通鳃鳗和食腐动物{\r}
+Dialogue: 0,0:36:34.03,0:36:38.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}来到盐卤池岸边觅食{\r}
+Dialogue: 0,0:36:46.83,0:36:49.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}有些动物甚至冒险游入盐卤水中{\r}
+Dialogue: 0,0:37:23.27,0:37:25.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}鳗鱼如果在盐卤水中待的时间太久{\r}
+Dialogue: 0,0:37:25.11,0:37:27.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就会出现中毒性休克症状{\r}
+Dialogue: 0,0:37:39.55,0:37:42.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它现在只想要游出水面{\r}
+Dialogue: 0,0:37:56.99,0:37:58.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它逃了出来{\r}
+Dialogue: 0,0:38:07.79,0:38:09.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}其他动物就没这么幸运了{\r}
+Dialogue: 0,0:38:16.87,0:38:19.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}盐卤水使得它们的尸体无法腐烂{\r}
+Dialogue: 0,0:38:20.99,0:38:23.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}几十年来 遇害的动物尸体{\r}
+Dialogue: 0,0:38:23.59,0:38:25.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就堆积在池岸边{\r}
+Dialogue: 0,0:38:45.99,0:38:49.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过深海中还有更危险的地方{\r}
+Dialogue: 0,0:38:57.03,0:39:00.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在某些地带 巨大的裂缝在海床上{\r}
+Dialogue: 0,0:39:00.99,0:39:03.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}蔓延好几千米{\r}
+Dialogue: 0,0:39:17.99,0:39:21.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}峡谷直抵地心{\r}
+Dialogue: 0,0:39:29.19,0:39:34.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}测量船的扫描图让我们能够让我们以图像的方式{\r}
+Dialogue: 0,0:39:34.19,0:39:37.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}重构这巨大的海底地貌{\r}
+Dialogue: 0,0:39:45.07,0:39:48.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}其中最深的是太平洋的马里亚纳海沟{\r}
+Dialogue: 0,0:39:48.23,0:39:51.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这条海沟深达11千米左右{\r}
+Dialogue: 0,0:39:57.03,0:40:00.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}珠穆朗玛峰置于其中也会被淹没{\r}
+Dialogue: 0,0:40:15.59,0:40:18.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}人们曾经一度以为{\r}
+Dialogue: 0,0:40:18.91,0:40:22.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}任何生物都无法在这些深沟底下存活{\r}
+Dialogue: 0,0:40:30.07,0:40:32.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是就连这里也有生物存活{\r}
+Dialogue: 0,0:40:39.47,0:40:41.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是一种海蛞蝓{\r}
+Dialogue: 0,0:40:48.71,0:40:50.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是所谓的海猪{\r}
+Dialogue: 0,0:40:52.83,0:40:57.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们和其他简单的生物 仅靠漂降下来的微量食物{\r}
+Dialogue: 0,0:40:57.03,0:41:00.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就能够在这里存活{\r}
+Dialogue: 0,0:41:03.95,0:41:05.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}和这只海星一样{\r}
+Dialogue: 0,0:41:05.67,0:41:09.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们能够承受的压力 相当于50架大型喷气式客机{\r}
+Dialogue: 0,0:41:09.63,0:41:11.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}堆积在它们身体上方{\r}
+Dialogue: 0,0:41:33.03,0:41:35.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}远程摄像探测器{\r}
+Dialogue: 0,0:41:35.39,0:41:38.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}发现了一种非同寻常的生物{\r}
+Dialogue: 0,0:41:45.59,0:41:48.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}空灵狮子鱼{\r}
+Dialogue: 0,0:41:52.47,0:41:54.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}空灵狮子鱼生活在水下八千米处{\r}
+Dialogue: 0,0:41:54.63,0:41:58.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}目前人们尚未发现其他鱼类能在这么深的地方存活{\r}
+Dialogue: 0,0:42:04.55,0:42:07.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}谁也没想到{\r}
+Dialogue: 0,0:42:07.35,0:42:10.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}像鱼这种复杂的动物{\r}
+Dialogue: 0,0:42:10.03,0:42:12.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}竟然能够经受住这么高的水压{\r}
+Dialogue: 0,0:42:24.23,0:42:27.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}从海里最深处到黄昏区的最高位置{\r}
+Dialogue: 0,0:42:27.63,0:42:32.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海中似乎没有一个地方{\r}
+Dialogue: 0,0:42:32.15,0:42:34.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}没有生物的迹象{\r}
+Dialogue: 0,0:42:39.75,0:42:42.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}现在我们认为深海很可能是{\r}
+Dialogue: 0,0:42:42.63,0:42:44.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}地球生命的源头{\r}
+Dialogue: 0,0:42:58.31,0:43:01.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里是地球地质特征最为鲜明的地方{\r}
+Dialogue: 0,0:43:01.23,0:43:04.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}里头隐藏着一个世界{\r}
+Dialogue: 0,0:43:07.87,0:43:10.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在地球海洋的中心地带{\r}
+Dialogue: 0,0:43:10.75,0:43:15.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一座海底山脉跨越了整个地球{\r}
+Dialogue: 0,0:43:20.59,0:43:22.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}洋中脊{\r}
+Dialogue: 0,0:43:36.47,0:43:38.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}南太平洋的海床{\r}
+Dialogue: 0,0:43:38.27,0:43:40.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}正在变得四分五裂{\r}
+Dialogue: 0,0:44:53.35,0:44:56.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}地球上超过四分之三的火山活动{\r}
+Dialogue: 0,0:44:56.35,0:44:58.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}都发生在深海地带{\r}
+Dialogue: 0,0:45:05.51,0:45:09.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}几乎所有的火山活动发生在洋中脊{\r}
+Dialogue: 0,0:45:13.11,0:45:17.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是这猛烈的爆发活动却会带来丰富的矿物质{\r}
+Dialogue: 0,0:45:26.79,0:45:30.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}气体和滚烫的热水从裂缝中喷涌而出{\r}
+Dialogue: 0,0:45:39.67,0:45:43.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些喷射流疑结的矿物 形成了巨大的烟囱{\r}
+Dialogue: 0,0:45:45.59,0:45:47.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}也就是海底热泉{\r}
+Dialogue: 0,0:45:51.19,0:45:53.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这个海底热泉高达3O米{\r}
+Dialogue: 0,0:45:53.23,0:45:55.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}人们将其命名为“哥斯拉”{\r}
+Dialogue: 0,0:46:03.99,0:46:06.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}令人吃惊的是 我们现在知道{\r}
+Dialogue: 0,0:46:06.03,0:46:07.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里的生物数量{\r}
+Dialogue: 0,0:46:07.99,0:46:09.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}和热带雨林的生物数量不相上下{\r}
+Dialogue: 0,0:46:17.83,0:46:21.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在某些地带 五十万只动物{\r}
+Dialogue: 0,0:46:21.71,0:46:24.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就挤在一平方米的范围内{\r}
+Dialogue: 0,0:46:37.15,0:46:39.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们唯一的食物来源 就是细菌{\r}
+Dialogue: 0,0:46:43.23,0:46:47.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}此外它们也会以溶解在滚烫热流中的化学物质为食{\r}
+Dialogue: 0,0:46:54.95,0:47:00.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}螃蟹吃的是覆盖在蟹壳上的细菌层{\r}
+Dialogue: 0,0:47:13.91,0:47:16.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}其他动物其实是在体内{\r}
+Dialogue: 0,0:47:16.75,0:47:19.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}培养细菌{\r}
+Dialogue: 0,0:47:25.63,0:47:28.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}小虾是用口器携带这些细菌培养物{\r}
+Dialogue: 0,0:47:29.79,0:47:32.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过这种做法会带来很大的风险{\r}
+Dialogue: 0,0:47:36.99,0:47:40.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}为了给这些微生物提供养料{\r}
+Dialogue: 0,0:47:40.71,0:47:44.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}小虾必须要冲进热泉当中{\r}
+Dialogue: 0,0:47:46.19,0:47:48.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它们可能会被活活烫死{\r}
+Dialogue: 0,0:48:02.79,0:48:04.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}过去十年来{\r}
+Dialogue: 0,0:48:04.71,0:48:08.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}人们发现的海底热泉数量已经翻了一倍{\r}
+Dialogue: 0,0:48:16.23,0:48:19.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}每个海底热泉都有自己独特的特点和群落{\r}
+Dialogue: 0,0:48:26.95,0:48:30.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是其中最重要的或许是大西洋的海底热泉{\r}
+Dialogue: 0,0:48:32.47,0:48:34.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它被命名为“失落的城市”{\r}
+Dialogue: 0,0:48:39.43,0:48:42.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在这高达60米的塔状物内{\r}
+Dialogue: 0,0:48:42.19,0:48:45.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一件非常奇特的事正在发生{\r}
+Dialogue: 0,0:48:49.31,0:48:54.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在这种极端高温和高压的情形下 碳氢化合物{\r}
+Dialogue: 0,0:48:54.19,0:48:59.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}也就是所有生物最基本的组成分{\r}
+Dialogue: 0,0:48:59.19,0:49:02.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}也在同时生成{\r}
+Dialogue: 0,0:49:13.87,0:49:17.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}确实 很多科学家现在也认为{\r}
+Dialogue: 0,0:49:17.03,0:49:19.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}四十亿年前 地球上的生命{\r}
+Dialogue: 0,0:49:19.75,0:49:22.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}或许就是在{\r}
+Dialogue: 0,0:49:22.47,0:49:25.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这样的海底热泉周围产生的{\r}
+Dialogue: 0,0:49:44.27,0:49:47.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们现在知道{\r}
+Dialogue: 0,0:49:47.19,0:49:50.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}木星和土星的卫星上也有深海{\r}
+Dialogue: 0,0:49:57.03,0:49:59.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}如果生物{\r}
+Dialogue: 0,0:49:59.11,0:50:01.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}能在这种极端环境下存活{\r}
+Dialogue: 0,0:50:01.71,0:50:04.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}那它们可能也会在{\r}
+Dialogue: 0,0:50:04.07,0:50:06.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}其他极端环境下存活{\r}
+Dialogue: 0,0:50:20.87,0:50:27.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}幕后集锦{\r}
+Dialogue: 0,0:50:31.31,0:50:35.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}考察团队花了一千多个小时拍摄深海情况{\r}
+Dialogue: 0,0:50:35.51,0:50:40.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}大多素材取自海洋调查船阿卢西亚号和它的姐妹潜水器{\r}
+Dialogue: 0,0:50:40.31,0:50:42.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}深海漫游者号及天底号{\r}
+Dialogue: 0,0:50:47.79,0:50:50.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们最宏大的任务是前往南极{\r}
+Dialogue: 0,0:50:52.11,0:50:55.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们希望能拍摄到水下一千米的生物{\r}
+Dialogue: 0,0:50:55.11,0:50:56.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是前人从未尝试过的{\r}
+Dialogue: 0,0:51:02.47,0:51:05.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们真的不知道会在那下面发现什么{\r}
+Dialogue: 0,0:51:05.07,0:51:08.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们要去的地方是前人从未探索过的{\r}
+Dialogue: 0,0:51:08.43,0:51:11.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}那里可能什么也没有 可能有很多生物生活在那一带{\r}
+Dialogue: 0,0:51:11.11,0:51:13.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}也可能是介于两种情况之间 谁知道呢{\r}
+Dialogue: 0,0:51:18.07,0:51:20.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这是个巨大的技术挑战{\r}
+Dialogue: 0,0:51:27.43,0:51:32.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里的水温能达到零下1.8摄氏度{\r}
+Dialogue: 0,0:51:37.55,0:51:40.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}谁也不知道潜水器会如何应对{\r}
+Dialogue: 0,0:51:40.35,0:51:42.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这种极端的环境{\r}
+Dialogue: 0,0:51:47.91,0:51:51.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}好 我要把水吸干了  好{\r}
+Dialogue: 0,0:51:51.27,0:51:54.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}首次潜水半小时后{\r}
+Dialogue: 0,0:51:54.19,0:51:56.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一个小水坑就在潜水器底部形成了{\r}
+Dialogue: 0,0:52:00.43,0:52:02.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}奥尔拉确认了这是海水{\r}
+Dialogue: 0,0:52:04.03,0:52:08.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}对 收到 我正准备把这小水坑里的水吸干{\r}
+Dialogue: 0,0:52:08.03,0:52:10.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}看看一会儿还会不会进水{\r}
+Dialogue: 0,0:52:11.19,0:52:14.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们必须找到裂缝 迅速修好{\r}
+Dialogue: 0,0:52:14.95,0:52:17.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}你要把这个系在我的  对{\r}
+Dialogue: 0,0:52:17.47,0:52:21.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}如果你是在水下450米处的小潜水器里 水又在不断涌进{\r}
+Dialogue: 0,0:52:21.83,0:52:25.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}潜水器回到水面之前 你还要连续拍摄半小时{\r}
+Dialogue: 0,0:52:25.55,0:52:27.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这时你就会想{\r}
+Dialogue: 0,0:52:27.51,0:52:31.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们会被水淹没吗 如果会的话 那我们就走投无路了{\r}
+Dialogue: 0,0:52:32.35,0:52:33.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}没错{\r}
+Dialogue: 0,0:52:33.91,0:52:36.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}潜水器舵手都是训练有素的应急专家{\r}
+Dialogue: 0,0:52:39.71,0:52:42.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}- 递过来  - 好{\r}
+Dialogue: 0,0:52:42.35,0:52:45.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}拉尔夫很快找到了漏水处并修好了{\r}
+Dialogue: 0,0:52:47.27,0:52:50.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他在场时 这事情看上就像是极为稀松平常的{\r}
+Dialogue: 0,0:52:50.51,0:52:52.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就像 “我能搞定这事 你们不用担心”{\r}
+Dialogue: 0,0:52:52.91,0:52:54.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不到20分钟 他就搞定了{\r}
+Dialogue: 0,0:53:00.19,0:53:03.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}南极海峡的海水可能富饶{\r}
+Dialogue: 0,0:53:03.71,0:53:05.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过这其中也是暗藏危险的{\r}
+Dialogue: 0,0:53:06.91,0:53:11.11,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}南极海峡还有个不祥的名称 “冰山小巷”{\r}
+Dialogue: 0,0:53:12.79,0:53:15.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们得找个地方 让潜水艇安全地出入海底{\r}
+Dialogue: 0,0:53:15.71,0:53:18.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这地方不能出现冰山 不然冰山可能会撞到他们{\r}
+Dialogue: 0,0:53:18.43,0:53:21.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我感觉这有点像是《太空侵略者》这款游戏{\r}
+Dialogue: 0,0:53:23.23,0:53:25.75,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一立方米的冰块大约重达一吨{\r}
+Dialogue: 0,0:53:25.75,0:53:29.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}就好像船要把冰山的周边棱角给磨平 你得非常小心{\r}
+Dialogue: 0,0:53:29.55,0:53:31.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}它有点像是一个巨大的法贝热彩蛋{\r}
+Dialogue: 0,0:53:34.19,0:53:38.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}某次他们潜入海里后 就来到了一座冰山的底下{\r}
+Dialogue: 0,0:53:41.47,0:53:44.95,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}上面有的冰山和小型车差不多大{\r}
+Dialogue: 0,0:53:44.95,0:53:49.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}有的冰山又和海德公园差不多大{\r}
+Dialogue: 0,0:53:49.31,0:53:50.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}真的是非常巨大{\r}
+Dialogue: 0,0:53:52.35,0:53:54.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里的情况变化无常{\r}
+Dialogue: 0,0:53:56.15,0:53:58.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}船长用无线电与海里的潜水器联系{\r}
+Dialogue: 0,0:53:59.87,0:54:02.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我很担心冰山会砸到潜水器 我担心的就是这个{\r}
+Dialogue: 0,0:54:02.83,0:54:04.19,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}好 收到{\r}
+Dialogue: 0,0:54:05.75,0:54:08.35,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}现在有两座大冰山 从海峡延展下来{\r}
+Dialogue: 0,0:54:08.35,0:54:11.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}看起来 它们好像要撞到一起{\r}
+Dialogue: 0,0:54:14.75,0:54:19.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们显然听到了上方两座冰山碰撞的声音{\r}
+Dialogue: 0,0:54:22.39,0:54:23.87,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}是冰山{\r}
+Dialogue: 0,0:54:26.35,0:54:30.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}由于冰山在上方相撞 天气开始急剧变化{\r}
+Dialogue: 0,0:54:30.03,0:54:31.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们迅速召回了潜水器{\r}
+Dialogue: 0,0:54:39.31,0:54:41.43,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们的尝试又一次遭到了阻挠{\r}
+Dialogue: 0,0:54:52.51,0:54:56.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}两周后 总算是天时地利人和{\r}
+Dialogue: 0,0:54:57.39,0:55:02.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}考察团队又一次潜入了冰山小巷的千米水深处{\r}
+Dialogue: 0,0:55:06.03,0:55:09.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}下水一小时后 他们就要接近目标了{\r}
+Dialogue: 0,0:55:13.71,0:55:15.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}999米{\r}
+Dialogue: 0,0:55:19.07,0:55:20.79,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}指挥员{\r}
+Dialogue: 0,0:55:20.79,0:55:22.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这里是天底号{\r}
+Dialogue: 0,0:55:22.39,0:55:27.39,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我们在水深1000米处{\r}
+Dialogue: 0,0:55:27.39,0:55:29.51,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}收到 水深1000米处{\r}
+Dialogue: 0,0:55:29.51,0:55:31.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}指挥员结束通话  创下新纪录了{\r}
+Dialogue: 0,0:55:33.99,0:55:37.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}载人潜水器首次潜入南极洲水下1000米处{\r}
+Dialogue: 0,0:55:39.67,0:55:42.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在世界尽头的海底下{\r}
+Dialogue: 0,0:55:42.59,0:55:45.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}他们发现这里的生物数量非常惊人{\r}
+Dialogue: 0,0:55:51.31,0:55:54.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}不过同样令他们感到吃惊的是{\r}
+Dialogue: 0,0:55:54.27,0:55:56.67,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在水深一千米左右的地方{\r}
+Dialogue: 0,0:55:56.67,0:55:58.59,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}冰山依旧是一大隐患{\r}
+Dialogue: 0,0:56:00.59,0:56:03.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}冰山融化时石块就会从冰山上落下{\r}
+Dialogue: 0,0:56:03.47,0:56:06.47,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}一个石头正好就落到了潜水器前面{\r}
+Dialogue: 0,0:56:09.11,0:56:12.27,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}我觉得坐在潜水器里的人{\r}
+Dialogue: 0,0:56:12.27,0:56:15.71,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}很少会想到大石头会砸到潜水器上{\r}
+Dialogue: 0,0:56:17.11,0:56:19.15,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这不是常见的风险{\r}
+Dialogue: 0,0:56:19.15,0:56:20.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}如果是这块石头砸到潜水器{\r}
+Dialogue: 0,0:56:20.63,0:56:23.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}潜水器表面可能会留下一道刮痕{\r}
+Dialogue: 0,0:56:23.63,0:56:26.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是如果是10来吨 到20吨的石头砸到潜水器{\r}
+Dialogue: 0,0:56:26.99,0:56:28.63,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}那潜水器就会彻底给毁了{\r}
+Dialogue: 0,0:56:32.91,0:56:34.99,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}但是在之后的几次潜水中{\r}
+Dialogue: 0,0:56:34.99,0:56:38.03,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}考察团队发现这些落下的石头{\r}
+Dialogue: 0,0:56:38.03,0:56:40.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}让南极的深海海床变得更加富饶{\r}
+Dialogue: 0,0:56:41.99,0:56:45.55,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这些石头成了稳固的锚点 有助于生物繁殖生长{\r}
+Dialogue: 0,0:56:50.23,0:56:53.91,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}这也证明了要想充分体会深海里生物的丰富性和复杂性{\r}
+Dialogue: 0,0:56:53.91,0:56:58.23,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}唯一的方式就是亲自去看看{\r}
+Dialogue: 0,0:57:06.75,0:57:10.31,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}下期节目 我们将前往热闹的珊瑚礁{\r}
+Dialogue: 0,0:57:16.75,0:57:21.07,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}在这里 动物必须要竭尽全力{\r}
+Dialogue: 0,0:57:21.07,0:57:24.83,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese Medium\fs20\bord1\4a&H64&\2c&H000000&\b0}才能在这拥挤的城市里 战胜对手{\r}
+
