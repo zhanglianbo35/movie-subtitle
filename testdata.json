@@ -1,0 +1,64 @@
+{
+        chartName: "chart1",
+        categoriesData: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        seriesData: [
+          { chort: "chort1",
+            name: "group1",
+            data: [29.9, 71.5, 106.4, 129.2, 144.0, 176.0],
+			 abnormal: [0, 0, 0, 0, 0, 1]
+          },
+          { chort: "chort1",
+            name: "group2",
+            data: [144.0, 176.0, 135.6, 148.5, 216.4, 194.1],
+			abnormal: [0, 1, 0, 0, 0, 0, 0, 0]
+          }
+        ]
+      },
+      {
+        chartName: "chart2",
+        categoriesData: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        seriesData: [
+          { chort: "chort2",
+            name: "group1",
+            data: [7.0, 6.9, 9.5, 14.5, 18.2, 21.5],
+			abnormal: [0, 1, 0, 0, 0, 0, 0, 1]
+          },
+          { chort: "chort1",
+            name: "group2",
+            data: [21.5, 25.2, 26.5, 23.3, 18.3, 13.9],
+			abnormal: [0, 1, 0, 0, 1, 0, 0, 0]
+          }
+        ]
+      },
+	  {
+        chartName: "chart3",
+        categoriesData: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+        seriesData: [
+          { chort: "chort1",
+            name: "group1",
+            data: [29.9, 71.5, 106.4, 129.2, 144.0, 176.0],
+			abnormal: [0, 0, 0, 0, 1, 0, 0, 0]
+          },
+          { chort: "chort1",
+            name: "group2",
+            data: [144.0, 176.0, 135.6, 148.5, 216.4, 194.1],
+			abnormal: [0, 0, 0, 0, 1, 0, 1, 0]
+          }
+        ]
+      },
+      {
+        chartName: "chart4",
+        categoriesData: ["Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        seriesData: [
+          { chort: "chort2",
+            name: "group1",
+            data: [7.0, 6.9, 9.5, 14.5, 18.2, 21.5],
+			abnormal: [0, 0, 0, 0, 0, 0, 0, 0]
+          },
+          { chort: "chort2",
+            name: "group2",
+            data: [21.5, 25.2, 26.5, 23.3, 18.3, 13.9],
+			abnormal: [0, 0, 0, 0, 0, 0, 0, 0]
+          }
+        ]
+      } 
